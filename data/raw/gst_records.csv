@@ -1,0 +1,5 @@
+record_id,business_name,pan,gstin,address,city,state,pincode,phone,email
+GST-001,Acme Industries Pvt Ltd,AAACA1234B,27AAACA1234B1Z2,Plot 12 MIDC Andheri East,Mumbai,Maharashtra,400093,9876543210,ops@acme.in
+GST-002,Sunrise Logistics LLP,AAKFS9988R,29AAKFS9988R1Z5,44 Ring Road Peenya,Bengaluru,Karnataka,560058,9988776655,contact@sunrise.com
+GST-003,Shree Traders,ABCTS4455K,24ABCTS4455K1Z7,22 Market Yard,Surat,Gujarat,395003,9898989898,hello@shreetraders.in
+GST-004,Acme Industires Pvt. Ltd,AAACA1234B,27AAACA1234B1Z2,Plot-12 M I D C Andheri (E),Mumbai,Maharashtra,400093,9876543210,support@acme.in

@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Arial, sans-serif;
+  color: #e9f1ff;
+  background: #0f1420;
+}
+
+body {
+  margin: 0;
+}
+
+.page {
+  padding: 24px;
+}
+
+h1,
+h2 {
+  margin: 0 0 12px 0;
+}
+
+.cards {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  margin: 12px 0 24px;
+}
+
+.card {
+  background: #1a2336;
+  border: 1px solid #2c3c59;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.label {
+  margin: 0;
+  font-size: 12px;
+  color: #a9b6cc;
+}
+
+.value {
+  margin: 6px 0 0;
+  font-size: 24px;
+}
+
+.tableWrap {
+  overflow: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #1a2336;
+  margin-bottom: 24px;
+}
+
+th,
+td {
+  border: 1px solid #2c3c59;
+  padding: 8px;
+  text-align: left;
+}
+
+.anomalyList {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.graphWrap {
+  background: #1a2336;
+  border: 1px solid #2c3c59;
+  border-radius: 8px;
+  margin-bottom: 24px;
+  overflow: auto;
+}
+
+.graph {
+  width: 100%;
+  min-width: 760px;
+  height: 260px;
+}
+
+.error {
+  color: #ff8a8a;
+}

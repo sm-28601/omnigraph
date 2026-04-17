@@ -1,0 +1,130 @@
+OmniGraph: Unified Business Identity & Threat Resolution Network
+
+This document compiles the core prompts and discussions that shaped the OmniGraph
+project architecture, from the initial problem statement to the final MVP status.
+
+---
+
+1) Core Problem and Solution
+
+Problem:
+- Government departments (GST, Labour, Pollution, MCA, etc.) operate in data silos.
+- Same business appears with different IDs (GSTIN, PAN, license IDs, internal IDs).
+- Data is inconsistent, duplicated, and hard to cross-verify.
+- This creates blind spots for compliance, fraud, and policy decisions.
+
+Solution:
+- Build OmniGraph as an intelligent integration layer.
+- Do NOT force one universal ID.
+- Link existing identifiers into one unified business entity using entity resolution.
+- Use graph relationships to reveal hidden links and suspicious clusters.
+
+Key insight:
+- Bad approach: "Replace all systems with one ID."
+- Better approach: "Keep systems as-is, intelligently link identities."
+
+---
+
+2) Architecture and Tech Stack
+
+Flow:
+[Department Systems]
+-> [Ingestion Layer]
+-> [Cleaning/Standardization]
+-> [Entity Resolution Engine]
+-> [Business Identity Graph]
+-> [Unified Registry and Dashboard]
+
+Tech stack:
+- Backend/API: Node.js + Express
+- Data processing: Python (Pandas, scikit-learn style workflows)
+- Graph DB: Neo4j
+- Relational DB: PostgreSQL
+- Frontend: React + Vite
+
+Entity resolution tiers:
+- Tier 1: Deterministic exact matching (PAN/GSTIN)
+- Tier 2: Fuzzy/probabilistic matching (name/address similarity)
+- Tier 3: LLM-assisted fallback for ambiguous records
+
+---
+
+3) Proof This Problem Is Real
+
+Evidence style for pitch:
+- CAG audit findings repeatedly mention weak inter-department data sharing and
+  cross-verification gaps.
+- Frequent shell-company and fake-invoice scam coverage in Indian financial media.
+- MCA existence data and GST activity data are often not unified in practice.
+
+Pitch framing:
+"Fraudsters exploit disconnected departmental systems. OmniGraph links identity
+signals already present in government data to detect risks earlier."
+
+---
+
+4) MVP Features (Minimum Working Build)
+
+Data ingestion and normalization:
+- Multi-source CSV ingestion for GST, Labour, Pollution, MCA.
+- Standardization of names, addresses, and key fields.
+
+Entity resolution:
+- PAN-based deterministic matching.
+- Fuzzy matching for typo/variant records.
+- Optional LLM fallback hook for edge cases.
+
+Graph and risk intelligence:
+- Load unified entities and source records into Neo4j.
+- Build address-based and low-confidence risk queries.
+
+Unified dashboard:
+- Metrics cards (entities, records, anomalies, low-confidence count).
+- Resolved entities table.
+- Anomaly feed.
+- Baseline graph view.
+
+---
+
+5) Current Build Status (Implemented)
+
+Project structure:
+- backend/db
+- backend/etl
+- backend/resolution
+- backend/graph
+- backend/api
+- frontend
+- data/raw
+- data/processed
+- scripts
+- docs
+
+Implemented modules:
+- PostgreSQL schema
+- Mock data for 4 departments
+- ETL pipeline
+- Resolution engine (Tier1, Tier2, Tier3 hook)
+- Neo4j load and risk Cypher scripts
+- Express API endpoints
+- React dashboard UI
+- Docker Compose for Postgres + Neo4j
+- Startup and graph-load PowerShell scripts
+- Architecture and demo docs
+
+Status:
+- Baseline tracker completed to 20/20 tasks in project tracker.
+
+---
+
+6) Suggested Hackathon Polish
+
+High-impact improvements:
+- Make graph visualization more interactive and threat-focused.
+- Add explicit demo examples for Tier-3 LLM fallback.
+- Deploy cloud demo stack (Frontend + API + managed Neo4j).
+- Prepare concise pitch deck with "problem proof" slides.
+
+---
+
+End of compiled OmniGraph prompts and plan.

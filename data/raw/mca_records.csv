@@ -1,0 +1,4 @@
+record_id,legal_name,pan,company_cin,registered_address,city,state,pincode,director_name
+MCA-001,ACME INDUSTRIES PVT LTD,AAACA1234B,U28999MH2016PTC111111,Plot 12 MIDC Andheri East,Mumbai,Maharashtra,400093,Rohan Mehta
+MCA-002,Sunrise Logistics LLP,AAKFS9988R,AAB-9988,44 Ring Road Peenya,Bengaluru,Karnataka,560058,Neha Arora
+MCA-003,Shree Tradrs,ABCTS4455K,U51909GJ2017PTC222222,22 Market Yard,Surat,Gujarat,395003,Kunal Shah

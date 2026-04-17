@@ -1,0 +1,4 @@
+record_id,business_name,pan,shop_license_no,address,city,state,pincode,inspector_zone
+LAB-001,Acme Industries Private Limited,AAACA1234B,LAB-MH-44821,Plot 12 MIDC Andheri East,Mumbai,Maharashtra,400093,Zone-3
+LAB-002,Sunrise Logistics LLP,AAKFS9988R,LAB-KA-11029,44 Ring Rd Peenya,Bengaluru,Karnataka,560058,Zone-1
+LAB-003,Metro Fabrication Works,AAEFM6677N,LAB-GJ-88901,GIDC Estate Shed 9,Vadodara,Gujarat,390010,Zone-4

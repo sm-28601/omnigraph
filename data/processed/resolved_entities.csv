@@ -1,0 +1,5 @@
+entity_id,canonical_name,pan,city,state,pincode,source_system_count,resolution_quality
+ENT-0001,Acme Industries Pvt Ltd,AAACA1234B,Mumbai,Maharashtra,400093,4,1.0
+ENT-0002,Metro Fabrication Works,AAEFM6677N,Vadodara,Gujarat,390010,2,1.0
+ENT-0003,Sunrise Logistics LLP,AAKFS9988R,Bengaluru,Karnataka,560058,3,1.0
+ENT-0004,Shree Traders,ABCTS4455K,Surat,Gujarat,395003,3,1.0

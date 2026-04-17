@@ -1,0 +1,4 @@
+record_id,unit_name,pan,pollution_consent_id,address,city,state,pincode,consent_status
+POL-001,Acme Industries Pvt Ltd,AAACA1234B,POL-MH-7731,Plot 12 MIDC Andheri East,Mumbai,Maharashtra,400093,ACTIVE
+POL-002,Metro Fabrication Workz,AAEFM6677N,POL-GJ-9152,GIDC Estate Shed-9,Vadodara,Gujarat,390010,RENEWAL_DUE
+POL-003,Shree Traders,ABCTS4455K,POL-GJ-4151,22 Mkt Yard,Surat,Gujarat,395003,ACTIVE
