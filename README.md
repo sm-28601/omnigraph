@@ -50,6 +50,21 @@ npm install
 npm start
 ```
 
+API environment options:
+
+- Copy `.env.example` to `.env` and set values.
+- For auth-enabled mode, set `API_AUTH_ENABLED=true` and provide `API_KEYS` as comma-separated token/role pairs (viewer, analyst, admin).
+- `DATA_DIR` can override the runtime location for processed CSV files.
+- `API_DATA_SOURCE` supports `csv` (default) or `postgres`.
+- When using `postgres`, load processed outputs into Postgres before starting API.
+
+Load processed outputs into Postgres:
+
+```bash
+cd backend/api
+npm run load-postgres
+```
+
 5) Start frontend dashboard:
 
 ```bash
@@ -67,6 +82,32 @@ powershell -ExecutionPolicy Bypass -File .\scripts\run_all.ps1
 ```
 
 This command installs dependencies, regenerates processed outputs, starts PostgreSQL + Neo4j, loads graph scripts, and launches API + frontend.
+
+## API Auth and Metrics
+
+- `/health` remains unauthenticated.
+- `/metrics` returns Prometheus-style counters for request volume and duration.
+- `/api/*` endpoints support API key auth via either `Authorization: Bearer <token>` or `x-api-key: <token>` when auth is enabled.
+- Role policy:
+	- `viewer`: entities, metrics, anomalies
+	- `analyst`: source mapping + viewer endpoints
+	- `admin`: all analyst + viewer endpoints
+
+## API Integration Tests
+
+From `backend/api`:
+
+```bash
+npm test
+```
+
+The suite validates:
+
+- health endpoint behavior
+- pagination response contract
+- auth enforcement
+- role-based access rules
+- Prometheus metrics endpoint output
 
 ## Optional Kafka/Airflow stack
 

@@ -1,0 +1,2094 @@
+DeptID,EntityName,PAN,RegisteredAddress,Contact
+EPF-741094,Prime Enterprises Pvt Ltd,GLHEF8924L,"Gala No. 71, Shady Complex, Mumbai, MH",800782177
+EPF-890464,Metro Fabrication Limited,UTQFT0393K,"plot 397, hitec city, bengaluru, ka",9717194264
+EPF-445024,Om Corp Limited,PVHYV0177J,"plot 56, ph 1, electronic city, delhi, dl",9728248148
+EPF-103023,Tech Ventures LLP,SRGXP9675N,"plot 186, midc, ahmedabad, gj",9967906652
+EPF-150487,Shree Solutions Limited,QBNSG3605D,"plot 523, ph 1, electronic city, ahmedabad, gj",9226543919
+EPF-653001,Prime Traders LLP,GDDWL1581M,"plot 945, peenya, bengaluru, ka",9655134037
+EPF-603538,Balaji Ventures Limited,VCAZO5904T,"Plot 146, Peenya, Delhi, DL",9588701711
+EPF-837532,Pioneer Logistics Limited,AJYAL3406R,"Plot 607, Guindy, Chennai, TN",9242712302
+EPF-620452,Stellar Ventures LLP,UGZSQ5157M,"Plot 204, Guindy, Ahmedabad, GJ",9907368491
+EPF-828164,Dynamic Industrie sLimited,VQQCW1119R,"plot 718, hitec city, chennai, tn",9980738210
+EPF-568357,Global Traders Pvt Ltd,XJGKV6060P,"plot 390, ph 1, electronic city, bengaluru, ka",9653253499
+EPF-494393,Global Enterprises Pvt Ltd,UDWRP1360D,"Plot 138, MIDC, Hyderabad, TS",9793472071
+EPF-278312,Dynmaic Ventures Limited,LEHNJ5982E,"Plot 670, Peenya, Pune, MH",9429801451
+EPF-81943,Dynamic Logistics Pvt Ltd,CKWJG9709J,"plot 241, hitec city, delhi, dl",9789856974
+EPF-696633,Dynamic Solutions Pvt Ldt,OCJOA9785S,"plot 693, hitec city, bengaluru, ka",9106130089
+EPF-215322,Sunrise Ventures Limited,GFQOZ0202G,"plot 1, ph 1, electronic city, mumbai, mh",9243680464
+EPF-796977,Shree Ventures LLP,ESCKV2446O,"plot 883, gidc, ahmedabad, gj",9585198157
+EPF-142577,Apex Enterprsies Limited,KSLVO0417D,"gala no. 9, shady complex, hyderabad, ts",800721734
+EPF-145311,Dynamic Corp Pvt Ltd,TXXZM4608E,"plot 380, hitec city, chennai, tn",9741894871
+EPF-431591,Metro Ventures Pvt Ltd,VDKAM6055I,"plot 748, gidc, bengaluru, ka",9254520089
+EPF-237996,Tech Traders Pvt Ltd,TKPSM0981Z,"Plot 161, Hitec City, Delhi, DL",9558490056
+EPF-898242,Acme Enterprises Limited,ZPJLH5229G,"Plot 710, Peenya, Delhi, DL",9160803851
+EPF-799808,Dyanmic Corp Pvt Ltd,GEXWY3593S,"plot 665, guindy, hyderabad, ts",9109196697
+EPF-117107,Apex Industries LLP,CXTWL4523L,"Plot 915, Peenya, Chennai, TN",9973869994
+EPF-827245,Tech Enterrpises LLP,AETGQ0528J,"Plot 321, MIDC, Bengaluru, KA",9335329944
+EPF-570433,Balaji Solutoins Limited,ZNUSE9759A,"Plot 119, Peenya, Delhi, DL",9456762047
+EPF-985825,Sunrise Traders LLP,IJNHH4642I,"plot 701, midc, mumbai, mh",9681595456
+EPF-533670,Shree Fabricatoin Limited,APAYN2919V,"plot 575, okhla ind est, mumbai, mh",9803703706
+EPF-123792,Global Industries Limited,WZXMA7917I,"Plot 993, GIDC, Delhi, DL",9309208207
+EPF-584813,Setllar Traders Limited,DLCPH6369K,"gala no. 24, shady complex, hyderabad, ts",800430565
+EPF-768326,Acme Traders Limited,YZOEW5837D,"Plot 15, Peenya, Ahmedabad, GJ",9399610566
+EPF-546247,Om Fabrication Pvt Ltd,UGCBV5274A,"Plot 894, GIDC, Bengaluru, KA",9535091391
+EPF-392926,Sunrise Traders LLP,PHDCP4186K,"plot 270, gidc, delhi, dl",9383749553
+EPF-782217,Global Soluitons Limited,MVKZU3670J,"plot 225, midc, hyderabad, ts",9307519474
+EPF-329862,Metro Traders LPL,LZARM6344D,"Plot 356, Phase 1, Electronic City, Delhi, DL",9660230351
+EPF-423473,Dynamic Corp LPL,MPVFJ1649N,"Plot 857, Peenya, Hyderabad, TS",9795856174
+EPF-952268,Dynamic Ventures Pv tLtd,SRGIW2875L,"plot 791, midc, mumbai, mh",9800651555
+EPF-147127,Sunrise Solutions Limited,JDWHQ1864U,"Plot 794, GIDC, Mumbai, MH",9522828620
+EPF-423666,Metro Corp LLP,SMEBN9226X,"Plot 839, GIDC, Ahmedabad, GJ",9987940140
+EPF-433978,Apex Industries LLP,EGOXL2940A,"plot 269, gidc, mumbai, mh",9454838337
+EPF-39823,Balaji Ventures Limited,GVJFW2443A,"plot 373, peenya, delhi, dl",9241801903
+EPF-72886,Metro Fabrication Limited,DUKAY7574S,"plot 640, hitec city, mumbai, mh",9249884273
+EPF-12867,Pioneer Logistics Pvt Ltd,JFICF9920Z,"plot 348, peenya, chennai, tn",9537696699
+EPF-769480,Dynamic Fabrication LLP,JCNXK8767X,"plot 427, midc, hyderabad, ts",9314156247
+EPF-349060,Shree Technologies LLP,UGPGS8399Y,"Plot 901, Phase 1, Electronic City, Pune, MH",9378295849
+EPF-281550,Acme Industries LLP,WMQQB1487V,"Plot 660, Hitec City, Delhi, DL",9414577683
+EPF-585155,Shree Solutions Limited,SCBTS7372V,"plot 101, peenya, hyderabad, ts",9244221674
+EPF-179861,Shree Traders LLP,RAFTE9539P,"Plot 720, Okhla Ind Estate, Bengaluru, KA",9873096250
+EPF-764303,Stellar Fabrication Limited,TANRZ5248Q,"Plot 645, Guindy, Bengaluru, KA",9388877427
+EPF-232777,Global Enterprises LLP,KUPYB2465Y,"plot 985, gidc, chennai, tn",9332324787
+EPF-676564,Pioneer Fabrication Limited,FMHMU1185Q,"Plot 114, Okhla Ind Estate, Delhi, DL",9130821768
+EPF-906851,Pioneer oLgistics LLP,TOXVI9092P,"Plot 691, GIDC, Bengaluru, KA",9999693047
+EPF-615125,Global Fabricaiton Pvt Ltd,JOYVP2189R,"Plot 176, Hitec City, Mumbai, MH",9678481443
+EPF-776655,Shree Industries LLP,RBRFP8342C,"Plot 644, MIDC, Delhi, DL",9532288739
+EPF-373378,Balaji Technologeis Pvt Ltd,QJVXH7000A,"Plot 919, Hitec City, Pune, MH",9414243276
+EPF-150264,Metro Technologies Pvt Ltd,DNLXB9575B,"Plot 108, Guindy, Hyderabad, TS",9151234577
+EPF-601256,Prime Industreis Pvt Ltd,YJNJV8035U,"gala no. 10, shady complex, pune, mh",800416060
+EPF-783996,Tech Tradres Pvt Ltd,ILQRR2090L,"Plot 654, Hitec City, Pune, MH",9912966413
+EPF-695812,Acme Technologies LLP,RYZFY5610W,"Plot 246, MIDC, Chennai, TN",9432907269
+EPF-372909,Sunrise Corp LLP,JFJGY0370N,"plot 126, okhla ind est, pune, mh",9210169823
+EPF-661752,Stellar Ventrues LLP,CKZVI4083W,"Plot 768, Phase 1, Electronic City, Ahmedabad, GJ",9234407655
+EPF-110841,Sunrise Logistics iLmited,WLXQI0523R,"Plot 247, MIDC, Ahmedabad, GJ",9379343397
+EPF-74219,Prime Industries Liimted,TTSEB7730Q,"plot 958, okhla ind est, hyderabad, ts",9793024569
+EPF-570155,Metro Fabricatio nLimited,LYFON1331Q,"plot 255, hitec city, delhi, dl",9678236088
+EPF-632637,Om Enteprrises LLP,CQSQN3058O,"Plot 709, Peenya, Ahmedabad, GJ",9158292355
+EPF-96125,Balaji Logistics Limited,SJRVY2448J,"Plot 585, Okhla Ind Estate, Hyderabad, TS",9896590144
+EPF-150009,Om Technologies LLP,XYEZB7398Q,"plot 944, midc, ahmedabad, gj",9424060931
+EPF-663775,Sunrise Traedrs LLP,QXWKX1859A,"plot 183, ph 1, electronic city, hyderabad, ts",9103783856
+EPF-560077,Acme Enterprises Pvt tLd,SCSHQ4146X,"plot 830, guindy, pune, mh",9848732935
+EPF-635972,Glboal Solutions LLP,EIPKT3985Y,"plot 559, peenya, hyderabad, ts",9776704290
+EPF-387292,Tech Solutions LLP,VQBBJ3064H,"plot 203, hitec city, delhi, dl",9219134478
+EPF-64687,Tech IndustriesL imited,WNEQR0832D,"Plot 597, MIDC, Bengaluru, KA",9399719107
+EPF-470590,Acme Enterprises Pvt Ldt,NFDUW6839J,"Plot 901, Okhla Ind Estate, Pune, MH",9930584959
+EPF-707299,Global Ventures LLP,MDFAO7923Z,"plot 352, okhla ind est, chennai, tn",9686398844
+EPF-582238,Stellra Corp LLP,XCRKQ2510U,"Plot 712, MIDC, Hyderabad, TS",9903248597
+EPF-720324,Acme Enterprises Limited,YUTCU0769K,"Plot 187, Okhla Ind Estate, Chennai, TN",9569804016
+EPF-814862,Prime Technologies LLP,NKRKG5930Y,"plot 674, hitec city, mumbai, mh",9971940396
+EPF-907650,Metro Tecnhologies Limited,KXTRS3478K,"plot 337, hitec city, ahmedabad, gj",9384347408
+EPF-279335,Metro Logistics Limited,VFPCP1059Z,"plot 814, hitec city, mumbai, mh",9840957773
+EPF-752782,Apex Ventures Pv tLtd,MEJHB1964W,"plot 688, okhla ind est, bengaluru, ka",9412459402
+EPF-729767,Stellar Solutions Pvt Ltd,AHUYO9370G,"plot 947, ph 1, electronic city, chennai, tn",9180733638
+EPF-751678,Balaji Ventures Pvt Ldt,GYGGF3784V,"Plot 61, Hitec City, Pune, MH",9398058231
+EPF-492395,Stellar Industries Pvt Ltd,IHHUK1185R,"Plot 47, GIDC, Hyderabad, TS",9513442250
+EPF-880497,Prime Traders LLP,HUQHJ1894D,"plot 14, gidc, chennai, tn",9503065501
+EPF-496186,Stellar Corp LLP,HZOME8842A,"Plot 338, Peenya, Delhi, DL",9543530970
+EPF-582034,Pioneer Enterpriess Limited,HEXAQ8426R,"plot 80, gidc, delhi, dl",9941691063
+EPF-797735,Prime Enterprises Pvt Ltd,ZJKHT7834B,"plot 592, okhla ind est, delhi, dl",9389752880
+EPF-677342,Tech Fabrication LLP,RVGTE6015I,"Plot 274, GIDC, Mumbai, MH",9499279935
+EPF-444196,Tech Logistics iLmited,WGQWC5936L,"plot 369, guindy, ahmedabad, gj",9644855071
+EPF-335125,Pioneer Enterprises LLP,OUMYR9869K,"Plot 176, Okhla Ind Estate, Bengaluru, KA",9234879181
+EPF-531968,Prime Soluitons Pvt Ltd,CBZUY3036R,"plot 893, gidc, mumbai, mh",9688582893
+EPF-257558,Shree Traders Limited,MQVWC6153U,"plot 723, hitec city, pune, mh",9636762934
+EPF-632343,Sunrise Logistics Limited,SZYOD2571A,"plot 423, peenya, pune, mh",9109807249
+EPF-820153,Acme Industries Pvt Ltd,VPTBW3897Y,"plot 346, guindy, pune, mh",9570242548
+EPF-631637,Prime Technologies Limietd,OXIXF1357D,"Plot 808, Hitec City, Bengaluru, KA",9437774165
+EPF-203361,Sunris eLogistics LLP,WWJPA1727J,"Plot 862, Okhla Ind Estate, Mumbai, MH",9846579654
+EPF-474729,Balaji Enterprises LLP,KXWKD8905F,"plot 618, ph 1, electronic city, ahmedabad, gj",9847340194
+EPF-637273,Acme Industries Limited,TCQEI9386H,"plot 93, okhla ind est, chennai, tn",9226113106
+EPF-269424,Acme Fabricaiton LLP,NIIET9894E,"plot 923, peenya, ahmedabad, gj",9390253416
+EPF-773317,Acm eEnterprises Pvt Ltd,WSIFU7983R,"Plot 449, Hitec City, Mumbai, MH",9346075694
+EPF-89557,Om Tehcnologies LLP,HRDEE0160S,"plot 163, ph 1, electronic city, hyderabad, ts",9233158708
+EPF-157044,Sunrise Enterprises Pvt Ltd,ONEPM7937L,"Plot 898, MIDC, Hyderabad, TS",9540047587
+EPF-821833,Apex Ventures LLP,KCWJS4168Y,"Plot 571, MIDC, Bengaluru, KA",9515803809
+EPF-536910,Om Idnustries LLP,URGLN6537O,"plot 280, okhla ind est, hyderabad, ts",9490611039
+EPF-482668,Om Traders Pvt Ltd,ZOIQP8707J,"plot 466, okhla ind est, mumbai, mh",9231541513
+EPF-660486,Sunrise Industries Limited,BXVME0606R,"Plot 764, Hitec City, Bengaluru, KA",9977227875
+EPF-609686,Acme Ventures LLP,NWSPR3219P,"Plot 69, Peenya, Bengaluru, KA",9701474954
+EPF-537116,Sunrise Ventures Pvt Ltd,FPCBI8461U,"Plot 465, Peenya, Ahmedabad, GJ",9116342420
+EPF-613768,Dynamic Enterprises vPt Ltd,ZYYQV8342N,"plot 662, guindy, chennai, tn",9643249262
+EPF-106602,Balaji Industries Pvt Ltd,YVBGF8266Z,"plot 525, gidc, delhi, dl",9640539501
+EPF-874360,Shree Industires LLP,MSYUX4157U,"Plot 298, Okhla Ind Estate, Hyderabad, TS",9769876977
+EPF-880203,Apex Ventures Pvt Ldt,BEBJS0863H,"Plot 844, Peenya, Pune, MH",9257717811
+EPF-559010,Shree Ventures Pvt tLd,GHGHU2146K,"plot 783, gidc, bengaluru, ka",9883611973
+EPF-11095,Sunrise Industries LLP,BAOJX9618Z,"Gala No. 8, Shady Complex, Bengaluru, KA",800327006
+EPF-684364,Acme Traders Limited,GORHA9414Q,"Plot 253, Guindy, Chennai, TN",9736445874
+EPF-605138,Tech Industries LLP,KLZOQ6343N,"plot 598, hitec city, ahmedabad, gj",9839959546
+EPF-536196,Stellar Enterprise sLimited,UFJLI9887N,"Plot 944, Peenya, Chennai, TN",9701175905
+EPF-59645,Stellar Corp Pvt Ltd,KTRJC6264A,"plot 847, peenya, bengaluru, ka",9363158788
+EPF-978577,Acme Solutions LLP,NFYPQ0666S,"Plot 231, Guindy, Ahmedabad, GJ",9238433709
+EPF-845864,Sunrise Enterpirses LLP,FSKHD5031N,"plot 676, okhla ind est, bengaluru, ka",9881003696
+EPF-955625,Prime Industries Pvt Ltd,CHBQP2531S,"Gala No. 8, Shady Complex, Bengaluru, KA",800327006
+EPF-811083,Tech Fabrication Pvt Ltd,OARSD0719S,"Plot 498, MIDC, Chennai, TN",9272442211
+EPF-427453,Tech Solutions LLP,IDVPT7503P,"plot 23, midc, mumbai, mh",9580197556
+EPF-758600,Om Venture sPvt Ltd,WWSUO3139V,"plot 205, okhla ind est, pune, mh",9802874219
+EPF-443923,Tech Traders Pvt Ltd,FPQYX1561Z,"gala no. 99, shady complex, mumbai, mh",800339890
+EPF-869093,Metro Enterprises Limited,CDNNB1655T,"plot 420, gidc, hyderabad, ts",9488690400
+EPF-752710,Apex Trader sPvt Ltd,LEMIM6682E,"plot 398, hitec city, hyderabad, ts",9395968804
+EPF-447576,Global Cor pLimited,UNMBH6201B,"plot 30, hitec city, bengaluru, ka",9772294863
+EPF-607701,Om Logistics LLP,YPJYV8752C,"plot 124, midc, bengaluru, ka",9455739934
+EPF-149330,Global Fabrication Limited,VHYFL2127U,"plot 628, midc, delhi, dl",9928049054
+EPF-975884,Apex Inudstries Limited,FYREC7912P,"Plot 575, Hitec City, Bengaluru, KA",9157401347
+EPF-590722,Dynamci Ventures LLP,HPVBT6227X,"Plot 779, GIDC, Mumbai, MH",9131546157
+EPF-843740,Balaji Traders Pvt Ltd,QAEHC4109O,"Plot 78, Hitec City, Delhi, DL",9403342779
+EPF-42767,Prime Fabrication Pvt Ltd,GCTNE7746M,"plot 940, gidc, ahmedabad, gj",9367799209
+EPF-264620,Metro Logistics LLP,BPEOV9924W,"plot 216, ph 1, electronic city, bengaluru, ka",9323456488
+EPF-48205,Om Industreis LLP,OMEUK8464G,"Plot 968, Phase 1, Electronic City, Ahmedabad, GJ",9136905995
+EPF-690961,Sunrise Technologies LLP,NQKMB6083W,"Plot 231, Phase 1, Electronic City, Mumbai, MH",9232324943
+EPF-282651,Global Logistics LPL,UEUPT1002H,"plot 12, okhla ind est, bengaluru, ka",9988204111
+EPF-204785,Tech Logistics Pvt Ltd,BRQLD5741T,"Plot 333, Peenya, Hyderabad, TS",9334172684
+EPF-863343,Balaji Corp Pvt Ltd,KESGX2701B,"Plot 172, Peenya, Delhi, DL",9935924966
+EPF-880084,Acme Technologies Limtied,QFEOB5433Q,"Plot 977, Okhla Ind Estate, Delhi, DL",9870969093
+EPF-727761,Tceh Enterprises LLP,HZUTM1216J,"Plot 48, Okhla Ind Estate, Hyderabad, TS",9322581964
+EPF-727263,Sunrise Corp LLP,FXBJJ2004B,"plot 365, guindy, hyderabad, ts",9646810425
+EPF-647080,Global Logistics PvtL td,XQDKJ4771F,"Plot 51, Okhla Ind Estate, Delhi, DL",9541266856
+EPF-164449,Stellar Technologies Pvt Ltd,JJIVP9736Z,"Plot 369, Hitec City, Delhi, DL",9725198225
+EPF-598954,Sunrise Industries LLP,FIVYP3773D,"Plot 469, GIDC, Bengaluru, KA",9974262101
+EPF-582530,Shree Solutiosn Limited,LOBYO4641C,"Plot 9, Phase 1, Electronic City, Pune, MH",9347125080
+EPF-577221,Metro Technologies Pvt Ltd,LXYIS6958D,"plot 282, guindy, chennai, tn",9566192785
+EPF-651288,Stellar Technologies Pvt Ltd,LYZRV8003A,"Plot 627, Phase 1, Electronic City, Hyderabad, TS",9518611187
+EPF-230587,Sunrise Corp Limited,DHRGP6284X,"Plot 600, MIDC, Mumbai, MH",9475723679
+EPF-292606,Balaji Enterprises LPL,CNUCK0478Y,"Plot 338, Okhla Ind Estate, Hyderabad, TS",9850401099
+EPF-874795,Acme Enterprises LLP,NTYSH4091I,"Plot 231, GIDC, Mumbai, MH",9323120850
+EPF-192861,Dynamic Logistics Limited,NMIKW7336D,"plot 134, okhla ind est, chennai, tn",9363051526
+EPF-87653,Acme Technologies Pvt Ltd,ECBML3184Z,"plot 808, midc, delhi, dl",9346901267
+EPF-455389,Sunrise Corp LLP,KOFLO4540I,"plot 318, ph 1, electronic city, mumbai, mh",9726680758
+EPF-506080,Dynamic Solutions Limited,ESFML0495Z,"plot 408, okhla ind est, chennai, tn",9417019653
+EPF-110354,Acme Ventures Pvt Ltd,VKJFA7914G,"Plot 595, Okhla Ind Estate, Mumbai, MH",9304474424
+EPF-116210,Dynaimc Traders Limited,OJIHI1367B,"Plot 747, Peenya, Bengaluru, KA",9741770621
+EPF-731160,Prime Inudstries Limited,UTOIU9433H,"Plot 587, GIDC, Pune, MH",9860982162
+EPF-356881,Balaji Traders LLP,DCPOO3061B,"Plot 378, Hitec City, Ahmedabad, GJ",9912433600
+EPF-555072,Merto Traders Pvt Ltd,RRUOS0834A,"Plot 205, Phase 1, Electronic City, Hyderabad, TS",9601849364
+EPF-837241,Dynamic Enterprisse Limited,RSCAJ3680V,"Plot 896, Peenya, Delhi, DL",9656096360
+EPF-286893,Sunrise Tradesr Pvt Ltd,VURQB5965Y,"plot 45, peenya, hyderabad, ts",9976714970
+EPF-414147,Tech Fabrictaion Limited,UHWJI8866M,"plot 668, gidc, mumbai, mh",9339362990
+EPF-791759,Om Ventures Pv tLtd,FGXER7843C,"Plot 574, Phase 1, Electronic City, Delhi, DL",9727627823
+EPF-653213,Tech Corp LLP,JYHSY5296I,"Plot 220, Okhla Ind Estate, Mumbai, MH",9389207387
+EPF-119568,Shree Traders Limited,YYFJW2778O,"Gala No. 52, Shady Complex, Delhi, DL",800916320
+EPF-132360,Shree Solutions Limited,BNLNE7552K,"gala no. 100, shady complex, ahmedabad, gj",800116478
+EPF-68479,Tech Solutinos LLP,DBRGM0303R,"Gala No. 58, Shady Complex, Bengaluru, KA",800878568
+EPF-18847,Stellar Technologies iLmited,JPXWH9299J,"Plot 803, Phase 1, Electronic City, Pune, MH",9517422723
+EPF-737306,Stellar Solutions Pvt Ltd,UIWUH7109S,"plot 51, gidc, pune, mh",9155044421
+EPF-220511,Pioneer Ventures vPt Ltd,IPVCB9527B,"Plot 78, MIDC, Mumbai, MH",9556239052
+EPF-38097,Acme Inudstries Pvt Ltd,UUUCF1306M,"plot 340, midc, delhi, dl",9849591851
+EPF-541067,Sunries Ventures Limited,RGNBN5600C,"plot 815, ph 1, electronic city, delhi, dl",9383395286
+EPF-45608,Balaji Industries Pvt Ltd,VCCUS6058H,"plot 35, okhla ind est, ahmedabad, gj",9141538015
+EPF-922962,Om Traders Pvt tLd,CGPXO5167Q,"plot 309, guindy, mumbai, mh",9698007273
+EPF-774311,Apex Solutions LLP,HPWYL3873Q,"plot 763, ph 1, electronic city, bengaluru, ka",9937681159
+EPF-681667,Dynamic Technologies Pvt Ltd,DPCQR4932X,"plot 718, gidc, mumbai, mh",9439577955
+EPF-18141,Pioneer Corp LLP,LPLUN0548J,"plot 362, okhla ind est, bengaluru, ka",9695066812
+EPF-751608,Stellar Soultions Pvt Ltd,UYPDC8544V,"gala no. 48, shady complex, hyderabad, ts",800803353
+EPF-602721,Om Corp Limited,YSENL0580M,"plot 989, peenya, hyderabad, ts",9155126092
+EPF-489818,Sunrise Technologies LLP,UEMMW2869W,"plot 408, peenya, pune, mh",9589038920
+EPF-289861,Global Technologie sPvt Ltd,OQBEY5631I,"Plot 785, GIDC, Delhi, DL",9436160874
+EPF-681569,Apex Industries Pvt Ltd,SESME0416U,"Plot 28, GIDC, Mumbai, MH",9571095864
+EPF-771815,Amce Fabrication Pvt Ltd,QFQEG8563Z,"plot 80, okhla ind est, bengaluru, ka",9440105658
+EPF-660778,Stellar Technologies LLP,CQQXC4710O,"Plot 547, Guindy, Chennai, TN",9187777759
+EPF-270377,Pionere Industries LLP,LLOIO5514N,"Plot 479, MIDC, Hyderabad, TS",9964141020
+EPF-957841,Stellar Fabriaction LLP,HGIHS0091C,"Plot 513, Hitec City, Mumbai, MH",9269944646
+EPF-575407,Stellra Traders Limited,EDYYV2584Z,"plot 481, ph 1, electronic city, pune, mh",9975002963
+EPF-470218,Poineer Enterprises Limited,ZYEXZ1882L,"Plot 982, Phase 1, Electronic City, Hyderabad, TS",9888454525
+EPF-843202,Metro Corp Limietd,ZAXEB8617B,"Plot 106, MIDC, Delhi, DL",9705133363
+EPF-992359,Metro Indutsries Limited,RJCMD7533C,"plot 930, ph 1, electronic city, pune, mh",9910031872
+EPF-110832,Prime Industries Pvt Ltd,SRXHL1689O,"Plot 65, Hitec City, Chennai, TN",9472888722
+EPF-202728,Dynamic Industries Limitde,CAEVG0463L,"Plot 511, Phase 1, Electronic City, Delhi, DL",9738437880
+EPF-760639,Global Industries Pvt Ltd,YIJHH1196D,"plot 633, okhla ind est, bengaluru, ka",9915369454
+EPF-77926,Tech Corp Limited,PIFXY1783T,"plot 515, ph 1, electronic city, chennai, tn",9774807497
+EPF-777602,Acme Industires Limited,MFGJB3953L,"plot 310, okhla ind est, mumbai, mh",9787245344
+EPF-63454,Balaji Ventures Limited,BGTIA3853A,"plot 755, okhla ind est, chennai, tn",9208270388
+EPF-478216,Dynamic Corp LLP,LJGRW7046O,"Gala No. 6, Shady Complex, Pune, MH",800404319
+EPF-939404,Sunrise Corp Limited,EHPTO8694Q,"Plot 130, Phase 1, Electronic City, Bengaluru, KA",9106329155
+EPF-216995,Tech Technologies Liimted,ULVRT4464C,"Gala No. 58, Shady Complex, Bengaluru, KA",800878568
+EPF-537690,Dynamic Soluitons Limited,DRYSP0493G,"plot 83, peenya, delhi, dl",9674976407
+EPF-177494,Apex Enterprises Limited,JXOHC0594J,"Plot 649, MIDC, Mumbai, MH",9806723640
+EPF-255182,Sunrise Corp Limitde,JAMJF1951J,"plot 71, okhla ind est, delhi, dl",9239353134
+EPF-579127,Acme Corp Pvt Ltd,SFXJX5202H,"Plot 140, Guindy, Delhi, DL",9929702283
+EPF-775167,Stellar Technologies Limited,IHKJI2447F,"Plot 364, Peenya, Chennai, TN",9636868278
+EPF-50915,Om Corp LLP,EGMJI3437J,"Plot 905, Okhla Ind Estate, Ahmedabad, GJ",9905535343
+EPF-313359,Tech Solutoins Limited,FOOND7074D,"Plot 28, GIDC, Ahmedabad, GJ",9435595693
+EPF-577947,Pioneer Enterprises Pvt Ltd,OYRIL6242T,"Plot 832, GIDC, Delhi, DL",9782573981
+EPF-207948,Om Technologies LLP,USBIH4928E,"Plot 976, Phase 1, Electronic City, Bengaluru, KA",9295256634
+EPF-946075,Pioneer IndustriesP vt Ltd,YRBHT5763S,"Plot 628, MIDC, Mumbai, MH",9587618982
+EPF-503431,Shree Industries Limited,LWRPL3935F,"plot 468, hitec city, delhi, dl",9960440948
+EPF-647066,Shree IndustriesP vt Ltd,DJFFP3380M,"Plot 992, Guindy, Hyderabad, TS",9895713769
+EPF-649790,Global Logistics LLP,FREWP9391M,"plot 300, ph 1, electronic city, hyderabad, ts",9863096703
+EPF-419286,Acme Ventures LLP,CBPPR7316J,"Plot 933, Guindy, Mumbai, MH",9268631941
+EPF-851532,Metro Fabrication Limited,YRIFH4385E,"Plot 845, Hitec City, Pune, MH",9659026463
+EPF-579887,Shree Industries Pvt Ltd,OFPRL2144G,"Gala No. 6, Shady Complex, Pune, MH",800404319
+EPF-284021,Prime Industries LLP,LFHSP6791N,"Plot 114, Phase 1, Electronic City, Bengaluru, KA",9778725210
+EPF-205239,Pioneer Corp LLP,TAJZK8722K,"plot 4, midc, pune, mh",9544998960
+EPF-173531,Balaji oLgistics Pvt Ltd,YYHQP0387X,"Plot 854, Okhla Ind Estate, Chennai, TN",9812751485
+EPF-19533,Balaji Fabrication LLP,KFVLM8434I,"plot 470, midc, bengaluru, ka",9128056996
+EPF-19312,Balaji Ventures Pvt Ltd,ROWSI1123R,"plot 117, ph 1, electronic city, pune, mh",9225504534
+EPF-442293,Acme Enterprises Limited,SSBGT1099T,"Plot 815, MIDC, Mumbai, MH",9418349925
+EPF-34380,Acme Enterprises Limited,XVIPN1396F,"Plot 792, GIDC, Hyderabad, TS",9272022852
+EPF-163272,Global Ventures LLP,RRQAQ1652K,"plot 594, guindy, mumbai, mh",9318256578
+EPF-730839,Shree Enterprises Limited,VIPRF3387F,"plot 521, okhla ind est, ahmedabad, gj",9496135636
+EPF-121538,Apex Industries LLP,MKNNC7095K,"Plot 585, Phase 1, Electronic City, Mumbai, MH",9987930153
+EPF-300777,Stellar Traders Limtied,FMOEN9760B,"Plot 67, GIDC, Delhi, DL",9541817598
+EPF-592183,Shree Technologies Limited,UCHFM0744F,"plot 297, hitec city, ahmedabad, gj",9247959673
+EPF-13048,Tech Logitsics LLP,SXVNQ3293B,"Gala No. 61, Shady Complex, Pune, MH",800547700
+EPF-649221,Tech Traders Limited,GLTNX6939N,"Plot 121, GIDC, Ahmedabad, GJ",9667569164
+EPF-566991,Global Solutions LLP,IOBUL6059V,"Plot 28, MIDC, Hyderabad, TS",9832948125
+EPF-567216,Apex Technologies Pvt Ltd,KDLLI5719C,"plot 449, okhla ind est, mumbai, mh",9836633247
+EPF-369799,Stellar Traders LLP,ZHNWW3541P,"plot 430, ph 1, electronic city, mumbai, mh",9975556951
+EPF-477918,Acme Corp LLP,WANOL7640N,"plot 53, peenya, pune, mh",9132495820
+EPF-720578,Pioneer Corp LLP,YFPYY1583A,"plot 712, guindy, delhi, dl",9970929739
+EPF-743091,Acme Traders iLmited,ZMRHX9805J,"Plot 330, GIDC, Ahmedabad, GJ",9280855099
+EPF-458074,Metro Enterprises Pv tLtd,IDMNL7926A,"plot 531, okhla ind est, ahmedabad, gj",9595862961
+EPF-57436,Dynamic Enterprises LLP,POQCC8214E,"plot 877, gidc, hyderabad, ts",9430528738
+EPF-547898,MetroT raders Pvt Ltd,AVPXU7708Z,"plot 312, okhla ind est, mumbai, mh",9334858813
+EPF-188643,Metro Solutions Pvt Ltd,IUFNH7997J,"Plot 145, Phase 1, Electronic City, Chennai, TN",9395202413
+EPF-381924,Om Soltuions LLP,WCVFN0391V,"plot 856, hitec city, ahmedabad, gj",9334988898
+EPF-776195,Stellar Traders Limited,NLWJT6941S,"plot 501, peenya, mumbai, mh",9922598153
+EPF-514441,Shree Industries Pvt Ltd,WGKKI8782S,"Plot 351, Phase 1, Electronic City, Ahmedabad, GJ",9542143907
+EPF-416751,Shree Industries Pvt Ltd,KQRSY8767F,"Plot 517, Okhla Ind Estate, Chennai, TN",9248358569
+EPF-251761,Global Traders Limitde,ZYLRD4318C,"Plot 942, Phase 1, Electronic City, Pune, MH",9979637815
+EPF-737971,Baljai Logistics Limited,ZRAOI8624V,"Plot 878, Guindy, Mumbai, MH",9779070861
+EPF-626062,Tech Technologies Limited,HJGZP2342Q,"plot 524, peenya, mumbai, mh",9178549675
+EPF-12262,Dynamic Corp Pvt Ltd,GSBZM0770Z,"Plot 764, Hitec City, Pune, MH",9880571486
+EPF-331177,O mIndustries LLP,ETQBJ6357M,"plot 680, okhla ind est, mumbai, mh",9992687781
+EPF-841993,Acme Fabrication Pvt Ltd,KKBYP3087S,"plot 948, peenya, delhi, dl",9872308186
+EPF-965795,Shree EnterprisesP vt Ltd,PZQLW3784G,"plot 914, peenya, chennai, tn",9842960663
+EPF-880952,Snurise Ventures Pvt Ltd,BOMLR1514R,"plot 630, midc, pune, mh",9317664425
+EPF-698492,Stellra Fabrication Pvt Ltd,POTEO0493Y,"Plot 649, Guindy, Ahmedabad, GJ",9884887702
+EPF-534614,Sunrise Enetrprises Limited,PCFQE9479J,"plot 826, ph 1, electronic city, delhi, dl",9304953944
+EPF-976242,Om Fabrication Limited,JWIED3035Z,"plot 648, midc, pune, mh",9334221819
+EPF-475907,Dynamic Traders Limited,KRXDA2534A,"Plot 726, Hitec City, Mumbai, MH",9336349918
+EPF-216931,Global Logistics Pvt tLd,DGMCG2572Y,"plot 915, ph 1, electronic city, bengaluru, ka",9311265081
+EPF-43043,Balaji Technologies Pvt Ltd,XAFDS6006R,"Plot 366, Peenya, Ahmedabad, GJ",9885648532
+EPF-324140,Apex Traders Limited,HOSYI9323B,"Plot 228, GIDC, Pune, MH",9913777848
+EPF-563609,Tech Enterprises Limited,CHRWH0285J,"plot 879, guindy, bengaluru, ka",9725547198
+EPF-427525,Apex Corp Limited,SMCVW1108Z,"plot 256, hitec city, chennai, tn",9285264031
+EPF-512795,Sunrsie Enterprises LLP,SVLOD5536R,"plot 976, guindy, mumbai, mh",9285358455
+EPF-387821,Om Technoolgies Pvt Ltd,YFFJJ0076J,"Plot 570, Guindy, Delhi, DL",9778827786
+EPF-618196,Acme Solutions LLP,ARXEO2114M,"Plot 996, Hitec City, Delhi, DL",9129044986
+EPF-317234,Dynamic Industries Pvt Ltd,NDTXO2174E,"Plot 828, GIDC, Ahmedabad, GJ",9641503155
+EPF-886273,Global Logistics Pvt Ltd,CFLXF8634R,"Plot 627, Guindy, Ahmedabad, GJ",9721265785
+EPF-407931,Shree Solutions Pvt Ltd,DNWKG3349H,"plot 115, midc, hyderabad, ts",9147537988
+EPF-259448,Balaji Logistics Pvt Ltd,WMOJQ8273G,"plot 397, hitec city, pune, mh",9533758102
+EPF-345862,Tech Ventures Limited,UBMHM0182F,"plot 162, peenya, mumbai, mh",9202856271
+EPF-346993,Dynamic Ventures Limited,TPHRY4040M,"Plot 539, MIDC, Bengaluru, KA",9872805501
+EPF-581222,Stellar Industries LLP,ZDPNH1996O,"plot 330, gidc, hyderabad, ts",9827411704
+EPF-609761,Pioneer Corp Limited,ADQKR2299W,"plot 400, peenya, bengaluru, ka",9716834191
+EPF-659177,Prime Technologies Pvt Ltd,FUDYI8781P,"Plot 221, Peenya, Mumbai, MH",9748194754
+EPF-346053,Tech Technologies Limited,CMECO3761M,"plot 663, ph 1, electronic city, mumbai, mh",9382209248
+EPF-811261,Global Fabrication Limited,VPWAP4450C,"Plot 724, GIDC, Delhi, DL",9593170685
+EPF-689429,Dynamic Technologies LLP,NKXWT1682X,"Plot 778, Guindy, Delhi, DL",9638727914
+EPF-949251,Global EnterprisesP vt Ltd,BWEXA2710D,"plot 701, gidc, hyderabad, ts",9883363505
+EPF-886454,Metro Logistics LLP,JXSRL6219E,"plot 539, okhla ind est, delhi, dl",9618971589
+EPF-194511,Prime Industries Pvt Ldt,FMBZI2013O,"plot 708, hitec city, delhi, dl",9492594466
+EPF-415692,Dynamic Solutions Limtied,QIECN1228T,"Plot 931, Guindy, Delhi, DL",9996591464
+EPF-315079,Acme oCrp Pvt Ltd,IIFIZ6739V,"Plot 641, Guindy, Delhi, DL",9137265864
+EPF-241087,Pioneer Technologies LLP,PZSQH0039R,"plot 546, guindy, delhi, dl",9121142917
+EPF-624071,Om Enterprises LLP,JCEPQ1203N,"Plot 701, Phase 1, Electronic City, Ahmedabad, GJ",9737090809
+EPF-941343,Dynamic Industries LLP,DAYES9552K,"Plot 109, Okhla Ind Estate, Hyderabad, TS",9779163539
+EPF-784775,Dynamic Technologies LLP,DQDNE9618U,"plot 864, okhla ind est, hyderabad, ts",9976292640
+EPF-297511,Apex Enterprises Limited,YFGIC8644R,"Plot 707, Peenya, Hyderabad, TS",9819365281
+EPF-165530,Metro Enterprises LLP,OFMVE1003J,"plot 708, peenya, hyderabad, ts",9204018060
+EPF-306105,Om Ventures Lmiited,SPWPX4045B,"Plot 994, Guindy, Delhi, DL",9519972127
+EPF-691044,Dynamic Fabrication LLP,AWDIK6965W,"Plot 408, Phase 1, Electronic City, Delhi, DL",9167306728
+EPF-29779,Amce Corp LLP,HUJSV9194E,"Plot 581, MIDC, Chennai, TN",9873794263
+EPF-707889,Acme Venutres Limited,BACPW2408A,"Plot 1, MIDC, Pune, MH",9757891743
+EPF-588689,Stellar Traders Pvt Ltd,GURVU4179G,"Plot 571, MIDC, Ahmedabad, GJ",9475119572
+EPF-66646,Apex Crop Pvt Ltd,HGBUI9661Q,"Plot 659, Peenya, Hyderabad, TS",9645366057
+EPF-996108,Global Fabrication LLP,ESMHB4262V,"Plot 516, GIDC, Pune, MH",9797210620
+EPF-578048,Tech Technologies LLP,JUMYU7692A,"plot 632, peenya, ahmedabad, gj",9906374086
+EPF-791006,Prime Enterprises Limited,CKNCP0460J,"plot 719, gidc, pune, mh",9841373461
+EPF-201124,Om Fabrication LLP,IMFWW2437F,"Plot 885, Okhla Ind Estate, Delhi, DL",9194270117
+EPF-731883,Pioneer Corp LLP,PZOWR8903C,"Plot 912, Guindy, Pune, MH",9223029514
+EPF-973482,Pioneer Trdaers Limited,SUMSV4398F,"Plot 439, Okhla Ind Estate, Bengaluru, KA",9228685649
+EPF-576166,BalajiI ndustries LLP,HRXIE1154G,"plot 815, okhla ind est, hyderabad, ts",9261495859
+EPF-284785,Om Technologise LLP,CRAPR1872O,"Plot 844, Hitec City, Bengaluru, KA",9390501854
+EPF-730384,Pioneer Corp LLP,HIWDY8533C,"plot 386, ph 1, electronic city, hyderabad, ts",9497855800
+EPF-425752,Metro Technolgoies Pvt Ltd,UVDWE1928D,"plot 40, guindy, delhi, dl",9227331973
+EPF-657296,Prime Industries Pvt Ltd,TCTLL0887J,"Plot 945, Phase 1, Electronic City, Chennai, TN",9643350614
+EPF-335413,Balaji Indutsries Limited,JOXRS7112D,"Plot 202, MIDC, Hyderabad, TS",9903060388
+EPF-957705,Sunrise oSlutions Pvt Ltd,QMOXT8757F,"plot 855, ph 1, electronic city, ahmedabad, gj",9740910461
+EPF-955571,Dynamic Technologies Limited,MRDZT3580G,"plot 215, gidc, mumbai, mh",9509782724
+EPF-628764,Balaji Crop Limited,OIXJH1712H,"plot 911, okhla ind est, pune, mh",9598441681
+EPF-36559,Shree Industries LLP,WZSRV0502A,"Plot 467, Guindy, Mumbai, MH",9170916447
+EPF-134022,Acme Corp Pvt Ltd,ILUQH0429L,"plot 447, peenya, ahmedabad, gj",9239668346
+EPF-857905,Acme Copr Pvt Ltd,NQZIC1146U,"plot 705, okhla ind est, pune, mh",9915071667
+EPF-859163,Sunrise Industries Pvt Ltd,APQLX9044D,"plot 403, gidc, ahmedabad, gj",9726421312
+EPF-642392,Stellar Ventures LLP,BPDEK5626H,"plot 928, peenya, delhi, dl",9861273465
+EPF-83816,Stellar IndustriesP vt Ltd,QNSIU1245D,"Plot 822, Phase 1, Electronic City, Delhi, DL",9526698674
+EPF-282469,Acme Fabrication Limited,TQYMY6787Z,"Plot 252, Guindy, Ahmedabad, GJ",9646794898
+EPF-872767,Apex Enterprises Pvt Ltd,GUWQW9494Y,"Plot 874, Guindy, Hyderabad, TS",9261221741
+EPF-934967,Sunris eTraders Limited,WYCRQ6542F,"Plot 899, MIDC, Ahmedabad, GJ",9776442173
+EPF-779960,Pioneer oLgistics Pvt Ltd,PLWHF5053U,"Plot 185, Okhla Ind Estate, Delhi, DL",9490516078
+EPF-824458,Global Corp LLP,FFMGF1954T,"Plot 785, GIDC, Mumbai, MH",9534075063
+EPF-577584,Apex Solutions Pvt Ltd,HSHFY7565D,"plot 513, peenya, pune, mh",9935563772
+EPF-492565,Stellar Fabrication Pvt Ltd,LOSMP2825R,"plot 810, peenya, bengaluru, ka",9925636252
+EPF-696744,Sunrise Ventures Limited,UGMJO7516E,"Plot 121, Okhla Ind Estate, Mumbai, MH",9162856685
+EPF-786885,Om Traders Limited,CCEON2283T,"Plot 518, Phase 1, Electronic City, Chennai, TN",9128278545
+EPF-945973,Om Solutions Limited,QIEOV9935O,"plot 24, midc, mumbai, mh",9430740947
+EPF-638510,Sunrise Solutions Limited,OUTEE5505W,"plot 991, guindy, ahmedabad, gj",9611401840
+EPF-572157,Shree Fabrication Limited,QZDYA8629T,"Plot 259, GIDC, Pune, MH",9876375629
+EPF-972771,Pioneer Fabrication LLP,DFJPI1306O,"plot 309, okhla ind est, pune, mh",9341674410
+EPF-513005,Dynami cFabrication Limited,ADAKK2377G,"plot 341, guindy, pune, mh",9690301575
+EPF-819396,Acme Corp Limitde,QJDKJ7258A,"Plot 258, Hitec City, Chennai, TN",9188691951
+EPF-377429,Balaji Technologies Limited,RDDYW3301A,"plot 879, ph 1, electronic city, mumbai, mh",9119157309
+EPF-892788,Dynamic Industrie sLimited,BDIEY2195J,"Plot 719, Okhla Ind Estate, Bengaluru, KA",9117960917
+EPF-416023,Apex Enterprises Limited,WEDIQ5646W,"Plot 179, Hitec City, Pune, MH",9841777955
+EPF-340986,Stellar Ventures PvtL td,MUPOR8158Q,"plot 731, guindy, ahmedabad, gj",9512982429
+EPF-533334,Shree Logistics Limited,SXLHA3439C,"plot 362, midc, pune, mh",9927653757
+EPF-544087,Sunrise Fabrication Liimted,PGBRK3753N,"plot 779, okhla ind est, delhi, dl",9963681012
+EPF-672977,Pioneer Indutsries Limited,OJBSV0456X,"plot 553, ph 1, electronic city, bengaluru, ka",9602027138
+EPF-611539,Stellar Enterprises LLP,BBNEL4628O,"plot 413, midc, mumbai, mh",9815060993
+EPF-35549,Metro Technloogies LLP,ZATEL0093K,"Gala No. 32, Shady Complex, Ahmedabad, GJ",800962410
+EPF-907167,Dynamic TechnologiesL imited,DYHIG9452R,"plot 66, peenya, delhi, dl",9906030328
+EPF-425027,Metro Fabricaiton LLP,KMDHQ1298H,"Plot 430, Phase 1, Electronic City, Hyderabad, TS",9516252254
+EPF-221815,Shree Enterprises Pvt Ltd,CDRZL0521M,"Plot 79, Guindy, Bengaluru, KA",9244716355
+EPF-170413,Sunrise Traders Pvt Ltd,VOLDQ6816P,"Plot 704, GIDC, Bengaluru, KA",9477391949
+EPF-688605,Stellar Soluitons Pvt Ltd,OGVGQ2781S,"Plot 810, Guindy, Chennai, TN",9614503038
+EPF-48744,Global Crop LLP,TJCFT9811U,"Plot 554, Okhla Ind Estate, Pune, MH",9505363156
+EPF-694456,Balaji Technologies Limited,VVNBS9095Z,"plot 657, okhla ind est, bengaluru, ka",9983664748
+EPF-846558,Prime Vetnures Limited,JEWRQ0765O,"gala no. 69, shady complex, chennai, tn",800724423
+EPF-375037,Dynamci Corp Limited,UAYOQ6792Z,"plot 637, hitec city, bengaluru, ka",9277854304
+EPF-106369,Apex Solutions Limited,OARFH8504J,"Plot 105, GIDC, Mumbai, MH",9502145066
+EPF-310193,Setllar Logistics LLP,DBJEG2506Q,"Plot 198, Peenya, Bengaluru, KA",9269693560
+EPF-520492,Shree Solutions Limited,BEIMW6473H,"Plot 436, Guindy, Delhi, DL",9244656672
+EPF-372351,Apex Corp Pvt Ltd,XFRQP1151A,"plot 2, gidc, delhi, dl",9335024508
+EPF-16566,Pioneer Enterprises Pvt Ltd,CUKAC8592X,"plot 92, ph 1, electronic city, ahmedabad, gj",9655820970
+EPF-406382,Global Technloogies Limited,NMZJJ5827R,"Plot 898, Guindy, Ahmedabad, GJ",9108864663
+EPF-291539,Prime Logistics Pvt Ltd,MHCTG4048P,"plot 79, peenya, pune, mh",9536892918
+EPF-357989,Balaji Traders LLP,DKZQP3724K,"plot 119, hitec city, pune, mh",9738842400
+EPF-774603,Dynamic Solutions Pvt Ltd,GCWGU2235K,"plot 260, ph 1, electronic city, ahmedabad, gj",9524571506
+EPF-561291,Tech Technologies Pvt Ltd,FOPCD6735S,"Plot 115, Phase 1, Electronic City, Ahmedabad, GJ",9738900041
+EPF-588081,Pioneer Solutions Pvt Ltd,ZHDFU9211D,"Plot 706, MIDC, Pune, MH",9469972841
+EPF-594609,Global Enterprises Pv tLtd,DIPSE4701M,"Plot 334, MIDC, Pune, MH",9903948232
+EPF-773024,Stellar Ventures Limitde,NANCR2913U,"plot 306, peenya, chennai, tn",9703970509
+EPF-333689,Dynamic Corp Limtied,LUWID9938Z,"Plot 475, Hitec City, Hyderabad, TS",9581028707
+EPF-296804,Apex Logistics LLP,JQZPO5094B,"plot 315, peenya, delhi, dl",9642795015
+EPF-540594,Metro Trader sLimited,IBSVP0044D,"Plot 707, Guindy, Chennai, TN",9532072988
+EPF-959099,Dynamic Industries Pvt Ltd,MWBXZ0519K,"Plot 300, Okhla Ind Estate, Delhi, DL",9537075024
+EPF-888245,Om Solutions Pvt Ltd,BNBYE8020C,"Plot 813, MIDC, Hyderabad, TS",9442494569
+EPF-635811,Shree Fabrication Limited,JMKTE4027P,"Plot 836, GIDC, Ahmedabad, GJ",9526159575
+EPF-857741,Shree Etnerprises Limited,QGLZS3002B,"Plot 192, GIDC, Bengaluru, KA",9151456324
+EPF-231607,Stellar Logistics Limited,DGUKB3671X,"Plot 37, GIDC, Chennai, TN",9580487753
+EPF-171255,Sunrise Ventures LLP,IYPPB9039Y,"Plot 158, Phase 1, Electronic City, Pune, MH",9141101946
+EPF-789399,Balaji Traders LLP,KQZNV7651L,"plot 324, peenya, hyderabad, ts",9992157968
+EPF-552678,Stellar Logistics Pvt Ltd,NSYJO2953Q,"plot 960, ph 1, electronic city, ahmedabad, gj",9194618956
+EPF-488586,Stellar Solutions Pvt Ltd,FTKNW8907K,"plot 184, midc, hyderabad, ts",9548814101
+EPF-109937,Pioneer Fabrication Limited,ZWWOW6697X,"plot 423, peenya, mumbai, mh",9812824141
+EPF-816885,Prime Solutions Limited,BXTIU7994Q,"Plot 875, MIDC, Ahmedabad, GJ",9499594300
+EPF-230135,Stellar Traders LLP,NCJMC8671L,"plot 572, midc, pune, mh",9713277637
+EPF-868649,Global Ventures Limited,WOOOL8904O,"Plot 540, Okhla Ind Estate, Bengaluru, KA",9318473911
+EPF-615016,Om Solutions Pvt Ltd,BAMIW4825L,"plot 416, guindy, delhi, dl",9543204540
+EPF-366421,Stellar Tradres Pvt Ltd,KLWGN6517I,"Plot 773, Guindy, Mumbai, MH",9422361616
+EPF-136078,Prime Traders Limited,PICEE6662D,"plot 653, peenya, hyderabad, ts",9226865863
+EPF-558864,Prime Logistics Limited,BDXGC2056M,"plot 289, hitec city, mumbai, mh",9675842083
+EPF-181777,Prime Logistics Pvt Ltd,PICKI1226Y,"Plot 172, Guindy, Mumbai, MH",9452287473
+EPF-986606,Pioneer Industries Limited,WCUAW4728R,"Plot 184, Guindy, Pune, MH",9380342367
+EPF-362940,Dynamic Traders Pvt Ltd,ZXDTM2434P,"plot 6, guindy, chennai, tn",9369677810
+EPF-999728,Metro Enterpirses Pvt Ltd,VARLD9051H,"plot 774, okhla ind est, pune, mh",9676932554
+EPF-195627,Shree Corp Pvt Ltd,FASDC9362L,"Plot 893, Okhla Ind Estate, Chennai, TN",9320783152
+EPF-995702,Shree Logistics LLP,VJTOL8265L,"Plot 372, GIDC, Pune, MH",9839240707
+EPF-865113,Pioneer Etnerprises Limited,IPZCU1902X,"Plot 391, Okhla Ind Estate, Chennai, TN",9759003854
+EPF-105633,Om Enterprises Limited,DLLEN4623W,"Plot 164, Hitec City, Pune, MH",9565326500
+EPF-811183,Sunrise Enterprises LLP,IREKU4881V,"Plot 419, Okhla Ind Estate, Bengaluru, KA",9601234742
+EPF-303324,Balaji Fabrication Pv tLtd,CIJUZ9665P,"Plot 241, MIDC, Delhi, DL",9493823658
+EPF-523524,Apex Enterprises Limited,SSMFJ8647V,"Plot 373, Okhla Ind Estate, Chennai, TN",9662777846
+EPF-56655,Shere Logistics Limited,VLRRI2176G,"Plot 163, Peenya, Bengaluru, KA",9500645784
+EPF-398039,Acme Corp Pv tLtd,AAVPP8879D,"plot 878, peenya, bengaluru, ka",9568347601
+EPF-18214,Metro Vetnures LLP,NPTMW5248D,"Plot 37, Peenya, Hyderabad, TS",9799476527
+EPF-879928,Shree Ventures LLP,TNYSV3632W,"plot 117, ph 1, electronic city, ahmedabad, gj",9938775603
+EPF-556405,Metro Traders Pvt Ltd,TVOOG4386A,"plot 982, okhla ind est, hyderabad, ts",9103313452
+EPF-126652,Acme Industrie sLimited,TZEYX2925C,"plot 259, ph 1, electronic city, mumbai, mh",9105206372
+EPF-875597,Dynamic Corp Pvt Ltd,WLHMC0593I,"plot 935, midc, hyderabad, ts",9254021229
+EPF-513598,Acme Enterprises LLP,YIEZS3995M,"Plot 521, MIDC, Delhi, DL",9161184337
+EPF-101496,Global Enterpriess Limited,PSEIU4837G,"Plot 917, Phase 1, Electronic City, Chennai, TN",9538227241
+EPF-980547,Prime Fabrication LLP,NAUTG7004P,"plot 529, gidc, ahmedabad, gj",9299996776
+EPF-360605,Shree Traders Liimted,AYQZN6599A,"Plot 295, MIDC, Mumbai, MH",9313843517
+EPF-349857,Apex Fabrication Pvt Ltd,DTGNC0038F,"Plot 201, Hitec City, Pune, MH",9761487870
+EPF-801599,Prime Traders Pvt Ltd,GUYHF9849U,"Plot 724, GIDC, Delhi, DL",9206566347
+EPF-861369,Dynamic Enterprises Pvt Ldt,HWIGJ5824A,"Plot 482, Peenya, Pune, MH",9207560952
+EPF-81670,Shree Ventures LLP,WEPZT6602L,"Plot 939, MIDC, Pune, MH",9517581246
+EPF-688777,Metro Technologies Limited,HMHCY2148O,"Plot 48, Guindy, Mumbai, MH",9110945771
+EPF-426715,Stella rCorp LLP,JJATW1950C,"Gala No. 24, Shady Complex, Hyderabad, TS",800430565
+EPF-462683,Shree Technologies vPt Ltd,XWAWW7438C,"Plot 318, Peenya, Delhi, DL",9180254885
+EPF-554238,Tech Traedrs LLP,NJHBC3969P,"plot 116, midc, chennai, tn",9543007212
+EPF-47800,Glboal Enterprises Pvt Ltd,JXFAL1956Q,"plot 748, peenya, mumbai, mh",9956749510
+EPF-852193,Sunrise Traders Limited,SSGWC1632Y,"Plot 364, Peenya, Ahmedabad, GJ",9681465959
+EPF-681981,Metro rTaders Limited,HADAV1169W,"Plot 298, Okhla Ind Estate, Ahmedabad, GJ",9775894717
+EPF-87800,Global Enterprises PvtL td,XSVMM0154O,"Plot 125, Guindy, Bengaluru, KA",9644250182
+EPF-562328,Om Solutions vPt Ltd,RJTSM2530P,"Plot 387, Okhla Ind Estate, Bengaluru, KA",9561699098
+EPF-134648,Sunrise Solutions Pvt Ltd,YROSQ8271X,"plot 495, peenya, delhi, dl",9393479567
+EPF-994673,Tech Solutions LLP,BHNIS0994S,"plot 514, ph 1, electronic city, pune, mh",9185758315
+EPF-663783,Sunrise Enterprises Pvt Ltd,YJGGV2117Q,"Plot 777, Peenya, Hyderabad, TS",9227651952
+EPF-873225,Om Traders Limited,VGEJP0640E,"Plot 875, GIDC, Ahmedabad, GJ",9369313229
+EPF-253611,Stellar Enterprises Limited,REDEF7249Y,"plot 613, gidc, delhi, dl",9839250995
+EPF-65064,Stellar Technologies Pv tLtd,QXTAA8503D,"Plot 599, GIDC, Ahmedabad, GJ",9869115036
+EPF-549520,Shree Technologies Pvt Ltd,BEQQH3286Y,"plot 881, midc, bengaluru, ka",9846612710
+EPF-545779,Sunrise Traders Pvt Ltd,VGKKM8421U,"plot 738, peenya, mumbai, mh",9358314322
+EPF-79937,Tech Fabrictaion Pvt Ltd,UCWDU3433I,"Plot 621, Guindy, Hyderabad, TS",9590975170
+EPF-948115,Om Indsutries Pvt Ltd,SXJPR8486Y,"plot 654, guindy, bengaluru, ka",9877950278
+EPF-944494,Apex Technologies Limietd,JAGPP3670M,"plot 198, midc, mumbai, mh",9998379574
+EPF-326140,Acme Logistics Limited,VJLLD2077K,"plot 239, guindy, mumbai, mh",9636015174
+EPF-370474,Dynamic Industries Pvt Ltd,TZIYS2551K,"gala no. 5, shady complex, pune, mh",800207285
+EPF-630409,Om Ventures Pvt Ltd,DOKBW6880H,"plot 539, peenya, hyderabad, ts",9803609700
+EPF-425340,Global Enterprises LLP,QDZAG7904R,"plot 385, midc, ahmedabad, gj",9622720868
+EPF-385974,Prime Traders LLP,SXGRE7673T,"Plot 968, MIDC, Hyderabad, TS",9656334274
+EPF-844181,Acme Ventures LLP,HKFAA8300J,"Plot 927, GIDC, Bengaluru, KA",9691893193
+EPF-427074,Stellar Technologies LLP,UCQFM7002N,"Plot 874, Hitec City, Hyderabad, TS",9781634415
+EPF-680206,Pioneer Ventures LLP,IHYSE1459L,"plot 204, ph 1, electronic city, pune, mh",9459742679
+EPF-89480,Tech Fabrication LLP,WSAHR4405O,"plot 443, ph 1, electronic city, delhi, dl",9254370323
+EPF-798013,Acme Cor pLimited,ABBBQ3041M,"Plot 285, Phase 1, Electronic City, Mumbai, MH",9464069369
+EPF-639540,Metro Industries LLP,XJHSA4225X,"Plot 305, Guindy, Hyderabad, TS",9208075494
+EPF-487308,Global Fabrication Pvt Ltd,ZDFEZ8261N,"Plot 447, Peenya, Mumbai, MH",9292127174
+EPF-940598,Aepx Technologies LLP,OOKWY8405G,"gala no. 16, shady complex, hyderabad, ts",800235888
+EPF-895924,Shree Trader sLLP,YBCOC9273V,"Gala No. 35, Shady Complex, Delhi, DL",800750497
+EPF-735912,Om Enterprisse Limited,WKEMJ4469T,"plot 990, guindy, bengaluru, ka",9678342692
+EPF-940631,Tech CorpL imited,KGXLN0062C,"Plot 311, Peenya, Mumbai, MH",9312453811
+EPF-804266,Dynamic Indusrties Pvt Ltd,GNDIN9323Y,"plot 205, midc, bengaluru, ka",9499021569
+EPF-281459,Balaji Technologies LLP,LAJRQ7750K,"plot 596, guindy, bengaluru, ka",9653398043
+EPF-821362,Tech Industries Pv tLtd,DNVQE2616T,"plot 354, gidc, pune, mh",9757878728
+EPF-77371,Stellar Corp LLP,TFKFZ2792H,"plot 128, hitec city, bengaluru, ka",9481141595
+EPF-461484,Prime Ventures Limited,YTWTW8652Z,"plot 89, hitec city, bengaluru, ka",9111663434
+EPF-961706,Global Ventures Pvt Ltd,CSAGF8053I,"plot 163, peenya, delhi, dl",9453506967
+EPF-669189,Apex Technologies Limited,IXUNQ2291N,"Plot 238, MIDC, Bengaluru, KA",9614005696
+EPF-819653,Shree Industries Limited,RFGHN8991P,"plot 645, gidc, mumbai, mh",9307300127
+EPF-31437,Sunrise TradersL imited,QUZID0896G,"Plot 750, Guindy, Bengaluru, KA",9827346599
+EPF-651142,Acme Logistics Limited,UZYHA8641A,"plot 588, gidc, chennai, tn",9242534977
+EPF-448816,Stellar Crop LLP,TPSTN3489G,"plot 24, gidc, delhi, dl",9392559086
+EPF-581522,Stellar Enterprises Limited,IFZAG1695H,"plot 588, midc, bengaluru, ka",9393667054
+EPF-423862,Apex Corp Pvt Ltd,TEJQM3971W,"Plot 945, Peenya, Ahmedabad, GJ",9620064067
+EPF-567651,Acme Soluitons LLP,OMMQA2263L,"plot 39, peenya, ahmedabad, gj",9691262373
+EPF-695392,Om Corp Pvt Ltd,WBSQZ4501S,"plot 635, midc, bengaluru, ka",9659110288
+EPF-360768,Shree Industries Limited,YBSBF9825E,"plot 562, midc, chennai, tn",9537181649
+EPF-83283,Tech Industries Limitde,GVUNS8081U,"Plot 309, Peenya, Delhi, DL",9669165251
+EPF-749994,Dynamic Corp LLP,TGHDB1526L,"plot 788, okhla ind est, hyderabad, ts",9330223859
+EPF-559331,Tech Enterpriess LLP,WZYYG6846L,"Plot 864, Phase 1, Electronic City, Chennai, TN",9512277760
+EPF-339210,Om Corp Limited,IZRFJ1072U,"gala no. 65, shady complex, ahmedabad, gj",800868010
+EPF-73736,Tech Corp LLP,HTPYC3484E,"Plot 845, Okhla Ind Estate, Mumbai, MH",9756545017
+EPF-951988,Apex CorpL imited,VKWQJ9477E,"plot 66, okhla ind est, pune, mh",9662801614
+EPF-357197,Stellar Industries Limited,UJOGC8662M,"plot 593, peenya, mumbai, mh",9270897057
+EPF-848096,Acme Tcehnologies Limited,ZFFJA6970V,"plot 536, gidc, pune, mh",9431611162
+EPF-781486,Shree Industries Pvt Ltd,FDOLN4615H,"Plot 388, MIDC, Delhi, DL",9237479091
+EPF-793109,Balaji Solutions Pvt Ltd,MQGKO4243U,"Plot 847, Guindy, Delhi, DL",9989496701
+EPF-975581,Tech Solutions Pvt Ltd,KODMT2694B,"plot 725, ph 1, electronic city, bengaluru, ka",9501831801
+EPF-72945,Prime Ventures Pvt Ltd,ETVJR8165H,"plot 854, midc, chennai, tn",9432666029
+EPF-634841,Sunrise Corp Limited,GMZLS0170A,"Plot 630, Hitec City, Pune, MH",9761870013
+EPF-828374,Blaaji Industries Limited,NABUO6445D,"plot 417, guindy, chennai, tn",9111502529
+EPF-479292,Pioneer Enterprises Pvt Ltd,IWRSY2657J,"plot 197, hitec city, pune, mh",9399426681
+EPF-959844,Dnyamic Technologies Pvt Ltd,VTCES5233E,"plot 254, midc, ahmedabad, gj",9218794434
+EPF-206229,Stellar Solutions Pvt Ltd,GPWAE4216C,"Plot 681, Hitec City, Hyderabad, TS",9129538295
+EPF-388487,Om Corp Limited,RDAFO4145L,"Plot 43, Guindy, Chennai, TN",9326156365
+EPF-65500,Acme Trdaers Pvt Ltd,OHMSD5620T,"plot 308, guindy, delhi, dl",9202754857
+EPF-701390,Sunrise Traders Limited,UWRTJ9840J,"plot 642, gidc, pune, mh",9872071729
+EPF-889462,Metro Technologies Limited,QWAOI7200K,"Plot 909, Okhla Ind Estate, Pune, MH",9576666025
+EPF-479660,Pioneer Corp Limited,OSRMZ8949S,"plot 348, ph 1, electronic city, mumbai, mh",9609061105
+EPF-506627,Sunrise Traders Limited,UTATI0994F,"plot 75, ph 1, electronic city, hyderabad, ts",9453248190
+EPF-810998,Ape xEnterprises Pvt Ltd,DZWAU4701L,"Plot 248, Okhla Ind Estate, Ahmedabad, GJ",9535871822
+EPF-161979,Shree Solutions LLP,FSXDB1015Y,"Plot 136, Okhla Ind Estate, Hyderabad, TS",9251285378
+EPF-478338,Dynamic Industries Pvt Ltd,SYVSR1723S,"Plot 114, Phase 1, Electronic City, Ahmedabad, GJ",9481725690
+EPF-172279,Sunrise Logistics Liimted,PTAZU2337Y,"Plot 244, Hitec City, Ahmedabad, GJ",9816586289
+EPF-201918,Tech Industries Pvt Ltd,POIEZ7648I,"plot 417, okhla ind est, ahmedabad, gj",9244767908
+EPF-163377,Balaji Venture sPvt Ltd,LWQNB9003E,"Plot 98, Okhla Ind Estate, Delhi, DL",9429465250
+EPF-201301,Shree Trader sLimited,DJPET1933C,"plot 184, okhla ind est, mumbai, mh",9351895411
+EPF-310443,Pioneer Corp LLP,QGMRD5484A,"plot 660, ph 1, electronic city, bengaluru, ka",9119070085
+EPF-557745,Apex Technologies Limited,DFEZP2077U,"plot 772, midc, ahmedabad, gj",9559066631
+EPF-51964,Pioneer Technologies LLP,OFIIT7479E,"Plot 281, Guindy, Bengaluru, KA",9163059746
+EPF-449899,Shree Industries Pvt Ltd,GUESC9414I,"Plot 123, Phase 1, Electronic City, Hyderabad, TS",9788157426
+EPF-244524,Apxe Industries LLP,YGXGQ1414H,"Plot 887, Peenya, Mumbai, MH",9721504405
+EPF-73816,Sunrise Technolgoies LLP,QMMZL8258S,"plot 550, ph 1, electronic city, pune, mh",9659900524
+EPF-674750,Acme Traders Pvt Ltd,HUKTI0997A,"Plot 709, Phase 1, Electronic City, Chennai, TN",9532039763
+EPF-343481,Prime Traders Limited,KZLVH0362Q,"Plot 452, Hitec City, Bengaluru, KA",9259259198
+EPF-853145,Shree Enterprises Pvt Ltd,ENERD5780V,"Plot 523, Peenya, Chennai, TN",9858721568
+EPF-73043,SunriseI ndustries Limited,RKXCX2261U,"Plot 516, Guindy, Delhi, DL",9536462486
+EPF-348319,AcmeI ndustries Pvt Ltd,VPELH7028E,"Plot 915, Phase 1, Electronic City, Hyderabad, TS",9938018343
+EPF-924134,Global Solutions Ptv Ltd,GWEYL4561F,"Plot 546, MIDC, Ahmedabad, GJ",9931484321
+EPF-941763,Apex Logistics LLP,HPUNG0810R,"Plot 724, Okhla Ind Estate, Chennai, TN",9345255432
+EPF-340265,Metro Traders Limited,FZETO2639W,"Plot 561, Guindy, Ahmedabad, GJ",9242146207
+EPF-640381,Acme Ventures Pvt Ltd,LZXPN0322S,"plot 182, guindy, ahmedabad, gj",9849506495
+EPF-271638,Om Enterprises Limited,WHHLT9861V,"plot 156, midc, pune, mh",9441786243
+EPF-741055,Balaji Enterprises iLmited,MPWZU5561W,"Plot 670, Peenya, Ahmedabad, GJ",9661035181
+EPF-520248,Tech Enterprises Pvt Ltd,ZJUTE1636E,"plot 382, midc, mumbai, mh",9584009206
+EPF-54824,Pirme Solutions LLP,BBKZV2581M,"gala no. 57, shady complex, mumbai, mh",800413627
+EPF-290075,Global Fabrication LLP,WBFXL9491O,"Plot 301, Peenya, Bengaluru, KA",9392555759
+EPF-521384,Apxe Fabrication Pvt Ltd,YVFFC7864C,"Gala No. 9, Shady Complex, Hyderabad, TS",800721734
+EPF-272157,Apex Industries Pvt Ltd,MTLVT9541X,"Plot 795, Phase 1, Electronic City, Chennai, TN",9577399488
+EPF-809655,Prime Soluitons Limited,IPXEW6699E,"plot 779, guindy, bengaluru, ka",9339766870
+EPF-198303,Metro Logistics LLP,BNLIM0522D,"Plot 323, MIDC, Bengaluru, KA",9900226065
+EPF-888244,Tech Solutions LLP,CJZVG0918P,"Plot 536, Hitec City, Bengaluru, KA",9873567082
+EPF-401435,Prime Technologies LLP,XIUJB7507E,"plot 750, okhla ind est, hyderabad, ts",9205188044
+EPF-987866,Balaji Solutions Pvt Ltd,WUXSG1509Z,"plot 728, guindy, mumbai, mh",9542581195
+EPF-625339,Tech Enterprises Pvt Ltd,HXOBL6972T,"plot 903, hitec city, delhi, dl",9252083906
+EPF-113607,Pionere Fabrication Limited,UWSTZ4738F,"Plot 482, Peenya, Ahmedabad, GJ",9219675213
+EPF-19842,Tech Logistics Limited,EGJOP1490I,"plot 370, midc, delhi, dl",9436343244
+EPF-231759,Sunrise Industries LLP,HZWFE8245J,"plot 307, ph 1, electronic city, hyderabad, ts",9464040079
+EPF-286537,Global Enterprises Pvt Ltd,TLXXD0858Y,"Plot 895, Peenya, Hyderabad, TS",9518948670
+EPF-118589,Prime Fabrication Pvt Ltd,RKBYB0008Y,"plot 241, peenya, mumbai, mh",9412865029
+EPF-322447,Balaji Technologies Pvt Ltd,KURFF7644U,"plot 399, hitec city, ahmedabad, gj",9479845014
+EPF-63836,Stellar oLgistics LLP,JQDSE4465Y,"plot 508, ph 1, electronic city, hyderabad, ts",9591636424
+EPF-162998,Stellar Traders Pvt Ltd,VKDZW9412N,"Plot 28, MIDC, Hyderabad, TS",9884561792
+EPF-112038,Balaji Traders Pvt Ltd,GAZAR9296I,"Plot 118, Okhla Ind Estate, Mumbai, MH",9895051425
+EPF-421506,Balaij Technologies Pvt Ltd,DEGPG2118O,"plot 507, midc, mumbai, mh",9628113170
+EPF-94802,Metor Technologies Limited,WLZSJ3346E,"Plot 716, GIDC, Delhi, DL",9757319555
+EPF-387292,Stellar Farbication Pvt Ltd,CJURN3778A,"plot 306, hitec city, chennai, tn",9548785738
+EPF-73427,PioneerF abrication LLP,NMODJ7826O,"Plot 550, MIDC, Pune, MH",9661813064
+EPF-914830,Balaji Traders LLP,NVPSZ3209B,"Plot 529, Okhla Ind Estate, Mumbai, MH",9795154469
+EPF-117048,Dynami cTraders Limited,JKBUY4148T,"Plot 107, GIDC, Hyderabad, TS",9168661017
+EPF-770685,Prime Ventures Pvt Ltd,UHHPN5190J,"plot 742, ph 1, electronic city, hyderabad, ts",9514784415
+EPF-476450,Pioneer Enteprrises LLP,VBITH9712M,"Plot 146, Peenya, Ahmedabad, GJ",9482781871
+EPF-171595,Sunrise Traders Limited,IQSHX8568L,"plot 334, okhla ind est, pune, mh",9151100894
+EPF-200805,Global Ventures LLP,IKHQN2452G,"Plot 268, Phase 1, Electronic City, Mumbai, MH",9186101831
+EPF-711933,Global Enterprises LLP,SZIOC3365I,"plot 793, guindy, delhi, dl",9797206767
+EPF-798880,Apex Fabrication Pvt Ltd,PKMTI1008Y,"plot 948, ph 1, electronic city, pune, mh",9286009232
+EPF-464853,Pioneer Logistics Pvt Ltd,IYWIS2947X,"plot 605, gidc, chennai, tn",9276379638
+EPF-865665,Om Etnerprises Pvt Ltd,FQJXJ8324L,"Plot 359, Hitec City, Delhi, DL",9109577081
+EPF-14604,Apex Technologies Pvt Ltd,ODXFC1059J,"plot 615, guindy, hyderabad, ts",9624074132
+EPF-575177,Tech Traders Pvt Ldt,YDZUB2185B,"Plot 161, Guindy, Ahmedabad, GJ",9578903903
+EPF-984796,Prime Logistics Pvt Ltd,VGZZL7148R,"Plot 225, Okhla Ind Estate, Chennai, TN",9756482526
+EPF-54406,Pioneer Industries LLP,UOEBU4940P,"plot 564, hitec city, delhi, dl",9550794832
+EPF-895692,Global Enterprises Pvt Ltd,XVNBD9622I,"plot 350, hitec city, bengaluru, ka",9966443872
+EPF-201250,Global Technologies LLP,FDHDT7314A,"plot 862, ph 1, electronic city, bengaluru, ka",9241038905
+EPF-826196,Global Solutions Pvt tLd,NXWPE6304O,"Plot 834, Peenya, Chennai, TN",9926580489
+EPF-991801,Dynamic Solutions Pvt Ltd,HJASS6441R,"plot 663, hitec city, chennai, tn",9861782040
+EPF-648650,Global Technologies Limited,BHOHD0585B,"plot 715, guindy, delhi, dl",9765297479
+EPF-709935,Pioneer Solutions LLP,ZGEBD9123E,"plot 880, peenya, bengaluru, ka",9226995091
+EPF-76683,Om Technologies Limited,YKGCH7129T,"plot 277, guindy, delhi, dl",9969712874
+EPF-604139,Shree Traders LLP,FBAWA9750B,"Plot 860, Peenya, Ahmedabad, GJ",9846404480
+EPF-630961,Shree Ventures Pvt Ltd,MMTJQ1464J,"Plot 100, GIDC, Pune, MH",9666484811
+EPF-891085,Shree Enterprises Pvt Ltd,KWTAG8385B,"Plot 626, Peenya, Hyderabad, TS",9877135325
+EPF-665349,Om Ventures Limited,TBFMA4623Q,"plot 345, gidc, ahmedabad, gj",9578334343
+EPF-49577,Acme Industries LLP,KDRPE7431V,"plot 904, peenya, mumbai, mh",9372706505
+EPF-485843,Metro Traders Pvt Ltd,UZXPM2504O,"Plot 40, MIDC, Hyderabad, TS",9378079235
+EPF-548941,Pioneer Corp LLP,RAEPW6398G,"Plot 465, GIDC, Ahmedabad, GJ",9545664475
+EPF-889291,Tech Corp LLP,DGSIE9197F,"plot 229, okhla ind est, pune, mh",9160448093
+EPF-410302,Dynamic Enterprises Limited,MQVID4994K,"plot 695, guindy, ahmedabad, gj",9635109792
+EPF-394767,Balaji Logistics Limietd,UAVRM6379L,"Plot 554, Peenya, Ahmedabad, GJ",9368722593
+EPF-43897,Shree Technologies LLP,DGGBB6267S,"plot 161, peenya, pune, mh",9898308776
+EPF-535439,Apex rTaders LLP,HIPUQ0611W,"Plot 295, Phase 1, Electronic City, Pune, MH",9930434442
+EPF-521363,Pioneer Traders Pvt Ltd,KBXSV2384Z,"plot 531, hitec city, pune, mh",9992815660
+EPF-953634,Metro Corp Limited,ODQDH3534F,"plot 267, hitec city, chennai, tn",9825550625
+EPF-52264,Sunrsie Traders LLP,UDUCD5003Q,"Plot 143, MIDC, Ahmedabad, GJ",9903076702
+EPF-585733,Global Enterprises Pvt Ltd,HBFAN1848U,"plot 252, guindy, delhi, dl",9926683758
+EPF-286718,Balaji Fabrication LLP,SNMKL2447W,"plot 43, guindy, chennai, tn",9134273644
+EPF-786007,Shree Solutions Pvt Ltd,BXFCS4495R,"gala no. 10, shady complex, pune, mh",800416060
+EPF-703498,Acme Enterprises Pvt Ltd,MEVUC1770I,"plot 302, midc, hyderabad, ts",9414878040
+EPF-373862,Om Traders LLP,FLGGG7614P,"plot 341, okhla ind est, ahmedabad, gj",9385232843
+EPF-574359,Prime Ventures Pv tLtd,FDCJF2416Y,"Plot 929, Okhla Ind Estate, Mumbai, MH",9934474970
+EPF-551916,Shree Solutions Pvt Ltd,PFFAV2709C,"Plot 280, Hitec City, Hyderabad, TS",9922122358
+EPF-365094,Surnise Enterprises Pvt Ltd,CAONC9441H,"gala no. 9, shady complex, hyderabad, ts",800721734
+EPF-230429,Balaji Solutions Limited,GPEWQ6185J,"plot 481, ph 1, electronic city, chennai, tn",9441614047
+EPF-265860,Prime Industries Limited,WLQYP6691G,"Plot 674, Phase 1, Electronic City, Hyderabad, TS",9771461603
+EPF-509009,Stellar Logistisc LLP,AWRPX2239A,"Plot 135, Hitec City, Hyderabad, TS",9725096007
+EPF-835606,Global Solutions Limited,HJRRZ4867B,"Plot 352, Guindy, Hyderabad, TS",9325027165
+EPF-147145,Dynamic Venutres LLP,WSVPD1659R,"Plot 263, Okhla Ind Estate, Pune, MH",9281703860
+EPF-368433,Om Traders LLP,HCJGY4736L,"Plot 858, Guindy, Chennai, TN",9766375473
+EPF-148362,Dynamic Technoloiges LLP,HCKAW0056W,"plot 358, peenya, chennai, tn",9585148871
+EPF-72802,Om Solutions Limited,WRVTG6886E,"Plot 469, Hitec City, Chennai, TN",9806617170
+EPF-661207,Om Fabrication LLP,LKCWI0819B,"plot 412, peenya, chennai, tn",9910039827
+EPF-168017,Dynamic Logistics Pvt Ltd,SLILX5343U,"plot 138, midc, bengaluru, ka",9668987676
+EPF-466131,Sunrise Technologies Pvt Ltd,HNAOJ6146U,"Plot 314, Hitec City, Chennai, TN",9133668512
+EPF-709437,Apex Traders Limited,BXPOX4876P,"Plot 958, Okhla Ind Estate, Pune, MH",9297963169
+EPF-236650,Balaji Enterprisse Pvt Ltd,UXRVA7539T,"Plot 453, Guindy, Mumbai, MH",9562674294
+EPF-443829,Om Solutions Limited,UFUDV1595W,"Plot 29, MIDC, Ahmedabad, GJ",9957555211
+EPF-562114,Shree Enterprises LPL,ZWDJZ7775V,"Plot 808, Guindy, Bengaluru, KA",9353098373
+EPF-667562,Tech Corp PvtL td,PLPBV2034Y,"Plot 962, Peenya, Delhi, DL",9679005690
+EPF-600564,Sunrise Technologies Pvt Ltd,VHCJU5936Z,"Plot 523, Hitec City, Bengaluru, KA",9350005832
+EPF-995161,Prime Ventures Pvt tLd,GPRPX2433S,"gala no. 8, shady complex, bengaluru, ka",800327006
+EPF-96523,Metro Logistics LLP,PXLQM3950U,"Gala No. 37, Shady Complex, Pune, MH",800945184
+EPF-803897,Pionee rFabrication LLP,CPUCW9992I,"plot 402, hitec city, ahmedabad, gj",9333203862
+EPF-941341,Sunrise VenturesL LP,UJYJH6509P,"Plot 153, Hitec City, Pune, MH",9576371049
+EPF-496805,Shree Logistics iLmited,TGBDZ1185N,"Plot 647, Guindy, Bengaluru, KA",9531952923
+EPF-626791,Metro Corp Limtied,OZJQV4876A,"plot 29, guindy, hyderabad, ts",9740756346
+EPF-89621,Dynamic Technologies Pvt Ltd,BHQEN8294B,"plot 125, hitec city, ahmedabad, gj",9559984487
+EPF-931813,Apex Ventures Limited,ORMXZ8821D,"plot 472, peenya, delhi, dl",9838272365
+EPF-605068,Acme Enterprises Limited,PDVUB8016V,"Plot 994, Hitec City, Bengaluru, KA",9832757015
+EPF-24673,Pioneer nEterprises Limited,EETDU3197B,"Plot 518, Phase 1, Electronic City, Pune, MH",9646200640
+EPF-929472,Dnyamic Corp LLP,ZLNCB8622G,"Plot 882, Guindy, Hyderabad, TS",9216518074
+EPF-340961,Stellar Logistisc Limited,FOTHJ3138M,"Gala No. 69, Shady Complex, Chennai, TN",800724423
+EPF-592737,Tech Corp Pvt Ltd,FSXHI3660U,"plot 399, peenya, pune, mh",9864069809
+EPF-440244,Baalji Solutions Limited,FGVNM9585O,"Plot 892, GIDC, Delhi, DL",9141301701
+EPF-892653,Balaji Industries Pvt Ltd,HSKMG2968Q,"plot 714, okhla ind est, bengaluru, ka",9567667959
+EPF-933943,Balaji Solutions LLP,TZBRG5671B,"plot 41, midc, pune, mh",9637415091
+EPF-425526,Acm eIndustries Limited,WNOEO1585M,"Plot 429, Hitec City, Mumbai, MH",9963006773
+EPF-122108,Om Solutions Limited,PXSHR6111Q,"plot 764, ph 1, electronic city, ahmedabad, gj",9880121631
+EPF-709479,Apex Traders LLP,PBHHS6988T,"plot 160, guindy, chennai, tn",9542181802
+EPF-382672,Metro Industries Pvt Ltd,TEMBY8592L,"gala no. 61, shady complex, pune, mh",800547700
+EPF-344456,Balaji Industries Limtied,SFOPJ4635G,"Plot 354, Hitec City, Pune, MH",9635616644
+EPF-303795,Metro Corp LPL,POQCU5057B,"Plot 587, GIDC, Chennai, TN",9335087715
+EPF-940233,Balaji Enterprises LLP,RHNPT4917P,"plot 794, ph 1, electronic city, delhi, dl",9744948165
+EPF-385684,Metro Fabriaction LLP,HYGLA2230U,"plot 162, gidc, hyderabad, ts",9510899427
+EPF-590226,Global Fabrication Pvt Ldt,QRWTW1095L,"Plot 910, Okhla Ind Estate, Bengaluru, KA",9753068513
+EPF-157924,Pioneer Corp Pvt Ltd,XHSZB0608I,"plot 643, okhla ind est, ahmedabad, gj",9206485102
+EPF-172933,Balaji Technologies Pvt Ltd,EOKLK8211O,"plot 96, hitec city, chennai, tn",9867885671
+EPF-660748,Balaji Fabrication Pvt Ltd,AODJS9039F,"Plot 369, GIDC, Chennai, TN",9582815403
+EPF-357535,Apex Enterprises LLP,NMOKO4010H,"plot 827, hitec city, chennai, tn",9956665860
+EPF-645706,Prime Solutions Pvt Ltd,YVERC6822V,"plot 710, guindy, hyderabad, ts",9798918833
+EPF-779440,Sunrise Fabrication Pvt Ltd,OEQKB7400S,"Plot 885, Hitec City, Delhi, DL",9797103850
+EPF-309951,Acme Enterprises LLP,HLLYU4007U,"plot 512, hitec city, bengaluru, ka",9688487661
+EPF-164949,Balaji Fabrication Pvt Ltd,JKWII4568W,"Plot 609, MIDC, Pune, MH",9481524793
+EPF-561652,Tehc Technologies Pvt Ltd,BDVNQ5522E,"Plot 723, GIDC, Hyderabad, TS",9768371242
+EPF-157293,Apex Solutions LLP,WFFOC8587Q,"plot 866, peenya, bengaluru, ka",9362375964
+EPF-767284,Dynamic Solutions Pvt Ltd,WWEFK9592P,"plot 192, midc, chennai, tn",9776232513
+EPF-319670,Stellar Industries Pvt Ltd,ZYQAA0195C,"plot 414, okhla ind est, ahmedabad, gj",9554928522
+EPF-819051,Pioneer Technologies LLP,WGVGE2049Z,"plot 603, guindy, mumbai, mh",9903698310
+EPF-877643,Dynamic Industries LLP,AZWYR5769O,"Plot 886, Phase 1, Electronic City, Pune, MH",9612303869
+EPF-549687,Prime Industreis Pvt Ltd,YGRPY9890H,"plot 529, midc, mumbai, mh",9564555635
+EPF-398658,Apex Logistics Pvt Ltd,SVMLM5267L,"Plot 465, Peenya, Pune, MH",9685001227
+EPF-995537,Prime Tcehnologies Pvt Ltd,AXEYN8467Q,"plot 256, okhla ind est, ahmedabad, gj",9884360469
+EPF-315068,Pionee rFabrication Pvt Ltd,HUZIY3963T,"Plot 863, Phase 1, Electronic City, Bengaluru, KA",9617613260
+EPF-307390,Om Logistics Limited,SHPPN0067L,"Plot 111, Hitec City, Bengaluru, KA",9179926684
+EPF-986337,Acme oLgistics LLP,AEOAG8558L,"Plot 239, Hitec City, Bengaluru, KA",9856452294
+EPF-98620,Pioneer Industries Pvt Ltd,QNFWG4630R,"plot 773, guindy, pune, mh",9693990310
+EPF-724801,Dynamic Industries Pvt Ltd,DPPVY6340E,"plot 29, hitec city, bengaluru, ka",9640150352
+EPF-57299,Om Logistics Pvt Ltd,HRGJZ8892L,"Plot 716, Phase 1, Electronic City, Chennai, TN",9499960019
+EPF-401498,Balaji Corp Limited,VUWAO8760X,"plot 462, midc, delhi, dl",9737276825
+EPF-593110,Dynamic Fabrication PvtL td,ZEFGG7703W,"Gala No. 37, Shady Complex, Pune, MH",800945184
+EPF-884715,Acme Logistics Pvt Ltd,CPRJB8882G,"Plot 114, MIDC, Bengaluru, KA",9580673469
+EPF-853288,Acme Indutsries Limited,VEBVG8013C,"Plot 965, Peenya, Ahmedabad, GJ",9759969510
+EPF-866682,Aepx Logistics Pvt Ltd,UDSYH7266S,"gala no. 74, shady complex, bengaluru, ka",800516826
+EPF-70079,Om Industries Limited,ZGRMB4363P,"Plot 740, Guindy, Hyderabad, TS",9911459185
+EPF-244269,Dynamic Technologies LLP,MFRJX9136S,"Gala No. 35, Shady Complex, Delhi, DL",800750497
+EPF-241972,Tech Solutions Pvt Ltd,YUHHY8681J,"Plot 464, MIDC, Pune, MH",9626311532
+EPF-233311,Tech Logistics Limited,SQIAN5030U,"Plot 765, Phase 1, Electronic City, Hyderabad, TS",9471694455
+EPF-113992,Metro Technologies LLP,CHTNI1210Z,"plot 714, midc, pune, mh",9149212422
+EPF-292075,Stellar Traders Pvt Ltd,RDMKI2814T,"Plot 657, Okhla Ind Estate, Bengaluru, KA",9627319691
+EPF-924638,Om Indsutries Pvt Ltd,YUBYM1161H,"Plot 65, GIDC, Bengaluru, KA",9444347647
+EPF-66028,Stellar Technologies Pvt Ltd,UTXYG4248L,"Plot 642, Guindy, Ahmedabad, GJ",9848209563
+EPF-21161,Apex Technologies Limitde,AWIDB7770E,"Plot 249, Hitec City, Chennai, TN",9288346060
+EPF-34130,Merto Solutions LLP,TBLGS4692O,"plot 492, midc, ahmedabad, gj",9849178135
+EPF-358763,Global Cor pLimited,QALLU3054Y,"plot 389, midc, bengaluru, ka",9746411403
+EPF-200439,Balaji Traedrs LLP,BLWWR1421J,"Plot 862, MIDC, Pune, MH",9974881085
+EPF-893250,Prime Ventures LLP,ZPIDC8495D,"Plot 97, MIDC, Ahmedabad, GJ",9720623435
+EPF-878073,Balaji Technoolgies Pvt Ltd,KAGOZ7795X,"Plot 818, Phase 1, Electronic City, Pune, MH",9587462389
+EPF-672541,Tech Enterprises Limited,LFCBF8572R,"plot 627, peenya, ahmedabad, gj",9460411278
+EPF-461288,BalajiE nterprises Pvt Ltd,YYZWG1893C,"plot 604, okhla ind est, mumbai, mh",9149722420
+EPF-263712,Shree Ventures LLP,GQKWR9382H,"Plot 670, Peenya, Delhi, DL",9158703294
+EPF-453476,Global Industries Limited,LOICH3079Y,"Plot 450, MIDC, Hyderabad, TS",9517741577
+EPF-909804,Metro Loigstics LLP,QNGYZ5109F,"plot 848, peenya, delhi, dl",9455223659
+EPF-146726,Stellar Logistics Pvt Ltd,XKUXH7056I,"Gala No. 99, Shady Complex, Mumbai, MH",800339890
+EPF-310916,Om Solutions LLP,YCOUM7347L,"Plot 738, GIDC, Bengaluru, KA",9174589259
+EPF-249628,Sunrise Solutions Limited,TLDHZ1648O,"plot 986, ph 1, electronic city, mumbai, mh",9992956170
+EPF-432237,Metro Solutiosn Pvt Ltd,JEZMJ0043B,"plot 256, guindy, ahmedabad, gj",9982686903
+EPF-547155,Prime Industries LLP,GGBQO2718Q,"plot 359, gidc, ahmedabad, gj",9439383891
+EPF-108105,Acme Enteprrises Pvt Ltd,FVZDZ0586H,"Plot 492, GIDC, Delhi, DL",9384444538
+EPF-249015,Global Industries Pvt Ltd,YAPQG1184H,"Plot 653, Peenya, Bengaluru, KA",9742033311
+EPF-887732,Pioneer Solutions Pvt tLd,TTMKU0880P,"plot 191, guindy, ahmedabad, gj",9434836250
+EPF-806631,Apex Ventures Pvt Ltd,KRQRH8763I,"Plot 691, Phase 1, Electronic City, Delhi, DL",9751440633
+EPF-384580,Stellar Fabrication LLP,BJAHQ4515Y,"Plot 202, Guindy, Chennai, TN",9385478744
+EPF-365587,Stellra Fabrication Limited,GLZQS6269H,"plot 96, peenya, chennai, tn",9828804572
+EPF-344933,Dynamic Ventures Pvt Ltd,GWIQD5555M,"plot 940, peenya, mumbai, mh",9825827564
+EPF-25304,Global Solutions Pvt tLd,LVNTI1984N,"Plot 128, Hitec City, Chennai, TN",9352862811
+EPF-497217,Tech Solutions Pv tLtd,EXGSB0883U,"Plot 465, Peenya, Delhi, DL",9898759610
+EPF-972508,Acme Industries Limited,WRJCP5860P,"plot 919, midc, chennai, tn",9363977190
+EPF-863691,Stelalr Technologies Pvt Ltd,QRZXC8536N,"plot 956, peenya, ahmedabad, gj",9698899159
+EPF-808954,GlobalI ndustries Pvt Ltd,LVAUM6524V,"Plot 548, Okhla Ind Estate, Pune, MH",9474067462
+EPF-399945,Metr oLogistics LLP,LWQPL2027K,"Plot 319, MIDC, Hyderabad, TS",9127627826
+EPF-111643,Apex Solutions Limited,HVNQH3204T,"plot 792, ph 1, electronic city, delhi, dl",9322978845
+EPF-32782,Tech Corp Ptv Ltd,KIQGA1570X,"Plot 807, Phase 1, Electronic City, Ahmedabad, GJ",9616919893
+EPF-786973,Prime Enterprises Limited,TZXWG9015Q,"Plot 859, Guindy, Mumbai, MH",9484881235
+EPF-72572,Pioneer Fabrication Pvt Ltd,UGMAE9245I,"gala no. 32, shady complex, ahmedabad, gj",800962410
+EPF-998039,Prime Traders Pvt tLd,WDVGX1469H,"Plot 538, Okhla Ind Estate, Delhi, DL",9542395987
+EPF-406246,Pioneer Logistics Pvt Ltd,NDMDP5942K,"Plot 542, Okhla Ind Estate, Pune, MH",9735612218
+EPF-660543,Dynamic Fabrication Pvt Ltd,PEKDV9134L,"plot 963, ph 1, electronic city, pune, mh",9810865523
+EPF-150842,Balaji Corp vPt Ltd,KXAWN7410J,"plot 513, guindy, bengaluru, ka",9612754641
+EPF-31406,Prime Corp Pvt Ltd,XMJWJ0400H,"Plot 920, MIDC, Mumbai, MH",9893319886
+EPF-409429,Pioneer Industries Limited,XZBEB9610J,"Plot 251, Okhla Ind Estate, Pune, MH",9690071142
+EPF-113039,Sunrise Technologies Limited,VZGWY5075G,"plot 144, peenya, chennai, tn",9136319722
+EPF-908751,Shree Fabrication Pvt Ltd,AQFYR7901G,"Plot 97, Guindy, Chennai, TN",9136998612
+EPF-297484,Dynamic Technologies LLP,CSIRU3698Z,"Plot 818, MIDC, Delhi, DL",9838986007
+EPF-287161,Shree Technologies Limited,ZLERG7042F,"plot 891, midc, bengaluru, ka",9308546619
+EPF-216459,Sunrise Indsutries Pvt Ltd,FXDRC4402E,"Gala No. 8, Shady Complex, Bengaluru, KA",800327006
+EPF-827408,Balaji Industries LLP,HEINT4497D,"Plot 586, Peenya, Pune, MH",9960726277
+EPF-907187,Shree Corp Pvt Ltd,ORSPH1553N,"plot 370, ph 1, electronic city, chennai, tn",9974100209
+EPF-983277,Pioneer Solutions Limited,WXHEV1367Q,"plot 864, gidc, bengaluru, ka",9390365396
+EPF-611267,Om Soluitons Limited,ZYQRC2283Y,"plot 937, gidc, pune, mh",9618476683
+EPF-665379,Pioneer Fabrication Pvt Ltd,ZOFOY4126L,"plot 228, gidc, ahmedabad, gj",9880921471
+EPF-916542,Dynamic Logistics Limited,ILJVA4223H,"Plot 876, Phase 1, Electronic City, Mumbai, MH",9935033340
+EPF-610773,Global Enterprises Pvt Ltd,ZFTPB5226G,"Plot 617, Guindy, Ahmedabad, GJ",9113402789
+EPF-119079,Acme Fabrication Limited,HTQOW7186C,"plot 191, gidc, mumbai, mh",9623077601
+EPF-527584,Metro Crop LLP,FZDGX1504E,"plot 479, guindy, mumbai, mh",9759167818
+EPF-128685,Prmie Ventures Limited,SJEMO0937G,"plot 146, midc, delhi, dl",9832914311
+EPF-69048,Pioneer Fabrication Pvt Ltd,AQQRD6407Y,"Plot 67, Phase 1, Electronic City, Ahmedabad, GJ",9587032347
+EPF-585336,Stellar Traders Limited,NOILN7184R,"plot 577, okhla ind est, pune, mh",9837469559
+EPF-276675,Acme Technologies LLP,LKJIW9336Y,"plot 364, okhla ind est, mumbai, mh",9609587490
+EPF-339651,Stellar Fbarication Pvt Ltd,YAIHU9596J,"plot 779, midc, hyderabad, ts",9450999918
+EPF-129770,Om Cor pLLP,JAPOZ5668B,"Plot 492, Guindy, Ahmedabad, GJ",9610280109
+EPF-476838,Sunrise Fabrication Limited,TBFHZ5531T,"plot 656, hitec city, delhi, dl",9188151773
+EPF-489239,Om Corp Limietd,HLLUF6807I,"Plot 643, Phase 1, Electronic City, Chennai, TN",9517247880
+EPF-129864,Balaji Technologie sLLP,WPGRN5103I,"Plot 865, Peenya, Chennai, TN",9777348295
+EPF-416384,Dynamic Logistics Pvt Ltd,KGBKG4549G,"plot 992, midc, delhi, dl",9409620447
+EPF-826138,Dynamic Traders LLP,DPNTX2166R,"Plot 564, Phase 1, Electronic City, Ahmedabad, GJ",9371904477
+EPF-12446,TechT raders Limited,SAIEY1129N,"Plot 919, Guindy, Mumbai, MH",9433035953
+EPF-288999,Om Solutions Pvt tLd,AOPVM1436F,"Plot 673, Hitec City, Delhi, DL",9851749379
+EPF-710957,Acme Fabrication Pvt Ltd,GWELK4522I,"Plot 399, Guindy, Ahmedabad, GJ",9968504317
+EPF-982458,Stellar Crop Limited,XZNUJ7050D,"plot 933, hitec city, delhi, dl",9874789290
+EPF-979375,Tech Fabrication Pvt Ltd,UXBXR2458I,"Plot 96, Peenya, Delhi, DL",9351918161
+EPF-810199,Sunrise Loigstics LLP,PFKAU7273X,"plot 371, midc, hyderabad, ts",9720400096
+EPF-771413,Dynamic Technologies Pvt Ltd,WXAOL4466C,"plot 438, guindy, ahmedabad, gj",9695319355
+EPF-421095,Balaji Technologies Limited,ZVRQP7475M,"plot 652, okhla ind est, pune, mh",9541559208
+EPF-907650,Pioneer Traders Pvt Ltd,DSRCO1146V,"plot 903, hitec city, bengaluru, ka",9509240703
+EPF-231632,Global Venturse LLP,KRAVE2804Q,"Plot 997, Peenya, Ahmedabad, GJ",9273149568
+EPF-676686,Global Logistics Limited,VNJDL3881T,"plot 870, okhla ind est, pune, mh",9986787514
+EPF-38209,Balaji Traders Limited,HPPJM1566L,"Plot 78, MIDC, Pune, MH",9616696055
+EPF-816136,Stellar aFbrication LLP,SINFN7425M,"plot 100, hitec city, bengaluru, ka",9527268392
+EPF-429516,Tech Logistics Pvt Ltd,AYQWA6686R,"plot 509, midc, mumbai, mh",9618474791
+EPF-658889,Global Fabrication Limited,BPFDX1057R,"Plot 233, Peenya, Ahmedabad, GJ",9514195584
+EPF-978436,Stellar Fabriaction LLP,LHTOV0586S,"Plot 28, Guindy, Delhi, DL",9513156303
+EPF-133417,Balaji Farbication Limited,CTRXZ4379T,"plot 423, guindy, delhi, dl",9445328757
+EPF-895447,Baljai Corp LLP,SVYZF9169Y,"Plot 684, Peenya, Ahmedabad, GJ",9489315465
+EPF-191946,Om Venturse LLP,ZSFKV7051U,"Plot 229, GIDC, Bengaluru, KA",9935592215
+EPF-480674,Tech Logistics Limited,KEDMK2976X,"plot 980, gidc, ahmedabad, gj",9979384250
+EPF-672096,Tech Enterprise sLimited,LSYKL1204U,"Plot 821, GIDC, Hyderabad, TS",9834202719
+EPF-835882,Dynamic Solutions LLP,FTGNR3587B,"Plot 477, Phase 1, Electronic City, Ahmedabad, GJ",9885970899
+EPF-867746,Global Industries LLP,LYZUK9942T,"Gala No. 58, Shady Complex, Bengaluru, KA",800878568
+EPF-175516,Prime Solutions LLP,TBHNW1517D,"Plot 694, MIDC, Pune, MH",9766899705
+EPF-35148,Metro Trdaers Pvt Ltd,VDMOF0967G,"Plot 700, MIDC, Hyderabad, TS",9571848559
+EPF-73994,Pioneer Logistics LLP,JAXTZ0347J,"Plot 36, GIDC, Ahmedabad, GJ",9617203429
+EPF-30119,Acme Logistics Pvt Ltd,HTGGL4451F,"plot 147, okhla ind est, chennai, tn",9668691356
+EPF-490265,Prime Traders Limited,GNESX8663J,"plot 510, midc, delhi, dl",9680473946
+EPF-212801,Om Ventures Pvt Ltd,OECRS5797F,"plot 445, gidc, bengaluru, ka",9571980599
+EPF-647328,Pioneer Ventrues Limited,XFKYS5246B,"plot 685, midc, bengaluru, ka",9502763961
+EPF-936356,Apex Solutions vPt Ltd,WAYTF4704L,"Plot 895, Hitec City, Ahmedabad, GJ",9231635013
+EPF-687455,Metro Ventures LLP,PWMAR2999J,"plot 523, okhla ind est, delhi, dl",9608364003
+EPF-907288,Tech Industries LLP,QFEDQ8117L,"Gala No. 65, Shady Complex, Ahmedabad, GJ",800868010
+EPF-13079,Shree Technologies Pvt Ltd,ERQZX7533N,"Plot 40, Hitec City, Pune, MH",9948924545
+EPF-734362,Stellar Corp LLP,LFMZP4260H,"plot 854, gidc, chennai, tn",9259326895
+EPF-537961,Sunrise Industries Limited,DRETN6662K,"Plot 874, GIDC, Delhi, DL",9439663504
+EPF-559494,Acme Corp Limited,RFNWA4918B,"Plot 626, Okhla Ind Estate, Pune, MH",9343352321
+EPF-713925,Balaji Soltuions Pvt Ltd,ODMMG7970B,"Plot 861, Peenya, Delhi, DL",9540655755
+EPF-658393,Balaji Corp Limited,NAWVO9737Y,"plot 152, gidc, mumbai, mh",9541508777
+EPF-171564,Om Corp LLP,KQFCB4694N,"Plot 963, MIDC, Hyderabad, TS",9740307735
+EPF-535141,StellarC orp Limited,LSCNJ1783C,"Plot 170, Okhla Ind Estate, Ahmedabad, GJ",9140431169
+EPF-863942,Dynamic Traders Limited,QNOXP1458E,"Plot 193, Hitec City, Hyderabad, TS",9413151981
+EPF-32435,Acme Solutions LLP,YWSDN9304S,"plot 424, peenya, chennai, tn",9708689084
+EPF-329124,Prime Technologies LLP,EBMGQ7233O,"Plot 65, Hitec City, Delhi, DL",9704564557
+EPF-215643,Dynamic Solutions Limited,BRDVV1079K,"Plot 464, Okhla Ind Estate, Delhi, DL",9633071883
+EPF-716114,Stellar Fabrication Pvt Ltd,WVOMD4570Z,"plot 931, hitec city, mumbai, mh",9758417834
+EPF-705256,Tech Corp LLP,ESAVM3529D,"Plot 569, GIDC, Hyderabad, TS",9490836788
+EPF-227540,Tech Fabircation Limited,IPASW9820K,"Plot 630, Hitec City, Mumbai, MH",9585233401
+EPF-517174,Om Technologies LLP,XJSIT6021T,"Plot 757, Okhla Ind Estate, Mumbai, MH",9444440405
+EPF-992747,Prime Ventures LLP,PJXSD9959B,"plot 526, ph 1, electronic city, chennai, tn",9988846858
+EPF-535067,Shree Technologies LLP,ENTDR1048G,"plot 672, midc, hyderabad, ts",9446698922
+EPF-606969,Dynamic Industries Pvt Ltd,YDFKY7075Y,"plot 507, gidc, mumbai, mh",9316608194
+EPF-703153,Dynamic Industries Pvt Ltd,GLUOM1829A,"Plot 523, MIDC, Mumbai, MH",9369260029
+EPF-397508,Acme Solutions LLP,LFCJE4640Q,"Plot 909, Hitec City, Hyderabad, TS",9718563911
+EPF-953652,Pioneer oLgistics Limited,SCYQD7044D,"Plot 393, Okhla Ind Estate, Ahmedabad, GJ",9119378505
+EPF-788264,Prime Logistics LLP,ULHCR2225T,"plot 565, hitec city, mumbai, mh",9638263550
+EPF-417995,Sunrise Fabrication LLP,AFZYK5125W,"plot 972, okhla ind est, hyderabad, ts",9951814623
+EPF-834574,Om Venutres Pvt Ltd,MVEUD4065R,"Plot 70, MIDC, Ahmedabad, GJ",9143283627
+EPF-701158,Pioneer Logistics Limited,DWQRV8577X,"plot 763, midc, mumbai, mh",9277563326
+EPF-946763,Shree Enterprises LLP,HLUWD6051E,"plot 485, okhla ind est, bengaluru, ka",9874020965
+EPF-553912,Acme Traders LLP,PPPNY4763E,"Plot 809, Phase 1, Electronic City, Ahmedabad, GJ",9804888507
+EPF-816582,Tech IndustriesL imited,GMDSM7009H,"plot 230, okhla ind est, chennai, tn",9895877089
+EPF-401235,Stellar Technloogies LLP,JVBNY4655L,"Plot 145, Hitec City, Pune, MH",9889426516
+EPF-512179,Acm eCorp Pvt Ltd,MJMXQ9193K,"plot 783, midc, bengaluru, ka",9288556934
+EPF-821164,Prime Ventures Limited,EQBGJ5155P,"Plot 469, Guindy, Pune, MH",9786636375
+EPF-416190,Metro Ventures Pvt Ltd,RNVDY7460P,"Plot 854, Hitec City, Pune, MH",9860780592
+EPF-87238,Tech oCrp LLP,LPYUN4685T,"plot 910, gidc, chennai, tn",9699512772
+EPF-317224,Balaji Traders LLP,METCN0324F,"plot 739, peenya, delhi, dl",9874372645
+EPF-469918,Metro Traders Pvt Ltd,BEADU6563N,"plot 296, okhla ind est, mumbai, mh",9419506660
+EPF-583397,Mtero Traders Pvt Ltd,KIBJK8138X,"plot 942, gidc, mumbai, mh",9279986004
+EPF-402253,Tehc Logistics Limited,UQUED9860T,"plot 755, guindy, delhi, dl",9853456352
+EPF-564593,Dynamic Fabircation Pvt Ltd,JIZKO6954L,"Plot 635, Hitec City, Chennai, TN",9178224392
+EPF-214285,Shree Solutions Pvt Ltd,FJHQY0256E,"Plot 880, Okhla Ind Estate, Chennai, TN",9330091110
+EPF-948139,Balaji Enterprises Pvt Ltd,LKDFK6871T,"plot 108, peenya, ahmedabad, gj",9644000076
+EPF-697204,Acme Corp Pvt Ltd,QBEMD4593S,"Plot 330, Hitec City, Delhi, DL",9151087566
+EPF-839909,Apex Traders LLP,HBJNG8683Z,"plot 800, guindy, delhi, dl",9728781696
+EPF-946374,Global Industries Limited,GBXAE7134L,"Plot 671, Peenya, Ahmedabad, GJ",9189292809
+EPF-52060,Global Traders LLP,FESPO5324A,"plot 851, ph 1, electronic city, chennai, tn",9570514240
+EPF-783572,Metro Vetnures Limited,BXTBU6512P,"plot 908, okhla ind est, chennai, tn",9747595000
+EPF-830345,Stellar Solutions Limited,DXOMZ7581T,"plot 777, okhla ind est, pune, mh",9935040842
+EPF-43912,Prime Technologies Limited,COICO9382X,"Plot 846, Peenya, Delhi, DL",9714700145
+EPF-183041,Tech Ventures Limited,EJIRV3074O,"Plot 138, Okhla Ind Estate, Pune, MH",9257400574
+EPF-994622,Balaji Tarders Limited,UXUXL8519W,"plot 651, peenya, pune, mh",9508512091
+EPF-316620,Acme Corp LLP,JNWHR6058P,"Plot 647, Guindy, Mumbai, MH",9346068630
+EPF-473202,Prime Enterprises Pvt Ltd,ZULPZ2614T,"plot 735, ph 1, electronic city, hyderabad, ts",9223672508
+EPF-837938,Prime Corp Pvt Ltd,DSKSB7480C,"Plot 90, Phase 1, Electronic City, Delhi, DL",9689521589
+EPF-683561,Sunrise Logistics LLP,OTGYY1641N,"plot 635, okhla ind est, delhi, dl",9525553779
+EPF-723450,Global Traders LLP,TGIBF2288L,"Plot 683, Hitec City, Mumbai, MH",9874623415
+EPF-829909,Prime Etnerprises LLP,WEWIH2190Z,"plot 108, guindy, pune, mh",9109823608
+EPF-936212,Apex Solution sPvt Ltd,NFNQL6681L,"plot 580, peenya, hyderabad, ts",9838169886
+EPF-499544,Acme Solutoins Limited,BPNRV4387K,"Plot 353, Phase 1, Electronic City, Ahmedabad, GJ",9493092535
+EPF-793842,Balaji Solutions Pvt Ltd,OPTDB6029W,"Plot 99, MIDC, Hyderabad, TS",9481248890
+EPF-184519,Snurise Ventures Limited,WOLBZ1775M,"plot 960, okhla ind est, delhi, dl",9510974305
+EPF-888582,Global Soltuions Limited,ONXON7198H,"plot 746, gidc, ahmedabad, gj",9444240507
+EPF-871989,Balaji Corp LLP,EHJCE6786B,"plot 278, ph 1, electronic city, pune, mh",9990491536
+EPF-476448,Dynamic Ventures Pvt Ltd,FFZEG9100S,"Plot 198, Okhla Ind Estate, Delhi, DL",9212480492
+EPF-566042,Om SolutionsL imited,WYXVI0483M,"plot 104, midc, mumbai, mh",9291502508
+EPF-774486,Dynaimc Ventures Pvt Ltd,DAWKV9850F,"plot 492, guindy, delhi, dl",9772686145
+EPF-495146,Prime Solutions LLP,YRBMP5508H,"plot 960, peenya, chennai, tn",9721299748
+EPF-696876,Stellar Industries Limited,IIIVU5503Y,"Plot 468, Peenya, Bengaluru, KA",9738450326
+EPF-736832,Global Traders LLP,ZLHNA1499I,"gala no. 57, shady complex, mumbai, mh",800413627
+EPF-409051,Amce Technologies Pvt Ltd,QZHMA4512W,"plot 163, peenya, hyderabad, ts",9296515676
+EPF-102415,Balaji Loigstics Pvt Ltd,VRDUI1018H,"Plot 762, Hitec City, Mumbai, MH",9165137433
+EPF-763193,Pioneer Fabrication Limited,HSQXV4210R,"plot 701, okhla ind est, delhi, dl",9291099770
+EPF-984476,Balaji Venturse Pvt Ltd,HRPDA2529Q,"plot 927, guindy, ahmedabad, gj",9980628264
+EPF-153994,Sunrsie Enterprises Limited,NSKNK6560P,"Plot 538, Peenya, Bengaluru, KA",9178536362
+EPF-223969,Shree Industries Limited,MBTMH9733L,"plot 125, midc, delhi, dl",9813647367
+EPF-842569,Shree Logistics LLP,DZLTU3278W,"plot 292, peenya, pune, mh",9890445380
+EPF-387726,Om Ventures Pvt Ltd,DHKNB5178K,"Plot 858, Guindy, Bengaluru, KA",9662808525
+EPF-863309,Shree Technologies Pvt Ltd,AVFNS6637P,"plot 897, midc, chennai, tn",9850214706
+EPF-538982,Prime Enterrpises LLP,OSSXD6317C,"Plot 215, MIDC, Hyderabad, TS",9381362694
+EPF-159959,Shre eLogistics Pvt Ltd,PUEFP4085V,"plot 130, ph 1, electronic city, delhi, dl",9404438067
+EPF-234471,Pioneer Technologies LLP,TEDOC6086O,"Plot 95, GIDC, Pune, MH",9578753631
+EPF-533675,Tech Corp Pvt Ltd,XEAQM8590M,"Plot 639, Phase 1, Electronic City, Hyderabad, TS",9510129619
+EPF-486929,Baljai Industries LLP,PQEPW7027D,"Plot 224, Guindy, Delhi, DL",9193560836
+EPF-424546,Dynamic Enterprises Limited,KSMCS1416D,"plot 521, ph 1, electronic city, ahmedabad, gj",9642562334
+EPF-307732,Om Corp Limited,NZJLR0332G,"Plot 790, Phase 1, Electronic City, Bengaluru, KA",9400986892
+EPF-668949,Tceh Corp LLP,NMIML9615N,"plot 90, okhla ind est, ahmedabad, gj",9275616028
+EPF-698388,Acme Industries Limited,ZUSCS1753V,"plot 818, ph 1, electronic city, pune, mh",9251027063
+EPF-765513,Apex Ventures iLmited,TSOER3835Z,"plot 362, peenya, ahmedabad, gj",9838720775
+EPF-252739,Apex Idnustries Pvt Ltd,UWGTB0220A,"plot 15, guindy, pune, mh",9577870227
+EPF-482122,Global Ventrues LLP,JASSZ0449Z,"plot 650, peenya, delhi, dl",9135151155
+EPF-334389,Balaji Enterprises Limited,RTRNH9323X,"Plot 966, MIDC, Delhi, DL",9252855874
+EPF-892155,Balaji Technologies Limited,MQGVK1690P,"plot 93, okhla ind est, chennai, tn",9874053538
+EPF-928690,Metro Traders Pvt Ltd,SJWAJ0898S,"plot 165, midc, delhi, dl",9434053700
+EPF-731473,Prime Traders Limited,SENOP2433Q,"Plot 734, Guindy, Hyderabad, TS",9769453831
+EPF-967533,Om Technologies Limited,BKFNI4640K,"plot 635, midc, bengaluru, ka",9668758748
+EPF-747887,Shree Ventures Pvt Ltd,IHLML8185E,"Plot 147, Phase 1, Electronic City, Pune, MH",9907086661
+EPF-194531,Om Technologies Limited,GCVLN6308O,"plot 760, peenya, ahmedabad, gj",9123503646
+EPF-679063,Pioneer Ventures Pvt Ltd,YWEYL0043X,"plot 319, midc, mumbai, mh",9149504409
+EPF-708901,Metro Traders Pvt Ltd,UJRMF8406B,"Plot 780, Phase 1, Electronic City, Chennai, TN",9612821097
+EPF-511592,Balaji Ventures Limited,WYWWY0792V,"Plot 211, Okhla Ind Estate, Ahmedabad, GJ",9570893761
+EPF-368004,Pioneer TradersL imited,XPABE8703R,"plot 155, ph 1, electronic city, hyderabad, ts",9197853389
+EPF-876894,Acem Technologies LLP,RECZQ6347K,"Plot 880, Guindy, Delhi, DL",9376845487
+EPF-612655,Shree Traders Limited,EIJAK6477P,"plot 870, okhla ind est, delhi, dl",9877115444
+EPF-602261,Sunris eCorp Limited,IZWNZ1279Z,"plot 194, midc, pune, mh",9599525990
+EPF-661636,Tech Copr LLP,QRJRZ1756L,"plot 503, peenya, ahmedabad, gj",9663497387
+EPF-842492,Apex Solutions Pvt Ltd,JSMZD8201Z,"plot 311, peenya, mumbai, mh",9300228023
+EPF-956046,Dynamic Corp LLP,PSCLW2235U,"Plot 647, Peenya, Delhi, DL",9511865349
+EPF-328923,Pioneer Technologies LLP,UPDQU6249M,"Plot 673, MIDC, Pune, MH",9847901886
+EPF-310376,Dynami cFabrication LLP,FEEYL6124A,"plot 38, okhla ind est, pune, mh",9740207835
+EPF-986395,Acme Industries Pvt Ltd,QXDWY4523G,"plot 933, midc, mumbai, mh",9395773312
+EPF-623576,Prime Solutions LLP,UPUJV6887E,"Plot 499, Peenya, Pune, MH",9499514861
+EPF-536726,Dynamic Fabrication LPL,MNDUD9169A,"plot 873, ph 1, electronic city, hyderabad, ts",9844604143
+EPF-248710,Balaji Enterprises Limited,VBYKH9114L,"plot 466, hitec city, mumbai, mh",9502007088
+EPF-474320,Stellar Solutions LLP,UWJQK3711D,"plot 361, guindy, delhi, dl",9299744300
+EPF-764367,Acme Corp LLP,XBPTY6236B,"plot 544, peenya, mumbai, mh",9845666135
+EPF-116246,Pioneer Corp Limitde,WHFOL6330W,"Plot 771, Phase 1, Electronic City, Bengaluru, KA",9909707492
+EPF-739176,Acme Ventures Limited,DRTBW4336U,"plot 585, hitec city, mumbai, mh",9770384013
+EPF-968206,Acme Solutions LLP,UUBOI4021N,"plot 137, hitec city, hyderabad, ts",9120916497
+EPF-661335,Dynamic Corp LPL,MXNZU5421D,"plot 450, okhla ind est, mumbai, mh",9174594651
+EPF-136228,Global Tarders LLP,NCABL5778W,"plot 185, okhla ind est, bengaluru, ka",9679090277
+EPF-449916,Shree FabricationL imited,XQPYG1183T,"Plot 417, Okhla Ind Estate, Chennai, TN",9606168119
+EPF-794228,Balaji Technologies LLP,GCONW8157L,"plot 434, hitec city, mumbai, mh",9136876623
+EPF-494437,Apex Logistics Limited,WLAAT6876C,"Plot 682, MIDC, Mumbai, MH",9644125902
+EPF-738463,Metro Industries LLP,GGPCO3035Y,"Plot 810, MIDC, Pune, MH",9314280595
+EPF-577618,Apex Traders LLP,RPRAW8972I,"Plot 79, GIDC, Delhi, DL",9724284549
+EPF-236647,Global Logistics Liimted,QIONC1174P,"plot 818, gidc, ahmedabad, gj",9333920873
+EPF-48431,Balaji Logistics Limited,MEUBU2864U,"plot 216, peenya, delhi, dl",9909305433
+EPF-806480,Stellar Ventures Limited,TKKBQ0778G,"Plot 582, Okhla Ind Estate, Delhi, DL",9408647631
+EPF-379299,Apex Industreis LLP,YKGKS0474L,"plot 520, okhla ind est, bengaluru, ka",9616402125
+EPF-455028,Global Traders Pvt Ltd,TSRQR6332Z,"Plot 870, Okhla Ind Estate, Ahmedabad, GJ",9909266863
+EPF-114726,Dynamic Traders LLP,QHYQE7904J,"Plot 609, Okhla Ind Estate, Ahmedabad, GJ",9276676745
+EPF-475707,Acme Technologies LLP,ZATUO4954B,"plot 588, peenya, bengaluru, ka",9491448257
+EPF-297914,Shree Ventures Pvt Ltd,KNZVS5568D,"plot 497, gidc, delhi, dl",9782099533
+EPF-238386,Tech Logistics Pvt Ltd,XIDIY7743S,"plot 555, gidc, mumbai, mh",9398279692
+EPF-71661,Prime Enterprises LLP,TMGGV5113T,"plot 500, peenya, pune, mh",9100065909
+EPF-39112,Prime Enterprises Limited,AYUOE6686H,"plot 264, guindy, delhi, dl",9708147882
+EPF-554931,Om Logistics Liimted,KPIRE5401D,"Plot 661, Hitec City, Chennai, TN",9412894619
+EPF-856093,Dynamic Industries LLP,RIERY3421R,"gala no. 16, shady complex, hyderabad, ts",800235888
+EPF-255085,Prime Industries Pvt Ltd,RZWNG9300M,"Plot 667, Phase 1, Electronic City, Chennai, TN",9492379414
+EPF-922844,Prime Ventures LLP,KYODQ1820H,"plot 83, peenya, bengaluru, ka",9479434342
+EPF-496048,Shree Industires LLP,AYULT6863S,"plot 857, ph 1, electronic city, delhi, dl",9536012025
+EPF-511204,Shree Enterprises LLP,ORJJA0540X,"plot 594, gidc, delhi, dl",9333100393
+EPF-621450,Balaji Corp Limited,EZNIS4730Y,"Plot 585, GIDC, Pune, MH",9428569963
+EPF-590045,Om Solutions Pvt Ltd,CRUZG5329U,"Plot 715, GIDC, Pune, MH",9891085115
+EPF-707837,Shree Industries Pvt Ltd,HSRPE9278D,"plot 294, okhla ind est, delhi, dl",9286964177
+EPF-790862,Sunrise Traders LLP,EYOKV0633J,"plot 161, guindy, ahmedabad, gj",9655578790
+EPF-472352,Tech Industries LLP,MIAOX7309D,"Plot 150, GIDC, Chennai, TN",9872014692
+EPF-830475,Dynamic Traders Pvt Ltd,ZNGIH8167J,"plot 217, guindy, chennai, tn",9453595399
+EPF-838461,Dynamic Enterrpises LLP,KQJMM4275Z,"plot 88, peenya, bengaluru, ka",9480467410
+EPF-169092,Metro Corp Pvt Ltd,HYVCV4488W,"plot 207, peenya, bengaluru, ka",9779269892
+EPF-582726,Apex Ventures Pvt Ltd,ZAGZV2426E,"plot 195, ph 1, electronic city, ahmedabad, gj",9983772855
+EPF-226894,Global Logistics LLP,JCITS7934A,"plot 51, guindy, bengaluru, ka",9423847430
+EPF-776129,DynamicL ogistics Pvt Ltd,PLSFG5334T,"Plot 321, Guindy, Pune, MH",9463746448
+EPF-169616,Shree Fabrication Limited,QTCVX5487Z,"plot 711, okhla ind est, bengaluru, ka",9659788701
+EPF-658274,Stellar Traders LLP,SOHUW2471P,"Plot 480, Peenya, Pune, MH",9953433243
+EPF-845135,Stellar Corp Pvt Ltd,HERNR3935F,"plot 412, midc, ahmedabad, gj",9146841354
+EPF-811280,Shree Traedrs LLP,JVUMU2590W,"plot 797, gidc, ahmedabad, gj",9542463558
+EPF-858138,Tech Corp Limited,AMDYR8409C,"Plot 454, GIDC, Pune, MH",9169533096
+EPF-730322,Prime Fabrication Pvt Ltd,BRBXS8761D,"plot 48, peenya, bengaluru, ka",9841229652
+EPF-653340,Sunrise Traders LLP,CSJIS3717S,"Plot 909, Peenya, Mumbai, MH",9582701094
+EPF-449357,Tech Enterprises LLP,IFZNW5680U,"Plot 351, Guindy, Ahmedabad, GJ",9508356539
+EPF-258797,Balaji Solutinos Pvt Ltd,USPIV0070V,"Plot 686, Peenya, Delhi, DL",9514171653
+EPF-36623,DynamicC orp Pvt Ltd,UAXUJ5491O,"Plot 467, GIDC, Pune, MH",9168989433
+EPF-240488,Stellar Enterprises LLP,OHZCV2459J,"plot 729, okhla ind est, bengaluru, ka",9904680334
+EPF-684424,Stella rCorp Limited,ZARJE8686W,"Plot 311, Peenya, Delhi, DL",9712997782
+EPF-966487,Prime Technologies Limited,LJLVY5704S,"plot 516, peenya, chennai, tn",9428776991
+EPF-516441,Prmie Technologies Pvt Ltd,QSZJK7392Z,"Plot 218, Hitec City, Pune, MH",9674453400
+EPF-570625,PrimeT echnologies Pvt Ltd,HTNKJ7213S,"plot 521, peenya, ahmedabad, gj",9322333947
+EPF-763201,Dynamic Traders LLP,FAJXP1728X,"plot 367, hitec city, mumbai, mh",9928962515
+EPF-260362,Metro Logistics Pvt Ltd,GQCJH5961K,"Plot 147, MIDC, Chennai, TN",9288582172
+EPF-65060,Global Ventures Pvt tLd,OZEOI4153B,"gala no. 24, shady complex, hyderabad, ts",800430565
+EPF-127083,Pirme Logistics Limited,JAANC7586J,"plot 81, gidc, hyderabad, ts",9537346898
+EPF-618191,Prime Ventures Limited,PNIQJ4851M,"plot 416, guindy, pune, mh",9195328255
+EPF-180960,Metro Solutions Pvt Ltd,UWEQI4888M,"plot 287, okhla ind est, hyderabad, ts",9642805709
+EPF-348661,Sunrise Enterprises LLP,DQWPX6563C,"Plot 290, Okhla Ind Estate, Bengaluru, KA",9205271981
+EPF-236856,Apex Enterprises LLP,LEUPJ5361B,"plot 52, okhla ind est, hyderabad, ts",9902032815
+EPF-564301,Apex Technologies Pvt Ldt,WDLZM6137E,"plot 81, peenya, chennai, tn",9715000770
+EPF-641840,Apex Technologies Pvt Ltd,FXDBO0497E,"Plot 135, MIDC, Chennai, TN",9994506594
+EPF-445760,Global Fabrictaion LLP,EZSMT6080Q,"Plot 230, MIDC, Hyderabad, TS",9862269381
+EPF-136502,Apex VenturesL imited,IWWUO3129S,"plot 887, ph 1, electronic city, bengaluru, ka",9532272233
+EPF-376824,Baljai Technologies LLP,GBBZM6216Y,"plot 614, okhla ind est, chennai, tn",9775918701
+EPF-653446,Metro Enterprises Pvt Ltd,VMOSC2002L,"plot 481, hitec city, ahmedabad, gj",9848533366
+EPF-986508,Prime Venture sLLP,FPGAK7947N,"plot 6, midc, mumbai, mh",9260379437
+EPF-912904,Acme Technologies LLP,FEPCA7586E,"Plot 5, Okhla Ind Estate, Ahmedabad, GJ",9739040277
+EPF-800455,Apex Logistics Limited,NWARB5970X,"plot 751, hitec city, delhi, dl",9411182357
+EPF-172152,Balaji Enterprises LLP,NYRDZ5950J,"Plot 337, GIDC, Mumbai, MH",9311475574
+EPF-409901,Acme Industries Limited,ZZIFX4744K,"Plot 805, Guindy, Ahmedabad, GJ",9568265176
+EPF-121973,Srhee Solutions Limited,ZHFXM3791J,"plot 8, peenya, ahmedabad, gj",9491488293
+EPF-839086,Stellar Fabrication Limited,LQINE8104X,"Plot 606, Peenya, Pune, MH",9712582927
+EPF-100122,Acme Enterprises Lmiited,XZRWF4745F,"plot 159, guindy, pune, mh",9965806768
+EPF-398608,Acme Industries Limited,NTCSE8701Y,"plot 951, gidc, pune, mh",9698061377
+EPF-976595,Prime Traders Limited,DSPKF4432Q,"Plot 398, Peenya, Chennai, TN",9565567918
+EPF-482871,Prime Enterprises Limited,EVAWE0408T,"Plot 241, Guindy, Bengaluru, KA",9591272858
+EPF-945018,Global oLgistics LLP,LWDSW4013C,"plot 322, peenya, ahmedabad, gj",9704713987
+EPF-751720,Balaji Logisitcs LLP,TDZQX7098N,"Plot 727, Okhla Ind Estate, Bengaluru, KA",9410451057
+EPF-982720,Sunrise Traders Pvt Ltd,XBGNF0556D,"plot 124, hitec city, bengaluru, ka",9282241429
+EPF-389763,Blaaji Fabrication Limited,LYASL8821K,"plot 329, hitec city, bengaluru, ka",9878193283
+EPF-608224,Sunrise Logistics Pvt Ltd,MKHWW4845X,"Plot 649, Peenya, Mumbai, MH",9738394779
+EPF-678572,Sunrise Fabrication Limited,WVNHL3368W,"plot 351, midc, pune, mh",9759248273
+EPF-907998,Acme Traders Pvt Ltd,QWWRD1793H,"plot 796, hitec city, pune, mh",9272056018
+EPF-473837,Apex Industries LLP,ZFDWF4463J,"Plot 840, Peenya, Mumbai, MH",9349468693
+EPF-321573,Globla Enterprises Limited,NUOIM6620A,"Plot 542, GIDC, Chennai, TN",9157664776
+EPF-890416,Dynaimc Logistics LLP,QZIKN9317B,"Plot 692, Phase 1, Electronic City, Hyderabad, TS",9285266568
+EPF-88337,Sunrise Technologies LLP,DXUUZ0747K,"Plot 109, Hitec City, Pune, MH",9498094354
+EPF-236544,Prime Ventures Pvt Ltd,BEKXJ1327Z,"plot 794, guindy, ahmedabad, gj",9431472999
+EPF-301517,Pioneer Solutions Pvt Ltd,EFGPN3852L,"Plot 330, Okhla Ind Estate, Mumbai, MH",9643582370
+EPF-523639,Metro TradersP vt Ltd,ZKEOU0194P,"plot 599, gidc, delhi, dl",9978975349
+EPF-538482,Tech Technolgoies LLP,VIPWU1528Q,"Plot 425, GIDC, Ahmedabad, GJ",9528640209
+EPF-276232,Dynamic Fabrication LLP,FTCFA5247T,"plot 318, okhla ind est, chennai, tn",9822964607
+EPF-990457,Shree Techonlogies Pvt Ltd,XMKYE4251B,"Plot 844, Phase 1, Electronic City, Bengaluru, KA",9532527440
+EPF-645240,Shree Technologise Pvt Ltd,NBSXT5069K,"Plot 625, MIDC, Delhi, DL",9739659831
+EPF-797505,Sunris eFabrication Limited,PNKNP6312K,"plot 374, guindy, bengaluru, ka",9203086309
+EPF-105528,Tech Industries Pvt Ltd,ORAEB0448M,"plot 68, peenya, pune, mh",9176400102
+EPF-218002,Om Corp Limited,FRGUH7171G,"plot 633, ph 1, electronic city, delhi, dl",9211889014
+EPF-317541,Om Enterprises Limited,EWDHY1084L,"plot 441, midc, delhi, dl",9281346437
+EPF-978047,Stellar Ventures Pvt Ldt,GFWJI3520G,"Plot 285, Okhla Ind Estate, Delhi, DL",9725690853
+EPF-721933,Tech Corp Limited,NTFEZ4403C,"plot 755, peenya, pune, mh",9803550540
+EPF-326920,Shree Traders LLP,ROEWX2198J,"plot 968, ph 1, electronic city, pune, mh",9726174018
+EPF-297612,Global Traders Pvt Ltd,SEOAE9998D,"Plot 473, Peenya, Hyderabad, TS",9554414427
+EPF-538446,Apex Fabrication LLP,LGLHC7442Q,"Plot 968, Phase 1, Electronic City, Bengaluru, KA",9858126278
+EPF-827137,Dynamic Technologies Limited,SIGMM8361X,"plot 95, guindy, pune, mh",9313394431
+EPF-887139,Dynamic Technologies LLP,PIWQX2100E,"Plot 257, GIDC, Delhi, DL",9983027945
+EPF-683415,Shree Industries Pvt Ltd,EZYON7090N,"plot 700, peenya, delhi, dl",9372854425
+EPF-699847,Shree Logistics Pvt Ltd,HBFGG3657U,"Plot 784, MIDC, Ahmedabad, GJ",9608698103
+EPF-185367,Tceh Traders Limited,ZSBWG8545A,"Plot 417, Hitec City, Hyderabad, TS",9808792412
+EPF-588073,Balaji Industries Pv tLtd,RDQRC4846P,"plot 2, peenya, hyderabad, ts",9196863385
+EPF-425696,Sunrise Solutions Pvt Ltd,SFIZU7658S,"Plot 724, Hitec City, Mumbai, MH",9962901528
+EPF-634922,Dynamic Fabrication Limited,WDXFV0015C,"plot 522, midc, hyderabad, ts",9217304833
+EPF-847664,Shree Logistics Limited,DOYKF9985H,"plot 93, ph 1, electronic city, bengaluru, ka",9995322828
+EPF-496057,AcmeS olutions LLP,MOIEF5566B,"Plot 881, Phase 1, Electronic City, Pune, MH",9266812871
+EPF-999018,Metro Enterprises LLP,HPXEU3116E,"Plot 301, MIDC, Hyderabad, TS",9110851844
+EPF-277385,Ape xTechnologies Limited,MXJJJ3618W,"plot 476, guindy, chennai, tn",9143449570
+EPF-445507,Stellar Fabrication Limietd,AQGDE1532P,"plot 68, gidc, ahmedabad, gj",9871129684
+EPF-480225,Pioneer Technologies Limited,WERBY0717L,"Plot 111, Okhla Ind Estate, Pune, MH",9670435339
+EPF-302751,Prime Ventures LLP,NEOHR1776Z,"plot 543, midc, delhi, dl",9343259975
+EPF-504751,Global Ventures Pvt Ltd,KTCFZ9633M,"plot 839, hitec city, chennai, tn",9889862781
+EPF-333330,Apex Enterprises Pvt Ltd,WSKCL2203D,"Plot 368, MIDC, Mumbai, MH",9428142043
+EPF-567550,Stellar Industries LLP,OHNGO1139L,"gala no. 61, shady complex, pune, mh",800547700
+EPF-946186,Dynamic Solutions LLP,VSGXF6060Q,"Plot 265, MIDC, Delhi, DL",9613494251
+EPF-808407,Balaji Solutions Pvt Ltd,HKXDL8585G,"Plot 172, Okhla Ind Estate, Ahmedabad, GJ",9454285837
+EPF-490026,Dynamic Vetnures LLP,TDMLB6125T,"plot 915, okhla ind est, mumbai, mh",9538971104
+EPF-640969,Stellar Technologies Limited,SKKKI6313C,"Plot 756, Hitec City, Delhi, DL",9755161705
+EPF-938185,Sunrise Technologies LLP,PJXRD4610X,"Plot 796, MIDC, Pune, MH",9792016515
+EPF-941676,Metro Soultions Pvt Ltd,UCGOM5702H,"plot 351, hitec city, hyderabad, ts",9928694480
+EPF-299186,Stlelar Solutions Limited,EZSGZ9108K,"plot 815, peenya, bengaluru, ka",9696614366
+EPF-946097,Acme Solutions iLmited,FBGHX6848D,"Plot 417, Phase 1, Electronic City, Delhi, DL",9149212941
+EPF-314755,Pioneer Corp Pvt Ltd,XDYDV5456W,"Plot 129, Guindy, Pune, MH",9552418448
+EPF-370480,Om Industries Pvt Ltd,DMXSU0305G,"plot 738, midc, ahmedabad, gj",9788263147
+EPF-42036,Om Industrie sLLP,WBSEL7122C,"plot 12, gidc, mumbai, mh",9619962450
+EPF-769470,Sunrise Industries Limited,RUYCM9355W,"plot 59, peenya, ahmedabad, gj",9635275336
+EPF-317103,Sunrise Industires Pvt Ltd,KWYUA1925B,"Plot 572, Peenya, Ahmedabad, GJ",9380951945
+EPF-731335,Om Traders Limited,EAEWS2258C,"plot 902, guindy, delhi, dl",9761982688
+EPF-841503,Global Logistics LLP,BVFID2414B,"plot 872, peenya, pune, mh",9585229209
+EPF-314360,Om nEterprises Limited,FNAMO5396E,"Plot 373, MIDC, Bengaluru, KA",9673118657
+EPF-366710,Dynamic Logistics LLP,MCZDV4287M,"plot 819, guindy, bengaluru, ka",9571006852
+EPF-506361,Om Corp Pvt Ltd,IUKNI4774Y,"plot 377, okhla ind est, chennai, tn",9330623370
+EPF-760707,Dynamic Technologies Pvt Ltd,RHMAV7311V,"plot 536, gidc, chennai, tn",9626336699
+EPF-803330,Apex Corp Lmiited,EOCNN0243R,"plot 906, peenya, delhi, dl",9543390238
+EPF-582472,Stellar Enterprises Limited,LCZXM3091X,"Plot 166, Hitec City, Ahmedabad, GJ",9455420554
+EPF-955850,Apex Fabricaiton LLP,JODGP9489V,"Plot 465, Peenya, Bengaluru, KA",9699863421
+EPF-270009,MetroT raders LLP,FELQM4913I,"plot 422, midc, ahmedabad, gj",9402089435
+EPF-639633,Prime Fabrication Pvt Ltd,YIVRI5376C,"Plot 144, GIDC, Bengaluru, KA",9461912891
+EPF-143835,Prime Soltuions Limited,LUGBZ2164T,"Plot 657, Peenya, Chennai, TN",9481358460
+EPF-819890,Balaji Fabrication LLP,PPBSD4941U,"Plot 418, Hitec City, Bengaluru, KA",9454712424
+EPF-636821,Sunrise Traders Pvt Ltd,WXTID5197Z,"Plot 251, GIDC, Mumbai, MH",9168579953
+EPF-464245,Apex Enterprise sLLP,GNCNL5575O,"plot 378, midc, mumbai, mh",9273300319
+EPF-545774,Acme Ventures Lmiited,FAJNQ3656G,"Plot 944, Guindy, Chennai, TN",9320776541
+EPF-470433,Aepx Ventures Limited,KIOYI4669T,"Plot 40, Okhla Ind Estate, Bengaluru, KA",9689647398
+EPF-856520,Sunrise Ventures Pvt Ltd,CCGRK7067R,"Plot 386, Hitec City, Hyderabad, TS",9108322838
+EPF-552083,Balaji Logistisc LLP,VUPSA4844A,"Plot 702, Phase 1, Electronic City, Delhi, DL",9956049944
+EPF-505372,Om Technologies Limtied,TVFZX3700C,"Plot 386, Hitec City, Ahmedabad, GJ",9317669717
+EPF-697966,Pioneer Solutiosn LLP,UDCTD1668F,"Plot 839, Phase 1, Electronic City, Chennai, TN",9763949943
+EPF-176389,Sunrise Industries Limited,SACWL8716G,"plot 691, midc, ahmedabad, gj",9496666828
+EPF-957378,Balaji Solutions Pvt Ltd,LMGRF8977K,"Plot 399, Peenya, Chennai, TN",9929873949
+EPF-916735,Sunrise Enterprises LLP,CDZLE0611R,"plot 636, peenya, ahmedabad, gj",9805403676
+EPF-564087,Tech Corp Limited,PWGEE7944G,"plot 210, okhla ind est, ahmedabad, gj",9163580217
+EPF-345850,Apex Technologies Limited,HSWCM2507K,"plot 428, midc, ahmedabad, gj",9943269850
+EPF-364414,Stellar Ventures LLP,UIHBX9315K,"plot 559, ph 1, electronic city, mumbai, mh",9364936975
+EPF-680513,Balaji SolutionsL imited,LTZVF1727G,"Plot 571, Peenya, Ahmedabad, GJ",9284639418
+EPF-18611,Sunrise Corp LLP,OKNYM6306V,"plot 510, guindy, chennai, tn",9442344657
+EPF-901061,Pinoeer Fabrication LLP,VQCZS2910G,"Plot 899, Peenya, Hyderabad, TS",9730293858
+EPF-811678,Stellar Traders Pvt Ltd,IFWPS0250Y,"Plot 529, MIDC, Ahmedabad, GJ",9202823274
+EPF-613541,Shree Logistics LLP,INLWZ3502S,"Plot 270, GIDC, Delhi, DL",9310309288
+EPF-675656,Om Industries Pvt Ltd,VVDFM9144G,"plot 743, hitec city, hyderabad, ts",9809225457
+EPF-133823,Balaji Enterprises LLP,TGXYG5828U,"Plot 472, MIDC, Hyderabad, TS",9694745174
+EPF-177286,Metro Tarders LLP,LYXJL8225M,"plot 382, midc, pune, mh",9596121371
+EPF-58609,Balaji Traders Pvt Ltd,VJRHI6121P,"Plot 205, Phase 1, Electronic City, Hyderabad, TS",9623593279
+EPF-355538,Om Logistcis Pvt Ltd,RUSIB0524E,"plot 131, guindy, ahmedabad, gj",9500539495
+EPF-942688,Shree Fabrication Pvt Ltd,BSIGJ0378F,"Plot 542, Hitec City, Ahmedabad, GJ",9565583633
+EPF-507769,Prime Logistics Pvt Ltd,TLBAE5664S,"plot 39, guindy, mumbai, mh",9187203728
+EPF-468873,Aepx Corp Limited,WOVGS3167W,"Plot 699, Peenya, Delhi, DL",9520053573
+EPF-12923,Sunrise Traders iLmited,LGCSA2499D,"Plot 871, Phase 1, Electronic City, Ahmedabad, GJ",9483735669
+EPF-782799,Prime Industries LLP,UODVO3980R,"plot 288, hitec city, bengaluru, ka",9720421518
+EPF-382184,Shree Inudstries LLP,VQISF1602A,"plot 147, okhla ind est, hyderabad, ts",9425546469
+EPF-547733,Om Corp Limited,THNKM9982H,"plot 474, midc, hyderabad, ts",9737676123
+EPF-330749,Prime Technologies Limited,IBFKJ5057G,"Plot 578, MIDC, Pune, MH",9263089271
+EPF-20205,Pioneer Corp Pvt Ltd,FWJKD4946K,"Plot 826, MIDC, Delhi, DL",9894658685
+EPF-233451,Prime Enterprises Limited,RKDNX1348W,"Plot 348, MIDC, Pune, MH",9665181624
+EPF-420785,Shere Corp LLP,FIVDP2766W,"plot 39, guindy, hyderabad, ts",9921577394
+EPF-794624,Apex Logistics LLP,XABCC9964A,"plot 107, hitec city, chennai, tn",9815746157
+EPF-638000,ShreeT raders LLP,DUNRO3792C,"plot 819, gidc, chennai, tn",9526562137
+EPF-307033,Dynamic Industries Pvt Ltd,RCYIH8648O,"plot 955, hitec city, delhi, dl",9937268483
+EPF-153447,Dynamic Enterprises PvtL td,SNMGT3555A,"Plot 689, Guindy, Pune, MH",9794767973
+EPF-811153,Stellar Corp LLP,AYVNH6273H,"Plot 984, Okhla Ind Estate, Hyderabad, TS",9351763504
+EPF-247319,Pioneer Industries Limited,GBPFP0511F,"plot 406, hitec city, ahmedabad, gj",9727676008
+EPF-849787,Stellar Fabrication Limited,UWXZG8131B,"Plot 210, Phase 1, Electronic City, Hyderabad, TS",9742126866
+EPF-214094,Prime Technologeis Limited,YPULT0467S,"plot 431, okhla ind est, delhi, dl",9575369502
+EPF-16049,Dynamic Industries Pvt Ltd,NCHZR5344S,"gala no. 90, shady complex, delhi, dl",800934779
+EPF-985501,OmL ogistics Limited,GZWAW2223F,"plot 666, midc, chennai, tn",9923420061
+EPF-739233,Metro Corp Pvt Ltd,ANONE8697C,"Plot 220, Okhla Ind Estate, Pune, MH",9925337064
+EPF-802188,Stellar Industries Pvt Ltd,WJBTP3226O,"Plot 535, MIDC, Hyderabad, TS",9217171578
+EPF-603826,Stellar Technologies Pvt Ltd,RBPOS8114T,"plot 190, okhla ind est, mumbai, mh",9495500817
+EPF-942933,Tech Technologies Limited,HPBZP7088K,"Plot 705, Guindy, Ahmedabad, GJ",9929410971
+EPF-627481,Dynami cTraders LLP,KEXTP4084J,"plot 638, gidc, bengaluru, ka",9422399320
+EPF-862381,Dynamic Traders Pvt Ltd,CZCVB3492B,"Plot 597, Hitec City, Delhi, DL",9316964813
+EPF-351493,Stellar Crop LLP,DVUAP3817I,"plot 453, gidc, mumbai, mh",9735990348
+EPF-689572,Acme Fbarication Pvt Ltd,YUNOJ8838A,"plot 128, gidc, pune, mh",9434896762
+EPF-366878,Tech Logistisc LLP,FCYYJ9793O,"plot 455, peenya, hyderabad, ts",9724694009
+EPF-504160,Metro Fabrication Pvt Ltd,YEOXI8241X,"plot 459, hitec city, pune, mh",9323161578
+EPF-217419,Balaji Ventures Limited,MCTEX4311E,"Plot 165, Hitec City, Delhi, DL",9828082217
+EPF-821065,Apex Solutions Pvt Ldt,EDQUL0164H,"Plot 84, Peenya, Hyderabad, TS",9588436465
+EPF-113722,Shree Traders Limited,KFEBR3313D,"Plot 423, Peenya, Bengaluru, KA",9875512045
+EPF-132266,Sunrise Logistics Limited,LJCHE6133M,"Plot 465, GIDC, Pune, MH",9208146463
+EPF-326134,Sunrise Enterprises Pvt Ltd,NQUZY8968J,"plot 676, peenya, mumbai, mh",9602172859
+EPF-155441,Apex nIdustries Limited,XZZGK6281U,"Plot 930, Phase 1, Electronic City, Pune, MH",9199421084
+EPF-960873,Surnise Ventures LLP,OPVSF6493Q,"plot 520, ph 1, electronic city, delhi, dl",9660109847
+EPF-392167,Om Traders LLP,VAFBH1884E,"plot 556, okhla ind est, delhi, dl",9514736489
+EPF-621573,Global Logistics Limited,XMAEG5021N,"Plot 15, Hitec City, Delhi, DL",9410095865
+EPF-612570,Dynamic Indusrties Pvt Ltd,PWUJD0444O,"plot 913, ph 1, electronic city, chennai, tn",9489922828
+EPF-282849,Acme Ventures LLP,UCTXF9369E,"Plot 828, Okhla Ind Estate, Ahmedabad, GJ",9677728421
+EPF-100889,Balaji Technologie sLLP,MQLKS0284H,"plot 59, midc, delhi, dl",9579843470
+EPF-61576,Dynamic Enterprises Limited,WIOGY5779Q,"Plot 761, MIDC, Bengaluru, KA",9388316209
+EPF-425086,Balaji Ventures LLP,DMYBW9766Y,"Plot 976, GIDC, Hyderabad, TS",9514136959
+EPF-509607,Tech Ventures Pvt Ltd,XIQSJ7937L,"plot 547, ph 1, electronic city, ahmedabad, gj",9752181628
+EPF-630584,Stellar Industries Pvt Ltd,KRDQX4638M,"plot 310, ph 1, electronic city, bengaluru, ka",9887663043
+EPF-828781,Metro Fabrication iLmited,BVYTR7420Y,"plot 98, midc, pune, mh",9721022083
+EPF-835599,Apex Corp Pvt Ltd,VVPHE4968E,"Plot 487, MIDC, Hyderabad, TS",9360638513
+EPF-344472,Stellar Corp Pvt Ltd,IHJTB9817V,"Plot 90, Hitec City, Ahmedabad, GJ",9466350642
+EPF-170829,Metro Industries LLP,WGUKY5376V,"plot 284, peenya, chennai, tn",9250475121
+EPF-125220,Prime Enterprises Pvt Ltd,GLXUW6284U,"Plot 62, GIDC, Hyderabad, TS",9766509451
+EPF-940981,Global Solutions Pvt Ltd,SDYIM0523X,"plot 576, peenya, bengaluru, ka",9648566544
+EPF-47540,Sunrise Logistics Pvt Ltd,QVMQU1113N,"plot 338, hitec city, bengaluru, ka",9252448429
+EPF-631367,Merto Solutions Limited,IIDMO7834P,"plot 198, midc, pune, mh",9184942229
+EPF-893552,Pioneer Technologeis Limited,SNYOP5303V,"plot 148, guindy, ahmedabad, gj",9566323208
+EPF-92754,Tech Solutions Pvt tLd,GCGUU2592I,"Plot 20, Okhla Ind Estate, Chennai, TN",9807139940
+EPF-381173,Apex Fabrication Pvt Ltd,UVXRE6135K,"plot 915, okhla ind est, pune, mh",9376765118
+EPF-494649,Global Solutions LLP,DOGIX3716O,"plot 439, okhla ind est, delhi, dl",9380625733
+EPF-82566,Acme Traders Limtied,PLDXK7448V,"Plot 904, Phase 1, Electronic City, Mumbai, MH",9991466971
+EPF-88021,Metro Logistics Limited,JBOKH7231I,"Plot 953, Phase 1, Electronic City, Ahmedabad, GJ",9868687910
+EPF-797944,Om Traedrs LLP,ALGFW1930M,"Plot 737, Hitec City, Pune, MH",9715505559
+EPF-143305,Shree Enterprises Pvt Ltd,FPXDB8373J,"Plot 132, Phase 1, Electronic City, Ahmedabad, GJ",9290969705
+EPF-105191,Dynamic Traders Limietd,BHRGL8307R,"plot 205, guindy, mumbai, mh",9461289243
+EPF-792507,Acme Loigstics Limited,MYDSJ6630D,"Plot 436, Hitec City, Chennai, TN",9300237768
+EPF-312247,Global Corp Pvt Ltd,ATZZA7970O,"Plot 538, Phase 1, Electronic City, Hyderabad, TS",9287300806
+EPF-711119,Global Industries LLP,QMIEW1226L,"plot 449, peenya, delhi, dl",9606346271
+EPF-522575,Pioneer Industrie sLLP,INDCD0296C,"plot 116, guindy, mumbai, mh",9807157000
+EPF-448034,Tech Fabrication Limited,VSPZZ1263F,"gala no. 24, shady complex, hyderabad, ts",800430565
+EPF-548834,Global Fabrication Pvt Ltd,RPSRQ6862O,"plot 616, okhla ind est, hyderabad, ts",9913866113
+EPF-542596,Apex Enterprises Limited,YANWN9704Z,"Plot 184, MIDC, Bengaluru, KA",9307822594
+EPF-518378,Apex Ventures Pvt Ltd,ONWYW5297N,"Plot 975, Peenya, Hyderabad, TS",9817784832
+EPF-764095,Sunrise Traders LLP,OVVNY5525T,"Plot 49, Peenya, Mumbai, MH",9919895743
+EPF-769953,Metro eTchnologies LLP,NYJCG7658S,"plot 652, hitec city, ahmedabad, gj",9108951060
+EPF-448891,Sunrise Solutions Pvt Ltd,ONQGP1909X,"plot 911, okhla ind est, mumbai, mh",9874030486
+EPF-627675,Sunrise Fabrication Limited,GQEDH9805X,"plot 956, hitec city, hyderabad, ts",9504537695
+EPF-970859,Sunrise Logistic sLimited,AVFQQ1638C,"Plot 129, Phase 1, Electronic City, Hyderabad, TS",9211747038
+EPF-230067,Stelalr Logistics LLP,UZVGB3435S,"plot 186, okhla ind est, chennai, tn",9358242893
+EPF-665412,Acme Solutions LLP,GQULH6683K,"Plot 341, Guindy, Mumbai, MH",9587588614
+EPF-713466,Metro Technologies Limited,CCOQX4778U,"Plot 169, Okhla Ind Estate, Chennai, TN",9261818776
+EPF-685679,Snurise Corp Limited,NHCYH6784D,"Plot 261, MIDC, Chennai, TN",9772958403
+EPF-332552,Shree Traders LLP,HCRST5260W,"Plot 363, Guindy, Hyderabad, TS",9568293056
+EPF-964396,Tech Traders Pvt tLd,HAQMQ1217L,"Plot 584, Peenya, Hyderabad, TS",9133730991
+EPF-276547,Shree Solutions Limited,WHFCL7028Z,"Plot 253, GIDC, Pune, MH",9155729551
+EPF-816426,Metro Corp LLP,MBTUM8749A,"Plot 211, GIDC, Pune, MH",9221714871
+EPF-323552,Om Traders LLP,VXULT5274E,"plot 890, okhla ind est, bengaluru, ka",9762877506
+EPF-437826,Pioneer Technologies LLP,VRYHM7502D,"Plot 394, Phase 1, Electronic City, Chennai, TN",9921404863
+EPF-289556,Apxe Corp Limited,EMHFP6844Z,"plot 301, midc, pune, mh",9884201726
+EPF-656953,Global oSlutions Pvt Ltd,ALRVT1911J,"Plot 677, GIDC, Chennai, TN",9896210602
+EPF-190589,Tech Industries Limited,PKCFP7846T,"plot 229, okhla ind est, ahmedabad, gj",9239930415
+EPF-573949,Global Logistics LLP,TYPCJ8891Q,"plot 44, hitec city, pune, mh",9442906498
+EPF-722721,Prmie Ventures Limited,WHAWS7637M,"plot 738, hitec city, ahmedabad, gj",9306914303
+EPF-645443,Apex Logistics LLP,JLEUJ8112Z,"plot 879, midc, chennai, tn",9128390155
+EPF-918491,Stellar Corp LPL,RZJTB4165W,"Plot 64, Okhla Ind Estate, Bengaluru, KA",9844467154
+EPF-543571,Pioneer Enterprises Limited,BHUWS5989G,"plot 609, hitec city, pune, mh",9853828280
+EPF-94952,Pioneer TechnologiesL imited,ZUCSP7422B,"plot 217, midc, hyderabad, ts",9831158228
+EPF-422472,Globla Solutions Limited,YDXUK2749I,"Plot 860, GIDC, Bengaluru, KA",9168761636
+EPF-580419,Shree Enterprises Limited,XPSSG7990S,"Plot 767, GIDC, Bengaluru, KA",9655892330
+EPF-412836,Tech Enterprises LLP,NPMCN4592K,"plot 253, guindy, chennai, tn",9825395573
+EPF-390981,Acme Fabrication Pvt Ltd,BTAZN4822F,"Plot 680, Phase 1, Electronic City, Hyderabad, TS",9954620217
+EPF-432923,Prime Enterprises LLP,CLXCQ7104S,"Plot 52, Hitec City, Delhi, DL",9565536605
+EPF-308171,SunriseT raders Pvt Ltd,ELIGC0820N,"plot 902, hitec city, delhi, dl",9313043555
+EPF-18386,Global Corp Pvt Ltd,ZSNRQ4998M,"Plot 108, MIDC, Pune, MH",9222757985
+EPF-268272,Shree Industries LLP,XDDDO7698U,"Plot 449, Peenya, Ahmedabad, GJ",9238382334
+EPF-444059,Prime Enterprises LLP,ZHLWZ9457W,"plot 553, peenya, delhi, dl",9891393425
+EPF-643381,Stellar Logistics LLP,FWGRT0321N,"Plot 60, MIDC, Mumbai, MH",9468510469
+EPF-747307,Global Solutinos Pvt Ltd,YPUZM6110V,"Plot 302, Hitec City, Bengaluru, KA",9118351836
+EPF-412551,Shree Technologies Limtied,OKSFG8563A,"Plot 849, Phase 1, Electronic City, Ahmedabad, GJ",9747191827
+EPF-591029,Sunrise Logistics Limited,CSSNQ3216R,"plot 104, guindy, pune, mh",9747920387
+EPF-344022,Aepx Solutions LLP,AVNWT1338U,"plot 4, okhla ind est, ahmedabad, gj",9450432951
+EPF-898833,Om Logistics Pvt Ltd,UARAX3448T,"Plot 871, Peenya, Chennai, TN",9958832324
+EPF-11005,Stellar Ventures Pvt Ltd,QDBNT4535J,"plot 323, okhla ind est, bengaluru, ka",9705321391
+EPF-474141,Global Traders Pvt Ltd,LCOHL5871Q,"plot 992, gidc, chennai, tn",9980576912
+EPF-866945,Dynamic Fabrication Limitde,ZPBCW2772K,"plot 932, ph 1, electronic city, hyderabad, ts",9474592943
+EPF-935202,Tech Logistics Limited,WZEGS4195F,"plot 582, peenya, bengaluru, ka",9563671526
+EPF-244396,Global Solutions Pvt Ldt,IOINU4951I,"Plot 722, Peenya, Delhi, DL",9266614402
+EPF-566623,Dynamic Industrie sPvt Ltd,UJWZB0794P,"plot 127, midc, bengaluru, ka",9675368938
+EPF-310116,Acme Ventures Pvt Ltd,RALJG2992K,"plot 988, midc, ahmedabad, gj",9244251821
+EPF-550135,Om Enterpriess Pvt Ltd,PXZMN0373F,"plot 271, guindy, chennai, tn",9708143129
+EPF-593804,Acme Industries Limited,MPYTF2469K,"Plot 192, GIDC, Bengaluru, KA",9423922679
+EPF-451551,Tech Corp Pvt Ltd,SQRTL3507C,"plot 366, ph 1, electronic city, mumbai, mh",9134363005
+EPF-472502,Metro Traders Pvt Ltd,UUZSG1764H,"plot 921, hitec city, chennai, tn",9420253265
+EPF-145895,Global Traedrs Pvt Ltd,KBVZV5652Y,"plot 453, okhla ind est, ahmedabad, gj",9730482502
+EPF-551376,Metro Sloutions LLP,KRVGP6566L,"plot 502, okhla ind est, mumbai, mh",9777723465
+EPF-209164,Apex Solutions Limited,UPHMI4375C,"gala no. 57, shady complex, mumbai, mh",800413627
+EPF-956322,Mtero Corp LLP,OWOLW2389U,"plot 740, peenya, pune, mh",9958859201
+EPF-38929,Dnyamic Ventures Limited,YKIKY4546M,"plot 919, midc, chennai, tn",9628182473
+EPF-763118,Om eVntures LLP,MVDGO1989Q,"Plot 475, Guindy, Bengaluru, KA",9314798753
+EPF-170699,Om Ventures Pvt Ltd,CLSSF2588L,"Plot 102, GIDC, Bengaluru, KA",9473570939
+EPF-673295,Global Ventures Pvt Ltd,HKYJG5287D,"plot 265, guindy, bengaluru, ka",9356270019
+EPF-251302,Prime Industries Limited,KIMNI3750O,"plot 784, peenya, delhi, dl",9980220183
+EPF-266607,Prime Traders Pvt Ltd,AVWVR0992K,"Plot 532, Peenya, Ahmedabad, GJ",9107743905
+EPF-163378,Om Industries LLP,SVQHX2936C,"plot 197, midc, ahmedabad, gj",9677152479
+EPF-54249,Balaji Fabrication Pvt Ltd,HLGOQ5989F,"plot 232, peenya, hyderabad, ts",9512324025
+EPF-299841,Balaji CorpL imited,MPVWA1412F,"plot 348, peenya, mumbai, mh",9600521818
+EPF-517901,Apex Corp Pvt Ltd,MNWGT3463U,"plot 967, guindy, delhi, dl",9969528882
+EPF-886103,Priem Corp LLP,SKYVC9767J,"plot 783, hitec city, ahmedabad, gj",9210207110
+EPF-457402,Prime Fabrication LLP,WEPOQ1076C,"Plot 713, GIDC, Ahmedabad, GJ",9440491506
+EPF-127197,Tech Technologies Pv tLtd,NVSOX4431X,"plot 433, peenya, chennai, tn",9112189149
+EPF-139101,Pioneer Logistisc Limited,RLZPH4032H,"plot 553, hitec city, chennai, tn",9113884813
+EPF-78264,Apex Solutoins LLP,XOKUD1777O,"Plot 153, Guindy, Hyderabad, TS",9319184761
+EPF-528458,Stellar Ventures Limited,VXKLN9775T,"plot 902, gidc, bengaluru, ka",9254977751
+EPF-472760,Apex Industries LLP,RYPZG5438D,"Plot 235, Okhla Ind Estate, Delhi, DL",9483197467
+EPF-206108,Metro Solutions LLP,ZXCWE2580Z,"plot 968, okhla ind est, mumbai, mh",9924155589
+EPF-322944,Prime Technologies Limited,NBNSX2652S,"Plot 344, Hitec City, Mumbai, MH",9785601868
+EPF-925498,Prime Solutions Limited,FHCRZ5199S,"Plot 107, Phase 1, Electronic City, Mumbai, MH",9138769964
+EPF-749965,Global Industries Limited,ECWOB4409Z,"plot 233, midc, bengaluru, ka",9893899852
+EPF-171950,Tech Technoloiges Limited,JYAJR2918N,"Plot 383, Hitec City, Ahmedabad, GJ",9356627543
+EPF-582189,Sunrise Logistic sPvt Ltd,KRDWO1965J,"plot 624, peenya, ahmedabad, gj",9801301110
+EPF-437245,Amce Corp LLP,ATACE2028T,"Plot 58, Phase 1, Electronic City, Chennai, TN",9528866697
+EPF-322038,Stellar Corp LLP,ACQSQ3840E,"Plot 275, Guindy, Hyderabad, TS",9192395371
+EPF-690253,Sunrise Ventures Pvt Ltd,QJJKW9635M,"plot 129, okhla ind est, chennai, tn",9227944869
+EPF-65099,Dynamic Corp LLP,ANQOJ6890E,"plot 596, okhla ind est, ahmedabad, gj",9471322946
+EPF-594597,Apex Solutions Limited,WYMSO2591R,"plot 97, peenya, mumbai, mh",9396802514
+EPF-898098,Dynamic Traders Limited,RGYWT9242Y,"plot 773, guindy, pune, mh",9446904677
+EPF-480365,Balaji Corp LLP,EFIEA2453Q,"Plot 235, MIDC, Chennai, TN",9972673115
+EPF-536169,Tech Corp LLP,ACPXE4252Q,"plot 772, midc, chennai, tn",9452193794
+EPF-888907,Pioneer Vnetures Limited,TDRJI4878K,"plot 391, guindy, mumbai, mh",9415059619
+EPF-472304,Prime Traders LLP,QHPCK9235A,"Plot 673, Okhla Ind Estate, Delhi, DL",9864723388
+EPF-223943,Balaji Enterprises Limited,XLYFO4907B,"Plot 972, Phase 1, Electronic City, Pune, MH",9137353392
+EPF-215334,Global Corp Pvt Ltd,HKSWP0359N,"Plot 251, MIDC, Pune, MH",9922127727
+EPF-341348,Acme Copr Pvt Ltd,PHAWY5918A,"plot 693, ph 1, electronic city, pune, mh",9470369913
+EPF-878296,Tech Traders LLP,CIWLX3634G,"plot 360, midc, ahmedabad, gj",9674532731
+EPF-880822,Prime Industries LLP,EPDAU5240I,"Plot 409, Okhla Ind Estate, Mumbai, MH",9242389915
+EPF-742950,Sunrise Copr LLP,MJZHX0326P,"plot 320, midc, mumbai, mh",9306726510
+EPF-751135,BalajiC orp Pvt Ltd,MKPUP4773P,"Plot 45, Okhla Ind Estate, Hyderabad, TS",9711372162
+EPF-80228,Sunrise Logistics LLP,HKMEE4303H,"Plot 953, Guindy, Hyderabad, TS",9736246900
+EPF-752444,Sunrise Traders Pvt Ltd,VJFSE1291Q,"Plot 506, GIDC, Pune, MH",9564062676
+EPF-631398,Prime Traders Pvt Ltd,YQCAE9439O,"Plot 807, Guindy, Bengaluru, KA",9723873741
+EPF-55753,Acme Technologies LLP,DTRJG4778Z,"plot 125, midc, bengaluru, ka",9177143564
+EPF-171647,Prime Corp Limited,WHEJB1497G,"plot 389, midc, pune, mh",9231259931
+EPF-772269,Global Solutions Pvt Ltd,IPUTO8149S,"plot 775, midc, delhi, dl",9376153574
+EPF-799031,Stellar Fabricatoin LLP,BBBCN4668O,"plot 966, guindy, bengaluru, ka",9398936353
+EPF-584630,Dynamic Corp LLP,QVDBD8601C,"Plot 644, MIDC, Delhi, DL",9597096194
+EPF-54634,Global Fabrication Limited,ZWAVG5743E,"plot 15, ph 1, electronic city, bengaluru, ka",9358697796
+EPF-964178,Baljai Ventures Pvt Ltd,DDBLW7101R,"Plot 796, Phase 1, Electronic City, Mumbai, MH",9870712905
+EPF-20868,Tech Corp PvtL td,JYNJP1090U,"Plot 488, Hitec City, Ahmedabad, GJ",9766682864
+EPF-481657,Setllar Industries LLP,GBIQN6901Z,"Plot 729, GIDC, Ahmedabad, GJ",9390060341
+EPF-976374,Sunries Traders Limited,EFYKW4014S,"plot 610, guindy, pune, mh",9800437176
+EPF-614595,Sunrise Traedrs Limited,BGUFL1379X,"plot 452, midc, hyderabad, ts",9169397623
+EPF-314838,Apex Industries Limited,QPVPR0986V,"Plot 718, Phase 1, Electronic City, Mumbai, MH",9247922265
+EPF-478458,Balaij Industries Pvt Ltd,USXXJ0965N,"Plot 903, Peenya, Delhi, DL",9170480072
+EPF-438569,Stellar Traders Limited,ZHXXL2718O,"Plot 898, MIDC, Bengaluru, KA",9895393619
+EPF-655085,Apex Industries Limited,CPJHN7652N,"plot 515, ph 1, electronic city, chennai, tn",9469766050
+EPF-987361,Sunrise Traders LLP,RUYOH2141V,"plot 282, okhla ind est, pune, mh",9671035266
+EPF-741131,Om Corp LLP,QROMU4818X,"Plot 760, Peenya, Hyderabad, TS",9977625322
+EPF-331237,Dynamic Logitsics Limited,NQCZW9872U,"Plot 180, MIDC, Mumbai, MH",9738140051
+EPF-956518,Om Enterprises Pvt tLd,MKEZB9008U,"plot 124, gidc, delhi, dl",9646881021
+EPF-41623,Stellar Industries Pvt Ltd,MGMPQ7517I,"Plot 739, Peenya, Pune, MH",9460108562
+EPF-507184,Acme Solutions Limited,KYRED5133H,"plot 755, midc, ahmedabad, gj",9673719172
+EPF-697835,Dynamic Industries Pvt Ltd,JXRTL8988Z,"plot 752, guindy, chennai, tn",9710297374
+EPF-681196,Acme Enterprisse Limited,ZVUOQ3052U,"Plot 286, Guindy, Chennai, TN",9150352204
+EPF-280236,Acme Logistics Limited,IOKUP4503S,"plot 880, gidc, ahmedabad, gj",9726883026
+EPF-692785,Balaji Enterprises LLP,LYLZP5300S,"plot 812, midc, bengaluru, ka",9871821388
+EPF-719972,Shree Industries LLP,GRPHI9809Z,"Plot 260, Peenya, Bengaluru, KA",9213170702
+EPF-351635,Dynamic Industries Pvt Ltd,NGRWD7700Q,"Plot 95, Guindy, Bengaluru, KA",9781756789
+EPF-365438,Shree Corp Limitde,CULWK9892T,"plot 993, peenya, chennai, tn",9196738846
+EPF-873536,Dynamic Farbication Limited,JKHVK8914N,"plot 793, gidc, bengaluru, ka",9187515625
+EPF-204983,Shree Technologies LLP,TAFZT1318K,"plot 702, gidc, ahmedabad, gj",9903723893
+EPF-561559,Globla Fabrication Limited,LZWZU5078X,"plot 149, hitec city, delhi, dl",9375023690
+EPF-646501,Stellar Industreis Limited,UCPEA9050D,"Plot 163, Hitec City, Bengaluru, KA",9739728270
+EPF-516866,Balaji Corp LLP,MLNSP1408V,"plot 641, midc, chennai, tn",9172550815
+EPF-592082,Tech Solutions Limited,UXJUC7582D,"Plot 916, Guindy, Pune, MH",9787686749
+EPF-461992,Dynamic Enterprsies Pvt Ltd,WGVBX8522F,"Plot 15, Okhla Ind Estate, Chennai, TN",9938455667
+EPF-178118,Prime Logistics Limited,SFYBC6193I,"plot 209, guindy, bengaluru, ka",9912160515
+EPF-706340,Pirme Fabrication Limited,SSNGU9820R,"plot 606, peenya, bengaluru, ka",9852809494
+EPF-831178,Global Ventures Pvt Ltd,XEDAQ7668Q,"Plot 210, Peenya, Bengaluru, KA",9601345759
+EPF-949272,Balaj iVentures Pvt Ltd,TAQTH7949T,"plot 520, peenya, ahmedabad, gj",9834291890
+EPF-525803,Metro Logistics Limited,KOEBJ6094P,"Plot 513, Guindy, Pune, MH",9983733504
+EPF-828107,Sunrise Logisitcs LLP,QENSG6525A,"plot 391, midc, bengaluru, ka",9519790840
+EPF-95240,Golbal Industries LLP,TRHZY8288L,"Plot 220, GIDC, Ahmedabad, GJ",9916719558
+EPF-963942,Apex Technologies Pvt Ltd,JZUNZ6038A,"Plot 860, Okhla Ind Estate, Delhi, DL",9185951473
+EPF-665391,Om Technoolgies Limited,KFIPH3912S,"Plot 283, GIDC, Ahmedabad, GJ",9731346518
+EPF-459525,Global LogisticsP vt Ltd,BOSVP6634O,"Plot 383, Peenya, Delhi, DL",9244472813
+EPF-665396,Acm eTraders Pvt Ltd,LQRET4921U,"Plot 971, MIDC, Bengaluru, KA",9122931025
+EPF-88279,Pioneer Traders Pvt Ltd,YDRCM4342N,"Plot 874, Phase 1, Electronic City, Mumbai, MH",9986293535
+EPF-368407,Globla Corp LLP,HIDPX6555Y,"plot 268, hitec city, delhi, dl",9590301336
+EPF-972094,Metro Technologies LLP,KMXLH8694F,"plot 84, midc, hyderabad, ts",9198145791
+EPF-184644,Om Technloogies Pvt Ltd,AQEZN1770K,"plot 54, peenya, mumbai, mh",9256952108
+EPF-491667,Prime Technologies Pvt Ltd,RXERT8516D,"Plot 292, Hitec City, Hyderabad, TS",9759793495
+EPF-538872,Om Logistics LLP,VVHPE0039Q,"plot 101, guindy, pune, mh",9453600165
+EPF-279165,Acme Corp LLP,SVEXC2800H,"plot 450, midc, delhi, dl",9117465202
+EPF-772161,Mtero Logistics Pvt Ltd,WOORL4373F,"plot 426, ph 1, electronic city, ahmedabad, gj",9838611495
+EPF-261015,Shree Logistics Pvt Ltd,ANBOM7048U,"plot 30, guindy, hyderabad, ts",9683462313
+EPF-382968,Global Industries Limited,EWVXD1232H,"plot 260, peenya, pune, mh",9782808628
+EPF-209093,Acme Technologies Limited,BVYUY0418L,"plot 365, peenya, delhi, dl",9482335071
+EPF-827564,Om Corp LLP,GHHUW8355N,"plot 914, gidc, mumbai, mh",9475212235
+EPF-300875,Global Loigstics Limited,GMSPT4243F,"plot 715, gidc, pune, mh",9730962093
+EPF-280886,Dynaimc Solutions Pvt Ltd,AQTFX8805J,"plot 702, midc, pune, mh",9246440967
+EPF-875831,Apex Technologies Pvt Ltd,PAYQS4427X,"plot 787, guindy, ahmedabad, gj",9438230537
+EPF-930723,Stellar Ventures Limited,SZXKZ2527R,"plot 334, hitec city, ahmedabad, gj",9568016217
+EPF-203183,Pioneer Industries Pvt Ltd,VEGMY3153Y,"plot 574, guindy, bengaluru, ka",9343277103
+EPF-78278,Blaaji Technologies LLP,JBWEK7615P,"plot 254, gidc, delhi, dl",9611373384
+EPF-737916,Apex Logistics Limitde,NLPJB0189T,"plot 361, peenya, bengaluru, ka",9312899059
+EPF-609640,Shree Logistics Limited,JZPKF0445D,"Plot 538, Guindy, Hyderabad, TS",9479509665
+EPF-242849,Balaji Traders Pvt Ltd,CPNJA7969O,"plot 710, peenya, delhi, dl",9444092397
+EPF-648367,Stellar Traders LLP,HPKER7184M,"Plot 623, Peenya, Delhi, DL",9655978654
+EPF-957309,Dynamic Technologies Pvt Ltd,TCZVV8959Y,"plot 364, guindy, mumbai, mh",9922259460
+EPF-788003,Global Solutions LLP,XDLTY0907K,"plot 136, peenya, ahmedabad, gj",9519727342
+EPF-603794,Dnyamic Logistics LLP,ZPAHL7316Y,"Plot 106, Hitec City, Pune, MH",9732331898
+EPF-366475,Balaji Enterrpises LLP,EPSTK7191D,"plot 902, okhla ind est, delhi, dl",9995956199
+EPF-304143,Stellar Industries LLP,LRWVY8513I,"plot 779, guindy, delhi, dl",9899193825
+EPF-331878,Balaji Fabrication LLP,HSWGM6423R,"Plot 119, GIDC, Delhi, DL",9760655955
+EPF-121907,Sunrise Logistics LPL,AKMGN5472I,"Plot 190, Phase 1, Electronic City, Bengaluru, KA",9746942188
+EPF-669659,Acme Solutions LLP,MGPHZ1900W,"Plot 696, Hitec City, Chennai, TN",9320148891
+EPF-805294,Dynamci Technologies Limited,XBKDS7737U,"Plot 955, Guindy, Chennai, TN",9211213889
+EPF-371225,Acme Corp LPL,QYIZD1741G,"plot 641, midc, mumbai, mh",9538494300
+EPF-984782,Tech Fabrication LLP,DHMZQ4048T,"plot 863, midc, delhi, dl",9307409695
+EPF-911545,Sunrise Industires Pvt Ltd,IZNYD7690S,"plot 63, okhla ind est, hyderabad, ts",9814287227
+EPF-305492,Global Fabrication LLP,IRISL0050F,"plot 36, peenya, hyderabad, ts",9221619953
+EPF-559443,Prime Industries LLP,JPLAV1852B,"plot 408, okhla ind est, mumbai, mh",9449366700
+EPF-446877,Sunrise Corp Pvt Ltd,TXGYQ1831R,"plot 851, ph 1, electronic city, mumbai, mh",9448513518
+EPF-645359,Dynamic Corp Limited,KSDBR7026M,"plot 865, ph 1, electronic city, hyderabad, ts",9695266802
+EPF-78768,Prime Technologise LLP,LEVDO6600W,"Plot 737, MIDC, Bengaluru, KA",9398668779
+EPF-827372,Global Logistics Limited,NZPNP2916N,"plot 651, ph 1, electronic city, hyderabad, ts",9964275535
+EPF-384431,Tech Enterprises LPL,MMYFY1664I,"plot 137, ph 1, electronic city, delhi, dl",9296162233
+EPF-837546,Pioneer Corp PvtL td,BBMJW7501F,"plot 504, gidc, chennai, tn",9453573559
+EPF-451609,Blaaji Fabrication LLP,MEKMU9325O,"Plot 573, Guindy, Chennai, TN",9475904349
+EPF-854292,Stellar Enterprises LLP,ZOYJO5902V,"plot 781, peenya, pune, mh",9825897912
+EPF-176874,Om Indutsries LLP,PIBPI6523D,"plot 50, gidc, chennai, tn",9291885554
+EPF-599436,Tech Technologies Limited,SFXZO5427P,"Plot 57, GIDC, Chennai, TN",9282206078
+EPF-983764,Metro Soluitons LLP,DNMKR1994I,"plot 896, midc, ahmedabad, gj",9289671374
+EPF-217226,Apex Traders Limitde,PWIDD4170O,"Plot 46, Hitec City, Mumbai, MH",9304929319
+EPF-569521,Om Cor pLLP,SLHLS4874I,"plot 209, guindy, hyderabad, ts",9416580044
+EPF-940174,Pioneer Corp Limited,TYESX6526J,"plot 650, gidc, bengaluru, ka",9193873162
+EPF-402231,Pioneer Corp LLP,CJZSJ8359T,"plot 209, gidc, ahmedabad, gj",9388944781
+EPF-218256,Sunrise Corp Pvt Ltd,PSAGS6101C,"plot 707, gidc, chennai, tn",9538126413
+EPF-731855,Balaij Enterprises Pvt Ltd,VHYSR6350H,"plot 284, hitec city, pune, mh",9480448687
+EPF-600734,Acme Fabrication Pvt Ltd,SOUDN3601A,"Plot 219, Peenya, Chennai, TN",9562188424
+EPF-432554,Pioneer Corp Pvt Ltd,AINLV2347H,"plot 778, ph 1, electronic city, chennai, tn",9516792672
+EPF-333907,Balaji Solutions Pvt Ltd,ECUJS4847W,"Plot 903, GIDC, Mumbai, MH",9668423660
+EPF-376564,Tech Solutions Pvt Ltd,ETBWM5611O,"plot 506, ph 1, electronic city, pune, mh",9977752992
+EPF-219776,DynamicE nterprises Limited,JQCKK5121O,"Plot 802, Phase 1, Electronic City, Hyderabad, TS",9263396656
+EPF-501158,MetroI ndustries LLP,SUJGY7281E,"plot 892, okhla ind est, hyderabad, ts",9917249467
+EPF-691994,Sunrise Corp Limited,OZDYJ4408G,"Plot 703, Hitec City, Hyderabad, TS",9499876682
+EPF-537085,Global Corp LLP,QEUWP7738Z,"plot 366, okhla ind est, hyderabad, ts",9861338993
+EPF-495783,Shree Corp LLP,VSZMS3136X,"plot 290, gidc, bengaluru, ka",9446240151
+EPF-902561,MetroT echnologies Pvt Ltd,SNTTZ8412Z,"gala no. 52, shady complex, delhi, dl",800916320
+EPF-402380,Stellar EnterprisesL LP,IPKLR5828U,"plot 939, peenya, ahmedabad, gj",9559934174
+EPF-858593,Stella rSolutions LLP,ZMZDM1309S,"plot 816, gidc, bengaluru, ka",9858604625
+EPF-459815,Tech Technologies Limited,ONQAH7688G,"Plot 303, Okhla Ind Estate, Bengaluru, KA",9297022726
+EPF-240660,Stellar Ventures Pvt Ltd,BQFNG8127U,"Plot 826, Phase 1, Electronic City, Delhi, DL",9428468494
+EPF-563618,Global Corp Limited,UJFFF6209W,"plot 593, hitec city, hyderabad, ts",9656961346
+EPF-998481,Om Fabrication Pvt Ltd,JCYNV8521V,"Plot 693, Okhla Ind Estate, Pune, MH",9118060012
+EPF-887597,Balaji Logistics Limietd,OFJMA4119V,"Plot 816, Phase 1, Electronic City, Ahmedabad, GJ",9155740531
+EPF-831275,Balaji Logistics LLP,LCEZT1449L,"plot 875, hitec city, pune, mh",9358930339
+EPF-983235,ApexT echnologies Limited,OTLNN8980G,"Plot 212, GIDC, Chennai, TN",9926991786
+EPF-294400,Acme Ventures LLP,LJTWG3862B,"Plot 894, Peenya, Ahmedabad, GJ",9392549403
+EPF-95766,Apex Copr LLP,PEGGH9026V,"plot 545, hitec city, pune, mh",9712109672
+EPF-972058,Surnise Traders LLP,VSBML2068Q,"Plot 732, Phase 1, Electronic City, Chennai, TN",9380581425
+EPF-28237,Om Logistics LLP,EJSBL3593A,"Plot 288, GIDC, Ahmedabad, GJ",9543839391
+EPF-132413,Acme Industries Limtied,YAVWN1492K,"plot 823, midc, ahmedabad, gj",9344740660
+EPF-205087,Pioneer Technologies LLP,OZVUQ8168N,"Plot 777, Peenya, Ahmedabad, GJ",9984607500
+EPF-697520,Tech Enterprises Pvt Ltd,EQGND8022G,"plot 417, peenya, pune, mh",9960977684
+EPF-341869,Shree Technologies Limited,SYVTG8270Z,"plot 568, guindy, delhi, dl",9654842722
+EPF-313126,Acme Enterprises Pvt Ltd,XAZVN7315C,"plot 491, midc, hyderabad, ts",9623256510
+EPF-894814,Prime Ventures Pvt Ltd,YHCTH0856N,"plot 934, gidc, delhi, dl",9840054562
+EPF-173227,Acme Enterprises LLP,DLQRA1823B,"Plot 879, Peenya, Ahmedabad, GJ",9348173634
+EPF-556995,Om Technologies PvtL td,NEWNW9665A,"plot 35, hitec city, mumbai, mh",9234793487
+EPF-345469,Tech Fabrication Pvt tLd,XKSRV2704B,"Plot 52, Guindy, Delhi, DL",9837894394
+EPF-240928,Shree Soultions Pvt Ltd,ADVCR4801Q,"plot 662, guindy, chennai, tn",9728455384
+EPF-704040,Global Industries LLP,NVUWM0823J,"Plot 791, Peenya, Delhi, DL",9524127391
+EPF-265665,Shree Corp Pvt Ltd,BOETM9196B,"plot 922, hitec city, chennai, tn",9121752149
+EPF-62294,Shree Traders LLP,FHRCD7556A,"plot 690, midc, bengaluru, ka",9997133401
+EPF-557635,Metr oTraders Limited,LBHXQ8311B,"Plot 876, Phase 1, Electronic City, Pune, MH",9623489628
+EPF-293593,Prime Vnetures LLP,WKGWX6839H,"gala no. 5, shady complex, pune, mh",800207285
+EPF-733487,StellarL ogistics LLP,CTVVJ7418R,"plot 693, midc, bengaluru, ka",9366832740
+EPF-828079,Shree Corp Pvt Ltd,ZLIHP7671W,"Plot 44, Hitec City, Mumbai, MH",9837549508
+EPF-578851,Apex Traders Limited,KZMZI9696M,"Plot 336, MIDC, Bengaluru, KA",9685720823
+EPF-890820,Metro Traders Limited,MNAQT4829F,"Plot 616, GIDC, Chennai, TN",9771105292
+EPF-687394,Stellar Logistics LLP,QEOBX3480I,"plot 336, ph 1, electronic city, pune, mh",9322373623
+EPF-150519,Shree Logistics LLP,LQPZZ8528G,"Plot 43, Phase 1, Electronic City, Ahmedabad, GJ",9674688165
+EPF-757861,Acme Tarders Limited,MXRDB7726D,"plot 852, ph 1, electronic city, ahmedabad, gj",9320024673
+EPF-329799,Pioneer Fabrication LLP,ZVSHX0133J,"Plot 815, Phase 1, Electronic City, Hyderabad, TS",9658619955
+EPF-500455,Dynamic Venutres LLP,NXNJF9733L,"Plot 871, Guindy, Ahmedabad, GJ",9342727650
+EPF-597255,Stellar Solutions Limited,MWTWA7935I,"Plot 593, GIDC, Delhi, DL",9734044490
+EPF-689981,Acme Traders Pvt Ltd,ZMXIT0549Q,"plot 354, guindy, mumbai, mh",9743495663
+EPF-773232,Balaji Industries Pvt Ltd,ZFHMJ8485Y,"Plot 206, Guindy, Chennai, TN",9108055355
+EPF-41918,Stellar Solutions Pvt Ltd,GRZZA5254H,"plot 151, peenya, mumbai, mh",9621223887
+EPF-832694,Acme Traders Pvt Ltd,VEQUZ3773Y,"gala no. 16, shady complex, hyderabad, ts",800235888
+EPF-119722,Tech Logistics Limitde,NUFYM5326R,"plot 871, hitec city, bengaluru, ka",9804033962
+EPF-561875,Prime Lgoistics LLP,JDHBH2533V,"Plot 138, Guindy, Chennai, TN",9941140930
+EPF-407178,Sunrise Technologies LLP,AJJWK6497G,"Plot 357, GIDC, Ahmedabad, GJ",9911860746
+EPF-414671,Sunrise Logistics Pvt Ltd,EUGIB1077A,"Plot 595, GIDC, Pune, MH",9319831589
+EPF-864249,Metro Enterprises Pvt Ltd,ZOPEW0230I,"Plot 267, MIDC, Ahmedabad, GJ",9745756297
+EPF-122797,Om Corp LLP,JVGFP3099T,"plot 509, midc, delhi, dl",9900472349
+EPF-744544,Sunris eLogistics Limited,IUBRT0486I,"Plot 189, Hitec City, Bengaluru, KA",9771509860
+EPF-468313,Stellar Industries LLP,CTEBQ2047N,"Plot 445, GIDC, Hyderabad, TS",9179166513
+EPF-490370,Sunrise Solutions Limited,JRGQI4560K,"Plot 627, MIDC, Bengaluru, KA",9907399246
+EPF-468874,Metro Solutions Limited,AVTKG1890N,"Plot 250, Phase 1, Electronic City, Hyderabad, TS",9491142529
+EPF-59400,Om Corp LLP,AKNPY6090K,"Plot 471, MIDC, Bengaluru, KA",9877563763
+EPF-803188,Om Industries Limited,CTYGO1893K,"Plot 212, Okhla Ind Estate, Mumbai, MH",9644114441
+EPF-375395,Sunrise Traders Limited,DYAQM6580N,"plot 973, ph 1, electronic city, pune, mh",9913336961
+EPF-386837,Shree Solutiosn Pvt Ltd,JKCKV0271Z,"plot 559, midc, pune, mh",9449183255
+EPF-520645,Pioneer Ventures Pvt Ltd,YLXOR2583Q,"plot 482, guindy, mumbai, mh",9447889777
+EPF-778418,Metro Solutions Pvt Ltd,TMPPR4087C,"plot 690, peenya, ahmedabad, gj",9937439531
+EPF-621954,Balaji Fabrication Pvt Ltd,PYYKH0239P,"Plot 590, Okhla Ind Estate, Bengaluru, KA",9436649075
+EPF-769146,Poineer Traders Pvt Ltd,UWPLH4944Q,"Plot 185, GIDC, Hyderabad, TS",9369392908
+EPF-770163,Acme Enterprises Pvt Ltd,SVKSZ3057P,"plot 70, hitec city, chennai, tn",9979872565
+EPF-645871,Pioneer Solutions Pvt Ltd,GOJNJ9515Z,"plot 669, hitec city, hyderabad, ts",9746866579
+EPF-902584,Global Industreis Pvt Ltd,DUZGC2022G,"plot 805, okhla ind est, hyderabad, ts",9621861119
+EPF-755551,Om Logistics LLP,HHGRU4922K,"Plot 172, Phase 1, Electronic City, Ahmedabad, GJ",9228227797
+EPF-921159,Acme Solutions Limited,EDANC4087S,"plot 408, okhla ind est, pune, mh",9424712168
+EPF-452968,Pioneer Trader sPvt Ltd,UQIEU9392I,"plot 847, midc, mumbai, mh",9620862069
+EPF-457842,Stlelar Technologies LLP,MLMLT1995X,"Plot 933, GIDC, Hyderabad, TS",9613754147
+EPF-493561,Acme Industries Limited,DVGLQ7156R,"plot 600, hitec city, pune, mh",9465216619
+EPF-871304,Apex Enterprises Limited,JNSRG3471Y,"Plot 239, Peenya, Hyderabad, TS",9564114793
+EPF-90508,Balaji Traders Pvt Ltd,CITZR6112P,"Plot 9, Guindy, Delhi, DL",9871610453
+EPF-289930,Sunris eFabrication Limited,ELXLM6062E,"plot 890, peenya, mumbai, mh",9374688741
+EPF-700717,Tech Enterprises LLP,JOZHD5389C,"plot 641, hitec city, mumbai, mh",9664422866
+EPF-608632,Tech Enterprise sPvt Ltd,JUTQH4964E,"Plot 288, Hitec City, Ahmedabad, GJ",9713125666
+EPF-329550,Global Industries Pvt tLd,PZFVN1874O,"plot 755, hitec city, delhi, dl",9492058984
+EPF-197958,Tech Traders Pvt Ltd,DNWPX2951W,"plot 407, peenya, mumbai, mh",9953753519
+EPF-668162,Acme Ventures Pvt Ltd,KHEXB6861Z,"Plot 403, Okhla Ind Estate, Delhi, DL",9993747865
+EPF-856583,Balaji Corp Pvt Ltd,DVDVJ8595A,"plot 756, midc, pune, mh",9407141965
+EPF-695527,Balaji Enterprises LLP,PUDOA6572W,"Plot 416, Okhla Ind Estate, Bengaluru, KA",9316392933
+EPF-407008,Om Corp Limited,WNZBX1141J,"Plot 961, Phase 1, Electronic City, Hyderabad, TS",9536567221
+EPF-941814,Global Enterprises LLP,SHDRF9665W,"plot 807, okhla ind est, pune, mh",9518520592
+EPF-655267,Sunrise Industries Limited,PBTAN1829C,"Plot 632, Phase 1, Electronic City, Hyderabad, TS",9507331111
+EPF-574947,Global Corp Limited,MKCHA3280O,"Plot 690, Guindy, Ahmedabad, GJ",9893222398
+EPF-116709,Apxe Solutions Pvt Ltd,BXVXZ7873Q,"Plot 161, GIDC, Mumbai, MH",9732053557
+EPF-501940,BalajiT raders LLP,LSYKU4204Z,"Plot 420, MIDC, Chennai, TN",9119934935
+EPF-296086,SunriseT raders LLP,TZCYN1658J,"plot 620, hitec city, delhi, dl",9838638447
+EPF-631772,Tech Enterprises LLP,LDTVB2243N,"plot 971, hitec city, bengaluru, ka",9131574684
+EPF-689311,Apex Industries Pvt Ltd,EUHPJ4484C,"Plot 159, MIDC, Bengaluru, KA",9264326866
+EPF-758365,Pioneer Enterprises LLP,BDSZT7028L,"Plot 412, Phase 1, Electronic City, Ahmedabad, GJ",9625043395
+EPF-982096,Shree Fabrication Lmiited,IBAWU8651O,"plot 116, hitec city, delhi, dl",9805799826
+EPF-359670,Shree Logistics LLP,QSHHL5334G,"plot 584, ph 1, electronic city, pune, mh",9425784566
+EPF-292059,Sunrise eTchnologies LLP,SZBPR5523K,"plot 176, guindy, hyderabad, ts",9577237750
+EPF-171624,Global Fabricatoin Pvt Ltd,UNLPT2440Z,"plot 498, hitec city, delhi, dl",9879833152
+EPF-410820,Prime Lgoistics Pvt Ltd,KQXFQ1300O,"plot 176, midc, pune, mh",9622175387
+EPF-752737,Balaji Industreis Limited,PYRGC5468M,"plot 949, peenya, pune, mh",9319655493
+EPF-621855,Balaji Solutions vPt Ltd,EVISA7112V,"plot 200, okhla ind est, ahmedabad, gj",9123211981
+EPF-411139,Acme Logistics LLP,PAOVV7925V,"Plot 237, Hitec City, Delhi, DL",9675299388
+EPF-779053,Acme Loigstics Pvt Ltd,KBZXK6076J,"plot 625, okhla ind est, pune, mh",9734718067
+EPF-145982,Sunrise Fabrication Limited,RWPAC6691F,"plot 584, peenya, bengaluru, ka",9708778972
+EPF-512764,Shree Technologies Pvt Ltd,IXZTE4002V,"gala no. 90, shady complex, delhi, dl",800934779
+EPF-874917,Shree Solutions iLmited,RGPLT7882U,"Plot 332, Hitec City, Mumbai, MH",9653264031
+EPF-752174,Apex Fabrication LLP,LMQOA3385X,"plot 195, midc, hyderabad, ts",9445042185
+EPF-310325,Global Industrie sLLP,IFOFX4129H,"plot 495, midc, delhi, dl",9757038438
+EPF-665575,Stellar Corp LLP,ZPCFF2656G,"plot 413, ph 1, electronic city, pune, mh",9491152589
+EPF-679358,Pioneer Industries LLP,JWFVL3234Y,"plot 903, midc, delhi, dl",9578383978
+EPF-378446,Priem Ventures Limited,ACOED8562K,"plot 981, ph 1, electronic city, chennai, tn",9710772429
+EPF-348270,Pioneer Industries Limited,NHMHE3668U,"plot 659, hitec city, bengaluru, ka",9308789025
+EPF-98150,Pioener Enterprises Limited,HGKGL9944R,"plot 553, ph 1, electronic city, delhi, dl",9340909603
+EPF-849506,Pioneer Corp Limited,IMOQM0971T,"Plot 952, Guindy, Ahmedabad, GJ",9430347124
+EPF-964168,Acme Technologies Limited,TKJLV1113V,"plot 341, peenya, bengaluru, ka",9565637713
+EPF-909305,Global Corp Limited,HLMEF9682B,"Plot 910, Phase 1, Electronic City, Chennai, TN",9625842815
+EPF-700047,Om Corp Pvt Ltd,IXRML2902F,"plot 210, midc, mumbai, mh",9795903640
+EPF-269919,Balaji Trdaers LLP,FWZDR0433B,"plot 936, gidc, bengaluru, ka",9315313420
+EPF-736350,Apex Ventures LLP,JXIHO1222R,"Gala No. 48, Shady Complex, Hyderabad, TS",800803353
+EPF-842557,Om Industries LLP,QHYIS2985B,"Plot 581, Peenya, Ahmedabad, GJ",9993189065
+EPF-413618,Om Crop LLP,PEGSZ5779I,"Plot 249, Peenya, Ahmedabad, GJ",9991277518
+EPF-188200,Om Enterprises Pvt Ltd,SBSPD0947O,"plot 694, guindy, bengaluru, ka",9555232744
+EPF-897095,Pionee rFabrication LLP,RROFD2361K,"Plot 318, MIDC, Hyderabad, TS",9391921624
+EPF-129215,Pioneer Logsitics Limited,HIOGC6514B,"plot 629, okhla ind est, pune, mh",9289053417
+EPF-771634,Tech Fabrication Pvt Ltd,VPYBK1986V,"Plot 543, Phase 1, Electronic City, Delhi, DL",9670549939
+EPF-638753,Dynami cFabrication Pvt Ltd,AZHPH6238G,"Plot 170, Phase 1, Electronic City, Delhi, DL",9797949256
+EPF-336170,Pioneer Corp Pvt Ltd,UUUBB3322O,"plot 747, peenya, bengaluru, ka",9496060423
+EPF-551056,Global Venutres LLP,SJESJ3105N,"Plot 721, Peenya, Hyderabad, TS",9416922810
+EPF-23343,Sunirse Traders Limited,OSAYR9727Z,"Plot 412, Phase 1, Electronic City, Hyderabad, TS",9806169287
+EPF-319309,Dynamic Corp Pvt Ltd,PAIQU2006T,"plot 330, guindy, pune, mh",9566759486
+EPF-228087,Acme Corp Limited,SSBGL7728E,"Plot 631, Peenya, Bengaluru, KA",9253124838
+EPF-613823,Shree Traders Limited,IKBTS8856K,"plot 214, hitec city, hyderabad, ts",9985780115
+EPF-333810,Shree Logistics Pvt Ldt,JRTNX4091G,"Plot 566, Peenya, Hyderabad, TS",9820455013
+EPF-147998,StellarT raders LLP,SWFZC4572P,"Plot 400, Okhla Ind Estate, Bengaluru, KA",9471876280
+EPF-545224,Prime Fabrication Pvt Ltd,CYONV2421H,"plot 334, gidc, chennai, tn",9257206117
+EPF-247185,Pioneer Fabrication Pv tLtd,XXUBZ5707G,"plot 429, okhla ind est, ahmedabad, gj",9789598958
+EPF-294547,Tech aFbrication LLP,CPVRI7135V,"Plot 841, Peenya, Delhi, DL",9572073896
+EPF-408072,Acme Ventures Ptv Ltd,SSYLR7257E,"Plot 666, Phase 1, Electronic City, Delhi, DL",9393151038
+EPF-147861,Global Trader sLLP,PCMKG6881R,"Plot 541, Guindy, Bengaluru, KA",9510254311
+EPF-257029,Metro Corp Pvt Ltd,PWBTJ6662N,"plot 504, ph 1, electronic city, delhi, dl",9693326626
+EPF-86210,Sunrise Logistics Limitde,JQXAK3959C,"Plot 271, Peenya, Chennai, TN",9854363971
+EPF-772051,Metro Sloutions Limited,OMVWK7335O,"plot 63, ph 1, electronic city, hyderabad, ts",9807175619
+EPF-155205,Sunrise Corp Limited,JJXGM5745D,"Plot 529, MIDC, Hyderabad, TS",9117290005
+EPF-976339,AcmeI ndustries Limited,OLLHY2460R,"Plot 688, Phase 1, Electronic City, Delhi, DL",9182680573
+EPF-368900,Om Ventures Limited,KDWMW7167I,"Plot 265, Peenya, Ahmedabad, GJ",9326745689
+EPF-83451,Global Soultions Pvt Ltd,YEFKA1302L,"Plot 98, Phase 1, Electronic City, Mumbai, MH",9179050954
+EPF-587974,Tech Fabrication Limited,EHDVM5114J,"Plot 23, Guindy, Delhi, DL",9272386332
+EPF-885177,Metro Corp Ptv Ltd,VZKHC2590Q,"gala no. 32, shady complex, ahmedabad, gj",800962410
+EPF-549581,Stelalr Technologies LLP,LEKWV1004Y,"Plot 868, Phase 1, Electronic City, Bengaluru, KA",9567629697
+EPF-38839,Apex Logistics Limited,OUWTA2880I,"plot 467, ph 1, electronic city, mumbai, mh",9140314125
+EPF-962206,Pioneer Technologies LPL,GBAUW0031L,"plot 465, okhla ind est, mumbai, mh",9297826749
+EPF-868707,Pioneer Industries Limited,QVAQI8964S,"plot 424, guindy, chennai, tn",9734392929
+EPF-562927,Shree Corp LLP,NJRWH8286S,"plot 902, gidc, delhi, dl",9682492430
+EPF-116590,Dynamic Solutions Limited,FDHKQ7883G,"plot 744, okhla ind est, hyderabad, ts",9869201039
+EPF-225856,Dynamic Logistics Pvt Ltd,UTXGP4283L,"plot 506, ph 1, electronic city, pune, mh",9207854534
+EPF-367537,Prime Technoolgies Limited,DDXHY1053N,"plot 405, guindy, delhi, dl",9866330369
+EPF-447070,Pioneer Technologies Pvt Ltd,IHTTJ7554T,"Plot 892, Peenya, Hyderabad, TS",9644585745
+EPF-188218,Stellar Corp Limited,HDEIN8249H,"Gala No. 40, Shady Complex, Hyderabad, TS",800918438
+EPF-470752,Pioneer Logistics LLP,HNLBZ6898O,"Plot 851, Peenya, Hyderabad, TS",9309413224
+EPF-53746,Prime Solutiosn Pvt Ltd,EFCJQ6592U,"Plot 222, Okhla Ind Estate, Mumbai, MH",9536806680
+EPF-543742,Metro Fabricatino LLP,FESFJ5862N,"plot 325, okhla ind est, bengaluru, ka",9599437535
+EPF-211614,Tech Solutions Pvt Ltd,LEQUN6337L,"Plot 309, MIDC, Delhi, DL",9669104511
+EPF-977892,Dynamic Industries LLP,UIWXZ2105N,"plot 25, okhla ind est, ahmedabad, gj",9936048104
+EPF-808611,Stellar Corp LLP,IBWUO5742V,"Plot 223, Peenya, Bengaluru, KA",9298552670
+EPF-153309,Acme Solutions Limited,FCGLT4434T,"plot 61, ph 1, electronic city, delhi, dl",9512996724
+EPF-515724,Apex Fabrication Limited,OZYWA3071Z,"Plot 834, Peenya, Hyderabad, TS",9341294630
+EPF-846950,Shree Traders LLP,HBEBK5599V,"Plot 497, Hitec City, Mumbai, MH",9549004012
+EPF-941318,Apex Fabrication Limited,HLHYV8796C,"Plot 272, Hitec City, Pune, MH",9582292663
+EPF-872017,Shree Industries LLP,NJWBN6316G,"plot 888, guindy, hyderabad, ts",9532320313
+EPF-738648,Pioneer Ventures LLP,DRTDH9405B,"Plot 480, Peenya, Bengaluru, KA",9211666544
+EPF-763097,Tech Corp Limitde,BDGFY3808O,"plot 914, peenya, ahmedabad, gj",9683731968
+EPF-697052,Global Indutsries Pvt Ltd,ZCOAT9931B,"plot 953, ph 1, electronic city, delhi, dl",9652262075
+EPF-364193,Om Logistics Pvt Ltd,MZRSA4176F,"Plot 107, MIDC, Chennai, TN",9189013794
+EPF-43270,Tech Enterprsies Limited,GLTZM3837X,"plot 26, hitec city, ahmedabad, gj",9417914372
+EPF-710096,Metro Corp Limietd,WIADW3061E,"Plot 303, Phase 1, Electronic City, Pune, MH",9934299255
+EPF-439119,Balaji Technologies LLP,RZBGV3493P,"gala no. 74, shady complex, bengaluru, ka",800516826
+EPF-343749,Shree Enterprises Limited,ZXDQJ4310Z,"Plot 798, MIDC, Chennai, TN",9929325826
+EPF-545113,Tech Tecnhologies LLP,NSKJB0740B,"Plot 609, Guindy, Chennai, TN",9624190833
+EPF-925509,Tech Enterprises Limited,PVZSZ1583X,"Plot 189, Hitec City, Chennai, TN",9392799808
+EPF-987422,Sunrise Corp iLmited,YRZMR4281B,"Plot 556, GIDC, Ahmedabad, GJ",9756245262
+EPF-260519,Shere Corp Pvt Ltd,XDDWR2303O,"Plot 691, Guindy, Mumbai, MH",9843063058
+EPF-408766,Sunrise Technologies Limited,WBURF1437O,"plot 911, ph 1, electronic city, bengaluru, ka",9953771901
+EPF-74682,Stellar Technologies LLP,YENSO9444A,"Plot 47, Hitec City, Delhi, DL",9406241565
+EPF-388076,Dynamic Enterprises Pvt Ltd,MJFKF9381Z,"plot 168, hitec city, pune, mh",9146595047
+EPF-817275,Global Technologies Limited,SKJGN2345L,"Plot 770, Guindy, Pune, MH",9216405179
+EPF-727104,Tech Technolgoies LLP,ZEIAT8870Q,"plot 431, hitec city, delhi, dl",9310281298
+EPF-195709,Pioneer Fabrication Limtied,DRTWL0967Z,"plot 179, midc, chennai, tn",9744623260
+EPF-643122,Shree Technologise LLP,SMFGO3316I,"Plot 616, MIDC, Bengaluru, KA",9685395040
+EPF-553871,Metro Fabrication Limited,CSVON2308S,"Plot 588, Phase 1, Electronic City, Chennai, TN",9275751700
+EPF-358457,Prim eLogistics Pvt Ltd,RSVMQ3280E,"Plot 134, GIDC, Delhi, DL",9950436696
+EPF-680054,Metro Corp Lmiited,IOPOS5477Z,"Plot 243, Hitec City, Hyderabad, TS",9594750567
+EPF-75425,Om Solutions Limited,ZSERJ8734B,"plot 964, ph 1, electronic city, chennai, tn",9779146649
+EPF-709446,Balaji Solutions Limited,BRICJ7744A,"Plot 484, GIDC, Chennai, TN",9178038523
+EPF-455086,Om Industries Pvt Ltd,GCUHJ4718C,"Plot 79, MIDC, Mumbai, MH",9405391061
+EPF-677653,Balaji Enterprises Pvt Ltd,XPOKR8488J,"plot 919, midc, bengaluru, ka",9603919990
+EPF-698127,Acme Fabrication Pvt Ltd,JBOCO9265W,"plot 479, guindy, delhi, dl",9280756596
+EPF-184174,Pioneer Vnetures LLP,GVRRZ5699G,"plot 485, peenya, mumbai, mh",9760235770
+EPF-991445,DynamicF abrication Pvt Ltd,LTEBS3610K,"plot 644, ph 1, electronic city, hyderabad, ts",9212528965
+EPF-347375,Apex CorpL LP,MFBKM8723Z,"plot 546, peenya, ahmedabad, gj",9688920952
+EPF-956005,Stellar Industreis Pvt Ltd,XZQOV0051N,"plot 962, peenya, chennai, tn",9319691467
+EPF-621093,Balaji Industries Pv tLtd,PCJMQ1278U,"plot 9, midc, bengaluru, ka",9742622096
+EPF-267612,Stellar Ventures Ptv Ltd,QAZLC8500B,"plot 371, ph 1, electronic city, hyderabad, ts",9935308166
+EPF-763868,Shree Solutions Pvt Ltd,UCCEI2901N,"plot 959, gidc, delhi, dl",9178641003
+EPF-634322,Prime Corp LLP,TSDJI8895Y,"gala no. 61, shady complex, pune, mh",800942817
+EPF-967358,Sunrise Traders Pvt tLd,DZNJJ2348D,"Plot 300, Hitec City, Bengaluru, KA",9337269285
+EPF-532645,Balaji Trader sPvt Ltd,NAUEV1186I,"Plot 34, Hitec City, Chennai, TN",9862366732
+EPF-716145,Tech Corp Limited,GFUOQ4718N,"Plot 837, MIDC, Bengaluru, KA",9732346706
+EPF-207590,Global Ventures LLP,UTBFU8586B,"plot 693, okhla ind est, chennai, tn",9919452361
+EPF-665782,Pioneer Traders Pvt Ltd,JGEMH8490P,"Plot 142, Hitec City, Pune, MH",9682239581
+EPF-285666,Balaji Corp Limited,PUJKJ1463S,"Plot 897, Hitec City, Bengaluru, KA",9546233447
+EPF-402559,Dynamic Traders LLP,WGOIH3475X,"plot 724, hitec city, pune, mh",9147503673
+EPF-693142,Prime Industries Pvt Ltd,KDKAS7575E,"Plot 604, Guindy, Mumbai, MH",9634724693
+EPF-482924,Metro Traders Pvt Ltd,SLQHK9438R,"plot 476, ph 1, electronic city, bengaluru, ka",9391299081
+EPF-104257,Balaji Technologies LLP,KHMJP2784Y,"Plot 926, Okhla Ind Estate, Chennai, TN",9895669575
+EPF-475555,Prime Technologies Pvt Ltd,VGIDJ9963O,"Plot 412, MIDC, Mumbai, MH",9428932846
+EPF-104191,Dynamic Ventures Limited,YXQOI8941K,"Plot 89, GIDC, Mumbai, MH",9887975137
+EPF-211523,Dynamic Enterprises LLP,VWHEX8667S,"plot 187, midc, ahmedabad, gj",9415661941
+EPF-115425,Om Technologies Limited,WVYLM6967M,"plot 806, okhla ind est, hyderabad, ts",9625661267
+EPF-439653,Stellar Corp Pvt Ltd,VALUT2433V,"plot 409, ph 1, electronic city, hyderabad, ts",9970975973
+EPF-967741,Metro Traders Pvt Ltd,MZIBX7907N,"Plot 275, Peenya, Hyderabad, TS",9502375494
+EPF-667410,Acme Indusrties Pvt Ltd,HZCER2415K,"Plot 314, Phase 1, Electronic City, Hyderabad, TS",9509516101
+EPF-111788,Prime Ventures Limtied,TTLWP2808Z,"plot 982, guindy, hyderabad, ts",9843782177
+EPF-506476,Apex Enterprises Pvt Ltd,GRERM2628N,"Plot 915, GIDC, Ahmedabad, GJ",9326212197
+EPF-236363,Dynamic Solution sLLP,UKCAM3294P,"Plot 817, Hitec City, Ahmedabad, GJ",9772765429
+EPF-134155,Global Farbication Pvt Ltd,IEPSE9593C,"plot 119, gidc, pune, mh",9810122063
+EPF-331278,Tech Corp Pvt Ltd,JUEWE5837K,"Plot 149, Guindy, Chennai, TN",9435394438
+EPF-19825,Prime Fbarication LLP,WDYAH6906S,"plot 814, guindy, bengaluru, ka",9294255311
+EPF-618459,Sunrise Logistcis LLP,RHXCT1474T,"Plot 758, Guindy, Ahmedabad, GJ",9413346124
+EPF-719089,Acme Fabrication LLP,CCDNM6309G,"plot 453, guindy, hyderabad, ts",9358553615
+EPF-477197,Apex Ventures Limited,HIAVN6522S,"Plot 57, Peenya, Mumbai, MH",9642196508
+EPF-693320,Global Fabrication Limited,DOELQ5458V,"Plot 682, MIDC, Ahmedabad, GJ",9238253528
+EPF-937100,Om Corp Pvt Ldt,VIJVE9053J,"Plot 931, GIDC, Chennai, TN",9906241181
+EPF-211388,Poineer Traders Pvt Ltd,DSZHN7601R,"plot 59, guindy, bengaluru, ka",9982110292
+EPF-855123,Sunrise Techonlogies Pvt Ltd,ZWXID8765L,"plot 954, okhla ind est, chennai, tn",9457421627
+EPF-325479,Priem Logistics Limited,GPYPZ2703I,"plot 993, midc, pune, mh",9240739810
+EPF-399828,Balaji Enterprises Pvt Ltd,QOUXP2758O,"plot 268, peenya, hyderabad, ts",9983865811
+EPF-415122,Acme Corp Pvt Ltd,UTWLV5333D,"Plot 789, MIDC, Hyderabad, TS",9492982390
+EPF-674424,Tceh Technologies Pvt Ltd,YXQFB2848I,"plot 713, midc, chennai, tn",9798295736
+EPF-700090,Tech oLgistics Pvt Ltd,OMRQO5043R,"Plot 111, Peenya, Hyderabad, TS",9392567405
+EPF-884074,Pioneer Fabriaction Limited,LSOIG1906P,"Plot 403, Peenya, Bengaluru, KA",9487571583
+EPF-840065,Tech Fabricatoin LLP,ETQOP4194U,"Plot 909, Peenya, Chennai, TN",9308834976
+EPF-967038,Global Ventures Pvt Ltd,DKFLQ5188T,"plot 723, peenya, mumbai, mh",9295429501
+EPF-66666,Om Logistics Pvt Ltd,CSRWR6344W,"Plot 784, Peenya, Chennai, TN",9914587500
+EPF-737311,Global Venture sLimited,HAVLR1127Q,"plot 298, peenya, hyderabad, ts",9401025246
+EPF-718823,Global VenturesL LP,RIOBJ8482W,"plot 313, peenya, chennai, tn",9395973879
+EPF-707843,Shree Industries Limited,AALVS9740S,"Plot 785, GIDC, Mumbai, MH",9675362288
+EPF-481322,Balaji Fabrication LLP,SSFSF7641J,"Plot 212, Okhla Ind Estate, Delhi, DL",9319667015
+EPF-582509,Dynamic Logistics Pvt Ltd,RPIBH5305T,"Plot 260, MIDC, Chennai, TN",9240623232
+EPF-899287,SunriseT echnologies Pvt Ltd,IHICE8590E,"Plot 444, Okhla Ind Estate, Ahmedabad, GJ",9957146976
+EPF-788837,Acme Traders Lmiited,OZCZV2367Q,"plot 413, ph 1, electronic city, chennai, tn",9471725914
+EPF-273654,Dynamic Ventures LPL,CPPUU2633Z,"Plot 884, MIDC, Delhi, DL",9657415680
+EPF-650247,Tech Traders Limited,ERWKZ6654B,"gala no. 61, shady complex, pune, mh",800942817
+EPF-783047,Dynamic Technologies LLP,FNTRW0768F,"Plot 387, GIDC, Pune, MH",9105371765
+EPF-827764,Sunrise Ventures Pvt Ltd,SMLTH8651T,"Plot 314, Peenya, Ahmedabad, GJ",9576404415
+EPF-120906,Acme Solutions LLP,SYBNY9331K,"plot 739, midc, ahmedabad, gj",9190668669
+EPF-396456,Pioneer Logistics Limited,HNOLW4580D,"plot 203, okhla ind est, ahmedabad, gj",9743099620
+EPF-498801,Dynamic Solutions Limited,WFQPA0915F,"Plot 616, GIDC, Pune, MH",9407605843
+EPF-157443,Stellar Corp LLP,BQMQE5561F,"plot 213, peenya, ahmedabad, gj",9839792736
+EPF-377224,Tech Industries LLP,NSGOQ2081Y,"plot 738, gidc, chennai, tn",9946666802
+EPF-247514,Shere Technologies LLP,MSNUE9061C,"plot 301, gidc, hyderabad, ts",9281603524
+EPF-603861,Om Industries LLP,WXRFL1614Y,"plot 758, hitec city, pune, mh",9542157810
+EPF-906922,Tech Industries Pvt Ltd,KYXHY3593S,"plot 955, gidc, chennai, tn",9651189395
+EPF-309371,O mFabrication Pvt Ltd,XXFRJ7267R,"plot 113, okhla ind est, ahmedabad, gj",9247043048
+EPF-616713,Apex Ventures iLmited,RDTNI1451O,"Plot 828, GIDC, Chennai, TN",9324060656
+EPF-183093,Apex Corp Pvt Ltd,WXDPG7725W,"Plot 220, Okhla Ind Estate, Pune, MH",9376579555
+EPF-212251,ApexI ndustries Limited,UIRZW7197Z,"Plot 242, Peenya, Chennai, TN",9157461321
+EPF-957012,Dynamic Enterprises Pvt Ltd,YRESS4753A,"plot 350, guindy, chennai, tn",9818475823
+EPF-999083,Sunrise Technologies Limited,IYQYX3955L,"plot 51, okhla ind est, chennai, tn",9689277965
+EPF-62464,Pioneer Traders Pvt tLd,MXBWO9079J,"Plot 529, Okhla Ind Estate, Ahmedabad, GJ",9449759484
+EPF-669062,Apex Ventures Limited,EZFCT6030R,"gala no. 1, shady complex, delhi, dl",800805319
+EPF-382328,Metro eTchnologies LLP,JCOSE9892L,"Plot 722, Phase 1, Electronic City, Mumbai, MH",9385681644
+EPF-349977,Prime Industries PvtL td,WIZEC9299W,"Plot 501, Guindy, Pune, MH",9202283379
+EPF-878135,Apex Technologie sLLP,JRAEC4498C,"Plot 61, MIDC, Delhi, DL",9688375559
+EPF-802883,Tech Industries Pvt Ldt,PMCSV4973E,"plot 712, ph 1, electronic city, pune, mh",9185723409
+EPF-796721,Sunrise Solutions Limited,FYGCK9324I,"Plot 403, GIDC, Chennai, TN",9715470145
+EPF-562503,Apex Traders LLP,HKJBY9401E,"plot 988, hitec city, hyderabad, ts",9440483018
+EPF-923376,Shree Industries vPt Ltd,VUQIS7555W,"plot 900, guindy, hyderabad, ts",9897152927
+EPF-214757,Pioneer Solutions Pvt Ltd,RTSNS1896L,"Plot 909, Phase 1, Electronic City, Chennai, TN",9866419756
+EPF-707869,Prime Industries Limited,ETFJR0263X,"Plot 207, GIDC, Mumbai, MH",9591680444
+EPF-256149,Tech Techonlogies Limited,QLTZE4318I,"Plot 360, Phase 1, Electronic City, Delhi, DL",9527017329
+EPF-498451,Sunrise Solutions LLP,XNEMZ7977H,"Plot 201, MIDC, Pune, MH",9981623566
+EPF-488112,Global Solutions Pvt Ltd,IYEXK3887D,"plot 41, hitec city, chennai, tn",9614225733
+EPF-450467,Stlelar Enterprises LLP,CHDOO3526S,"Plot 444, MIDC, Hyderabad, TS",9672261583
+EPF-506743,Pioneer Corp LLP,LBRIN2816Z,"plot 886, ph 1, electronic city, bengaluru, ka",9648265030
+EPF-230736,Sunrise Solutions LLP,IGLPN8438N,"plot 867, okhla ind est, ahmedabad, gj",9334541550
+EPF-242031,Setllar Enterprises LLP,WEHRQ7429S,"Plot 874, GIDC, Chennai, TN",9751633160
+EPF-76461,Prime Corp LLP,GQKMI0451O,"plot 336, hitec city, chennai, tn",9411059541
+EPF-802884,Tech Industries Limited,FQPMF2345V,"plot 316, ph 1, electronic city, chennai, tn",9754075137
+EPF-213949,Global Enterprises LLP,FSNJM7428L,"Plot 992, Okhla Ind Estate, Delhi, DL",9875991153
+EPF-798300,Acme Farbication Pvt Ltd,CSROY8049J,"Plot 440, Phase 1, Electronic City, Ahmedabad, GJ",9612130045
+EPF-971817,Dynamic Logistics LLP,QRNWY5080I,"Gala No. 8, Shady Complex, Bengaluru, KA",800327006
+EPF-421732,Pioneer Fabricaiton LLP,DPDYH7809N,"Plot 526, Guindy, Hyderabad, TS",9717113139
+EPF-92468,Tech Enterprises LLP,JIQWW3367N,"Plot 97, Okhla Ind Estate, Hyderabad, TS",9159128452
+EPF-347942,Global Solutions LLP,TIXRZ9620X,"Plot 68, Guindy, Hyderabad, TS",9378436789
+EPF-589006,Acme Technologies Limited,UVAVQ5162V,"Plot 42, Phase 1, Electronic City, Delhi, DL",9792589607
+EPF-233895,Tech Enteprrises Pvt Ltd,XXODB1455Y,"Plot 357, Hitec City, Mumbai, MH",9662247383
+EPF-776358,Dynamic Technologies Limited,NKJUP9229H,"Plot 720, Phase 1, Electronic City, Mumbai, MH",9391988835
+EPF-930721,Tech Technologies Limited,WIPAJ5575P,"plot 622, hitec city, ahmedabad, gj",9538618953
+EPF-939224,Om Fabrication LLP,PMLNZ9406H,"Plot 52, Peenya, Ahmedabad, GJ",9248913337
+EPF-261369,Prime Traders Pvt Ltd,MIZKW1217I,"plot 114, hitec city, bengaluru, ka",9914559638
+EPF-654117,Metro Corp LLP,FELEY8005Y,"plot 784, gidc, ahmedabad, gj",9337009410
+EPF-968879,Acme Technologies LPL,YKEGF9805M,"plot 238, ph 1, electronic city, bengaluru, ka",9853633044
+EPF-811703,Tech Enterprises Limited,GENGE4476N,"Plot 510, MIDC, Chennai, TN",9822659128
+EPF-554240,Global Industrie sLLP,PKMWN2696Y,"Plot 374, Hitec City, Pune, MH",9266846717
+EPF-573567,Metro Logistics LLP,NMVLL1415M,"Plot 137, Okhla Ind Estate, Delhi, DL",9431305694
+EPF-533282,Sunrise Solutions LLP,ROJAN6356P,"plot 256, guindy, hyderabad, ts",9761721105
+EPF-332829,Sunrise Ventures Limited,TMEQU0661K,"plot 462, gidc, ahmedabad, gj",9637991909
+EPF-47116,Global Logistics Limited,HXVGG3238B,"Plot 855, Okhla Ind Estate, Hyderabad, TS",9243624038
+EPF-411891,Apex Fabrication Pvt Ltd,QCBEJ0112S,"Plot 510, Phase 1, Electronic City, Delhi, DL",9909343171
+EPF-370585,Apex Logistics Pvt Ltd,UGKRD4272R,"Plot 599, Peenya, Delhi, DL",9212299948
+EPF-992142,Global Technloogies Pvt Ltd,EMHWO0353C,"Plot 251, GIDC, Pune, MH",9409025941
+EPF-963098,Prime Ventures Ptv Ltd,ZTFFF1439Q,"Plot 646, Peenya, Hyderabad, TS",9853741418
+EPF-398444,Acme Logistics LLP,MLPRU1458C,"plot 733, peenya, mumbai, mh",9731605432
+EPF-846289,Ape xVentures LLP,JRJID5854W,"Plot 984, Phase 1, Electronic City, Ahmedabad, GJ",9530373356
+EPF-942137,Balaji Traders LLP,ODWAY1752K,"gala no. 37, shady complex, pune, mh",800945184
+EPF-468211,Prime Traders Pvt Ltd,WWWSC2544U,"plot 435, peenya, delhi, dl",9367770361
+EPF-154470,Acme Corp LLP,GVFXU5484D,"plot 712, midc, delhi, dl",9484650256
+EPF-77302,Dynmaic Ventures LLP,LLQII0536A,"plot 348, midc, delhi, dl",9173195831
+EPF-475426,Global Traders Lmiited,XXDEN9314U,"plot 125, guindy, mumbai, mh",9799243092
+EPF-115000,BalajiV entures Limited,ZPHNP3414F,"Plot 122, Okhla Ind Estate, Pune, MH",9441626312
+EPF-325037,Tech Solutions Pvt Ltd,KNSAN5420T,"plot 861, guindy, pune, mh",9222174634
+EPF-142472,Apex Ventures LLP,ZUQNI9113F,"Plot 125, Okhla Ind Estate, Ahmedabad, GJ",9100202857
+EPF-106839,Apex Fabrication Limited,YWOSP3101Y,"plot 257, midc, chennai, tn",9857858645
+EPF-818104,Sunrise Fabricatoin Limited,IOECV4508G,"plot 169, okhla ind est, hyderabad, ts",9523043304
+EPF-431302,Dynamic Logistics Pvt Ltd,PUASB9091D,"plot 784, gidc, pune, mh",9819111223
+EPF-436010,Om Technologies Limited,XLRXN1714P,"plot 730, okhla ind est, bengaluru, ka",9657458010
+EPF-507626,Apex Technologies Pvt Ltd,RGTYF2377V,"Plot 677, Peenya, Pune, MH",9318274555
+EPF-689625,Pioneer Logistics Limited,UIXHF1464U,"Plot 210, MIDC, Chennai, TN",9116717637
+EPF-896650,Prime Technologies Limited,CFIQK1179Q,"Plot 783, Peenya, Chennai, TN",9250797445
+EPF-221798,Acme Technoolgies LLP,PIWCT4839Y,"Plot 624, Peenya, Mumbai, MH",9573322155
+EPF-622313,Shree Corp Limited,VADNV9388L,"gala no. 52, shady complex, delhi, dl",800916320
+EPF-562896,Shree Corp Pvt Ltd,APSOA5812R,"Plot 701, GIDC, Pune, MH",9276422026
+EPF-582542,Global Fabrication LLP,UASZM7946L,"Plot 56, Guindy, Pune, MH",9826853340
+EPF-144009,Tech Technologies LLP,AKQYQ7883U,"plot 12, hitec city, hyderabad, ts",9644383022
+EPF-84094,Tech Ventures Pvt Ldt,AGNPJ7386M,"Plot 607, Phase 1, Electronic City, Delhi, DL",9544941038
+EPF-97714,Metro Venutres LLP,EGWRR7647L,"plot 648, peenya, chennai, tn",9202530685
+EPF-492949,Pioneer aFbrication LLP,VJWKY8796K,"Plot 670, GIDC, Mumbai, MH",9588687171
+EPF-277338,Global Corp Pvt Ltd,CPNMH8650F,"Plot 63, GIDC, Pune, MH",9991808361
+EPF-22855,Global Logistics Limited,WLKLQ1141P,"Plot 303, Peenya, Bengaluru, KA",9619048228
+EPF-536717,Prime Logistics Limited,VIFTO2948X,"Plot 338, Peenya, Pune, MH",9864012902
+EPF-862346,Apex Traders LLP,DADCS5840V,"plot 741, ph 1, electronic city, pune, mh",9474455188
+EPF-218568,Pioneer Technologeis Pvt Ltd,XZPFB7220R,"Plot 450, Hitec City, Mumbai, MH",9867794292
+EPF-718793,Stellar Technologies Pvt Ltd,IVIMX2801K,"plot 323, guindy, hyderabad, ts",9854718657
+EPF-683421,Stellar Ventures Limited,MQPNY1958B,"plot 713, peenya, mumbai, mh",9322741712
+EPF-48140,Stellar Ventures Pvt Ltd,XRRHZ9046V,"Plot 520, Hitec City, Delhi, DL",9466398305
+EPF-798413,Prime Traders LLP,SNIVP5808E,"plot 301, okhla ind est, chennai, tn",9961195228
+EPF-391642,Pioneer Corp Pvt Ltd,REVTM5122Q,"Plot 719, Peenya, Hyderabad, TS",9586880792
+EPF-634513,Sunrise Industries PvtL td,ETQFY5047Q,"plot 427, hitec city, pune, mh",9300677050
+EPF-307159,Pionee rVentures LLP,CQUAG4759X,"plot 215, midc, mumbai, mh",9534412812
+EPF-555140,Om Industries Limited,IUOMK8463Q,"Plot 157, Peenya, Mumbai, MH",9321144767
+EPF-349686,Prmie Fabrication LLP,YVPME7977Q,"plot 355, guindy, hyderabad, ts",9657303746
+EPF-942121,Apex Technolgoies Pvt Ltd,XIKGI8167A,"plot 207, hitec city, mumbai, mh",9109973065
+EPF-747683,Prime Fabrication Pvt Ltd,UDMJT4411N,"plot 720, okhla ind est, delhi, dl",9176762052
+EPF-180937,Global Logistics Limited,EURXF0090O,"Plot 461, Hitec City, Delhi, DL",9254645477
+EPF-90603,Global Indsutries Limited,DQALW9949A,"Plot 162, GIDC, Pune, MH",9860675620
+EPF-855956,Dynamic Industries Pvt Ltd,VQNIH4064N,"Plot 510, Hitec City, Ahmedabad, GJ",9154737408
+EPF-918857,Apex Logistics Limited,MACQI6239Z,"Plot 195, Hitec City, Ahmedabad, GJ",9875486432
+EPF-926527,Om Enterprises LLP,HZOLD4377K,"plot 631, guindy, chennai, tn",9294007687
+EPF-917273,Om Venturse Pvt Ltd,PGCXR9071U,"Plot 940, MIDC, Mumbai, MH",9435045400
+EPF-425654,Prime Enterpirses LLP,QZKMH9685R,"plot 583, ph 1, electronic city, ahmedabad, gj",9310431462
+EPF-959743,Tech Ventures LLP,ORFXO9642H,"plot 206, peenya, bengaluru, ka",9855493350
+EPF-477509,Tech Fabrication LLP,TJKMT5595D,"Plot 303, Peenya, Hyderabad, TS",9403989260
+EPF-696212,Metro Logistic sLimited,KFFFF7417X,"plot 189, okhla ind est, mumbai, mh",9497402592
+EPF-514054,Balaji Traders Pvt Ltd,TWVLX7917U,"Plot 146, Okhla Ind Estate, Pune, MH",9336186879
+EPF-347943,Tceh Traders LLP,VBIYN3633C,"Plot 163, MIDC, Pune, MH",9506036340
+EPF-177629,Tech Industries LLP,LNRLI0261P,"Plot 788, Peenya, Chennai, TN",9624095994
+EPF-885397,Baljai Traders Limited,HKQZV4095T,"Plot 665, Guindy, Bengaluru, KA",9439317972
+EPF-15411,Metro Traders Pvt tLd,DVOSH7030P,"plot 232, gidc, pune, mh",9678899921
+EPF-718920,Dynamic Trader sPvt Ltd,ZQETH3751C,"Plot 224, MIDC, Pune, MH",9637346077
+EPF-250716,Shree Corp Limited,USHAY8833R,"Gala No. 10, Shady Complex, Pune, MH",800416060
+EPF-500859,Sunrise Logistics Pvt Ltd,ZOIPO6529F,"plot 770, guindy, bengaluru, ka",9816321930
+EPF-989572,Tech Fabrication Pvt Ltd,EKDYK9492G,"plot 899, guindy, mumbai, mh",9815567951
+EPF-476526,Tech Enteprrises Pvt Ltd,INFOX0811Q,"Plot 430, Phase 1, Electronic City, Pune, MH",9174508072
+EPF-237002,Acme Technologies Pvt Ldt,MMTOZ8320R,"Plot 311, Phase 1, Electronic City, Delhi, DL",9534885620
+EPF-189948,Stellar Technologies Pvt Ltd,LSIKC5704I,"Plot 320, Peenya, Chennai, TN",9189831618
+EPF-802452,Tech Corp Pvt Ltd,FJWWB4276V,"plot 679, guindy, bengaluru, ka",9582455346
+EPF-922884,Apex SolutionsL LP,AIRCB3028S,"plot 426, peenya, mumbai, mh",9272508428
+EPF-844710,Stellar Enterprises LLP,SLETE0837D,"Plot 957, Phase 1, Electronic City, Chennai, TN",9775318757
+EPF-208647,Om Ventures Pvt Ltd,XWIEO2975T,"plot 879, guindy, bengaluru, ka",9998226042
+EPF-57479,Tech Trdaers Pvt Ltd,KTJFN5569I,"plot 801, midc, pune, mh",9542231140
+EPF-729260,Om Enterprises Pvt Ltd,JUWSU7549V,"plot 395, guindy, chennai, tn",9801062705
+EPF-925914,Tech Enterprises Pvt Ltd,SACQE4859Q,"Plot 251, Guindy, Mumbai, MH",9431344994
+EPF-305460,Om Fabrication Limited,VSKVF1180O,"plot 851, hitec city, delhi, dl",9368730337
+EPF-103695,Shree Traders Limited,TZDWW1489L,"Plot 900, Peenya, Ahmedabad, GJ",9528459599
+EPF-483192,Om Ventures Limited,QQHCK7104L,"plot 719, gidc, chennai, tn",9497556420
+EPF-644431,Stellar Logistics Limited,CLGRR9247N,"Plot 106, Guindy, Bengaluru, KA",9434694397
+EPF-826198,Tech Logistics Pvt Ltd,QJCWH2920C,"Plot 986, Peenya, Ahmedabad, GJ",9178454105
+EPF-980333,Stellar Traedrs Pvt Ltd,SPZNL2706R,"Plot 930, Hitec City, Chennai, TN",9428289480
+EPF-430275,Om Ventures Pvt Ltd,KXKUU9162N,"Plot 202, Peenya, Hyderabad, TS",9219473478
+EPF-982454,Prime Industries Limited,WCQMQ3180A,"Plot 185, Guindy, Pune, MH",9756764392
+EPF-75452,Ape xTraders Limited,XFVUV5854Z,"plot 943, guindy, bengaluru, ka",9351540252
+EPF-889340,Dynamic Industries Limited,IMWKP6222E,"plot 330, hitec city, hyderabad, ts",9284841041
+EPF-588085,Acme Lgoistics Pvt Ltd,OHSEM9856B,"Plot 892, Okhla Ind Estate, Pune, MH",9948813193
+EPF-63908,Tech Solutions Limited,TBPLN6939I,"plot 648, guindy, delhi, dl",9172989929
+EPF-494949,Sunrise Traders Limited,WTDSO3121D,"plot 37, okhla ind est, mumbai, mh",9120949635
+EPF-489564,Pionere Fabrication LLP,QOMOO9973Q,"gala no. 90, shady complex, delhi, dl",800934779
+EPF-131868,Pioneer Corp LLP,CJFLV3491M,"plot 562, guindy, hyderabad, ts",9196679117
+EPF-895682,Sunrise Technologies Limited,FMONA5955J,"gala no. 40, shady complex, hyderabad, ts",800918438
+EPF-930699,Apex Enterprises Pvt Ltd,BSARY0347G,"plot 826, ph 1, electronic city, delhi, dl",9764536485
+EPF-692843,Balaji Traedrs Pvt Ltd,SEHOJ4383N,"plot 193, okhla ind est, pune, mh",9282734469
+EPF-575239,Metro Technologies LLP,ZOVTF7316M,"plot 54, okhla ind est, hyderabad, ts",9903154048
+EPF-346383,Sunrise Enterprises Pvt Ltd,WBHUY0590G,"Plot 21, Hitec City, Delhi, DL",9362958264
+EPF-266810,Apex Technologies LLP,ZIVJM8869B,"Plot 343, GIDC, Ahmedabad, GJ",9288769347
+EPF-237367,Apex Ventures Limited,SWIPB9666F,"Plot 184, MIDC, Mumbai, MH",9312241117
+EPF-770616,Shree Tehcnologies Pvt Ltd,ZHWOA8520P,"plot 874, midc, bengaluru, ka",9516230838
+EPF-47134,Metr oTraders LLP,DAGZW9714Z,"Plot 230, Peenya, Chennai, TN",9979672097
+EPF-790955,Tech Solutoins Pvt Ltd,LCQHE3224L,"Plot 56, Hitec City, Pune, MH",9748215056
+EPF-387497,Shree Enterprises Pvt Ltd,RQZFB9112Q,"Plot 88, Guindy, Bengaluru, KA",9893545721
+EPF-863909,Metro Traders LLP,TWBQT9947U,"plot 273, guindy, delhi, dl",9424435388
+EPF-626469,Prime Tarders LLP,QWLCH1671D,"plot 84, midc, pune, mh",9263167098
+EPF-851323,Apex Ventures LLP,SIGPK5496H,"Plot 871, Phase 1, Electronic City, Delhi, DL",9225618700
+EPF-355238,Om Technolgoies LLP,NLJFX6880E,"Plot 304, Phase 1, Electronic City, Delhi, DL",9321315381
+EPF-355906,Metro Idnustries Limited,OZKVQ0345I,"plot 209, midc, mumbai, mh",9938829588
+EPF-788028,Dynamic VenturesL imited,DDXVD2059H,"plot 752, okhla ind est, chennai, tn",9138591377
+EPF-567444,Shree Corp Limited,JHINI4223W,"plot 521, midc, pune, mh",9765278550
+EPF-831266,Tech Logistics Pvt Ltd,FVQHN1735J,"Plot 213, GIDC, Ahmedabad, GJ",9920011320
+EPF-107011,Sunrise Enterprises LLP,ZSVPQ7452M,"plot 434, peenya, mumbai, mh",9465419549
+EPF-356501,Shree Industries Pvt Ltd,TIPLC1192L,"plot 605, peenya, hyderabad, ts",9141195069
+EPF-445113,Stellar Fabricatino Pvt Ltd,BGKYQ4401U,"plot 638, midc, delhi, dl",9784637973
+EPF-465383,Apex Solutions LLP,ZBLWG7245A,"Plot 890, Phase 1, Electronic City, Ahmedabad, GJ",9258447284
+EPF-706305,Shree Sloutions LLP,HSDVY5750U,"plot 910, guindy, mumbai, mh",9570956479
+EPF-923418,Sunrise Ventures Limited,STUBV4602B,"Plot 596, Okhla Ind Estate, Mumbai, MH",9560386234
+EPF-301913,Shree Fabrication LLP,VQNMQ2040R,"plot 145, ph 1, electronic city, pune, mh",9281006295
+EPF-461232,Shree Enterprises Pvt Ltd,CEWBM2462L,"plot 954, hitec city, ahmedabad, gj",9272204649
+EPF-476419,Shre eFabrication Limited,BTEUR9189B,"Plot 792, Phase 1, Electronic City, Bengaluru, KA",9252886796
+EPF-643813,Acme Soultions LLP,NFAGQ7719Z,"plot 95, hitec city, delhi, dl",9638486268
+EPF-72166,Metro Logistics Pvt Ltd,BHHOE4036L,"plot 609, okhla ind est, mumbai, mh",9607487309
+EPF-946381,Dynamic Corp LLP,XMUZX9348A,"plot 574, peenya, ahmedabad, gj",9319247853
+EPF-298043,Pioneer Logistics LLP,IQYXQ4841E,"plot 710, hitec city, bengaluru, ka",9273254052
+EPF-65191,Apex Corp LLP,ULDOU3083Y,"Plot 136, MIDC, Pune, MH",9525878703
+EPF-603517,Pioneer Ventuers Limited,ZETOC4925Z,"plot 365, hitec city, mumbai, mh",9522989330
+EPF-737079,Metro Fabrication Pvt Ltd,DVIQS7191E,"plot 137, midc, hyderabad, ts",9638433729
+EPF-676861,Pioneer Trader sLimited,PRSYK7006U,"Plot 533, MIDC, Hyderabad, TS",9963685180
+EPF-649086,Acme Solution sLimited,BEVUH3454L,"Plot 263, Guindy, Bengaluru, KA",9723474615
+EPF-944946,Shree Industries Pvt Ltd,IJKEX6407F,"plot 376, peenya, ahmedabad, gj",9267228705
+EPF-310535,SunriseF abrication LLP,DKKXG0547U,"plot 30, hitec city, chennai, tn",9984837772
+EPF-416554,Tech Industries LLP,EJYWS8945A,"Plot 637, Okhla Ind Estate, Ahmedabad, GJ",9971183989
+EPF-821474,Metro Fabriaction LLP,RLNHJ5218U,"Plot 16, Okhla Ind Estate, Delhi, DL",9905467816
+EPF-405069,Shree Enterprises Pvt Ltd,UJZCP5609I,"plot 926, hitec city, bengaluru, ka",9156764139
+EPF-419634,Apex Fabricatio nLLP,PDOMK3505H,"plot 431, hitec city, delhi, dl",9726243902
+EPF-871573,Balaji Logistics Limited,ZDOUR9705A,"plot 343, guindy, ahmedabad, gj",9775268624
+EPF-769892,Sunrise Ventures Pvt Ltd,KHXOI4805S,"Plot 249, Guindy, Mumbai, MH",9422377522
+EPF-11018,Om Corp Pv tLtd,LCUQC9750T,"Plot 586, GIDC, Mumbai, MH",9471409653
+EPF-925754,Shree Traders LLP,EGCSF4586E,"plot 789, gidc, chennai, tn",9199116230
+EPF-859813,Stellar Ventrues Limited,MXUFJ3790Q,"plot 835, midc, delhi, dl",9559531065
+EPF-522246,Pioneer Solutions Limited,LWHAE3365M,"Plot 391, Hitec City, Hyderabad, TS",9483820644
+EPF-654824,Acme Ventures LLP,LYGAV8672A,"plot 637, peenya, pune, mh",9457364986
+EPF-392339,Om Technologies LLP,EHWUW7904S,"Plot 662, Hitec City, Ahmedabad, GJ",9314979180
+EPF-39276,Dynamci Industries Pvt Ltd,MSHSE3036O,"Plot 190, Okhla Ind Estate, Delhi, DL",9429775098
+EPF-908722,Pioneer Fabricaiton Pvt Ltd,WTEXT1192Z,"Plot 800, Okhla Ind Estate, Pune, MH",9724108816
+EPF-934633,Stellar Fabrication LLP,PMEQK9642B,"Plot 94, GIDC, Chennai, TN",9451242247
+EPF-492991,Metro Logistics Pvt Ltd,HSZDZ5181O,"Plot 992, Okhla Ind Estate, Delhi, DL",9403290833
+EPF-841308,Sunrise Ventures LLP,RBFAX5965M,"Plot 596, MIDC, Chennai, TN",9834057850
+EPF-588075,Balaji Tradesr LLP,FYFFG9169A,"Plot 875, Peenya, Chennai, TN",9775709298
+EPF-615420,Dynamic Corp Limited,UZISA1250B,"Plot 839, Peenya, Chennai, TN",9909684337
+EPF-290881,Sunrise Logistics Pvt Ltd,SWEIB4033G,"Plot 900, Guindy, Hyderabad, TS",9937541442
+EPF-509431,Tech Indutsries Pvt Ltd,SBECR4981S,"Plot 54, Hitec City, Delhi, DL",9604233585
+EPF-912347,Apex Fabrication LPL,AGHSA8567Y,"Plot 627, GIDC, Pune, MH",9554991160
+EPF-911303,Dynamic Enterprises iLmited,IPXDX1816E,"Plot 890, Guindy, Hyderabad, TS",9524999144
+EPF-140248,Pioneer Traders LLP,RARFU0328Y,"plot 37, guindy, pune, mh",9344714805
+EPF-247233,Dynamic Logistics LLP,GJUCF5248X,"Plot 705, GIDC, Pune, MH",9730212768
+EPF-900014,Metro Enterprisse LLP,VMWDZ9670G,"plot 788, okhla ind est, bengaluru, ka",9830408255
+EPF-364550,Acme Ventures Liimted,ZHPMA9789M,"Plot 702, GIDC, Delhi, DL",9211686364
+EPF-795912,Pioneer Logistics LLP,ALPGO0532H,"Plot 581, Hitec City, Ahmedabad, GJ",9559385616
+EPF-979230,Stellar CorpL LP,MEMST0511D,"Plot 474, Hitec City, Chennai, TN",9928710284
+EPF-162373,Stellar Logistics Pvt Ltd,BYXMI3996T,"plot 888, gidc, chennai, tn",9582064640
+EPF-377359,Shree Ventures LLP,WASXS9945L,"Plot 313, MIDC, Pune, MH",9105704244
+EPF-762256,Acme Corp Pvt Ltd,FAFXU9554C,"Gala No. 48, Shady Complex, Hyderabad, TS",800803353
+EPF-699299,Sunrise Corp LLP,BKOHD8132K,"Plot 677, Guindy, Pune, MH",9679032831
+EPF-424233,Metro Technologies LLP,FRNTC8132O,"Plot 165, Okhla Ind Estate, Bengaluru, KA",9350175834
+EPF-447022,Tech Enterprises Limited,UISEE7341B,"gala no. 10, shady complex, pune, mh",800416060
+EPF-580871,Global Ventures PvtL td,XRTVV5374Z,"Plot 461, GIDC, Delhi, DL",9888881649
+EPF-391035,Shree Traders Pvt Ltd,ZWOIP4140S,"plot 19, guindy, hyderabad, ts",9239306788
+EPF-159735,Apex oCrp LLP,PCJRH7510X,"Plot 882, MIDC, Delhi, DL",9207856320
+EPF-619735,Om Traders Pvt Ltd,KANLV4375V,"plot 574, peenya, pune, mh",9319647715
+EPF-619915,Tech Traders Pvt Ltd,MLFEC9635T,"plot 425, hitec city, bengaluru, ka",9428804257
+EPF-26211,Metro Logistics Pvt Ltd,KZZDR7901H,"plot 459, guindy, chennai, tn",9831047992
+EPF-372214,Sunrise Enterprises LLP,BYQTT6509N,"Plot 257, Hitec City, Chennai, TN",9376456414
+EPF-731668,Om Industries Limited,XOVYC7337A,"plot 875, midc, chennai, tn",9354079044
+EPF-289911,Prime Industries LLP,VJAHD2653I,"plot 657, ph 1, electronic city, hyderabad, ts",9290560189
+EPF-833505,Om Soltuions LLP,FEJLV1639Z,"plot 879, hitec city, ahmedabad, gj",9970024217
+EPF-545152,Om VenturesP vt Ltd,SOZOY5099A,"Plot 762, Phase 1, Electronic City, Chennai, TN",9357950750
+EPF-483681,Apex Industries Limited,EVSEE9715A,"gala no. 32, shady complex, ahmedabad, gj",800962410
+EPF-702191,Tech Industries Limited,KXOBF3765I,"plot 771, guindy, mumbai, mh",9859075907
+EPF-326119,Dynamic Ventures LLP,LFJAE1258B,"Plot 534, Okhla Ind Estate, Mumbai, MH",9758925825
+EPF-793325,Acme Ventures LLP,UVHGN9336S,"Plot 55, Peenya, Pune, MH",9702317759
+EPF-984423,Pionee rTraders Pvt Ltd,IDQQP3129W,"plot 605, hitec city, ahmedabad, gj",9525701703
+EPF-205109,Balaji aFbrication Pvt Ltd,UASBE3233M,"Plot 619, Peenya, Ahmedabad, GJ",9379857824
+EPF-968802,Global Technloogies Limited,OMHEK0862L,"Plot 933, GIDC, Delhi, DL",9449167605
+EPF-675830,Sunrise Enterprise sLimited,MISHU5801V,"Plot 127, Peenya, Bengaluru, KA",9540376521
+EPF-139729,Sunrise Traders LLP,HCMWM1981M,"Plot 188, Okhla Ind Estate, Mumbai, MH",9465363782
+EPF-807032,Sunrise Corp LLP,SNNNH4159G,"Plot 385, Guindy, Delhi, DL",9956907582
+EPF-269091,Prime Ventures Limtied,ZBCNY9652N,"plot 569, guindy, pune, mh",9997848519
+EPF-367799,Metro SolutionsP vt Ltd,RKKBH5222Z,"Gala No. 65, Shady Complex, Ahmedabad, GJ",800868010
+EPF-679929,Apex Enterprises Limited,QTDXQ0115I,"plot 804, guindy, pune, mh",9991476141
+EPF-607681,Apex Technologies LLP,JTZXY6977J,"plot 215, midc, bengaluru, ka",9883458023
+EPF-761501,Dynamic Logistics LLP,LUHCI7518U,"Plot 60, Peenya, Delhi, DL",9816975715
+EPF-748187,Tech IndustriesL LP,BBGGA7340H,"plot 930, gidc, delhi, dl",9975103729
+EPF-262067,Balaji Corp Limited,DPMFG7635L,"plot 580, midc, chennai, tn",9962989907
+EPF-726339,Shree Tcehnologies Pvt Ltd,RCTUN2523P,"plot 195, ph 1, electronic city, chennai, tn",9864815243
+EPF-515904,Tech Fabrication LLP,JQGZE5157J,"plot 906, ph 1, electronic city, chennai, tn",9685067112
+EPF-969704,Metro Fabricatio nLLP,PALUZ2924G,"Plot 752, GIDC, Chennai, TN",9277831099
+EPF-755386,Tech Traders LLP,TSOVT7110T,"plot 490, okhla ind est, chennai, tn",9704068956
+EPF-455605,Stellar Industries LLP,XLRAA0438Y,"Plot 433, Hitec City, Hyderabad, TS",9520261037
+EPF-83376,Shree Traders LLP,DWRGK0971E,"Plot 538, GIDC, Hyderabad, TS",9164389532
+EPF-849151,Tech Solutions LLP,CMCCY0213B,"Plot 81, Okhla Ind Estate, Bengaluru, KA",9614961708
+EPF-912121,Acme Ventures Pvt Ltd,AEDPB2012G,"Plot 777, GIDC, Ahmedabad, GJ",9537948121
+EPF-404835,TechT echnologies LLP,ISXQP2762N,"plot 963, midc, delhi, dl",9898911644
+EPF-438470,Balaji Solutions Limited,BGPRD8957B,"Plot 335, Peenya, Mumbai, MH",9781833697
+EPF-296129,Dynami cEnterprises Pvt Ltd,GQCVU7061M,"plot 145, hitec city, mumbai, mh",9542934375
+EPF-739479,Dynamic Corp Pvt Ltd,UEMVR3011J,"plot 530, okhla ind est, mumbai, mh",9284965961
+EPF-659348,Stellar Trdaers Limited,FNKNU5778T,"Plot 459, Okhla Ind Estate, Bengaluru, KA",9827583360
+EPF-114550,Dynamic Traders Limited,SRMYB6691U,"Plot 617, Guindy, Bengaluru, KA",9714289788
+EPF-730430,Om Logistics Limietd,EIXRS3314T,"plot 265, ph 1, electronic city, hyderabad, ts",9582676401
+EPF-659458,Shree Fabrication Pvt Ltd,YKFYX3534S,"Plot 597, Okhla Ind Estate, Delhi, DL",9688226656
+EPF-753483,Sunrise Logistics Pvt Ltd,DIOCC4828Y,"plot 432, peenya, chennai, tn",9868266275
+EPF-954133,Sunrise Enterprises iLmited,QDWQW4893O,"plot 321, midc, pune, mh",9469374843
+EPF-877474,Tech Technologies Limietd,QUNIC3688V,"Plot 591, Phase 1, Electronic City, Ahmedabad, GJ",9510099700
+EPF-469963,Om Vetnures Limited,YMCZC5233W,"plot 981, gidc, ahmedabad, gj",9267637678
+EPF-212735,Dynamic Technologies Pvt Ltd,WQKDM7478F,"Plot 296, Peenya, Ahmedabad, GJ",9962466868
+EPF-434414,Global Corp Pvt Ltd,FQEOQ4800T,"plot 739, peenya, pune, mh",9433923070
+EPF-518106,Metor Industries LLP,KUQSO2586P,"plot 850, ph 1, electronic city, delhi, dl",9422229432
+EPF-169919,Acm eCorp Limited,WIRJT9800M,"plot 235, midc, pune, mh",9146621343
+EPF-232890,Dynamic Industries Pvt Ltd,HJFMV5964V,"Plot 489, GIDC, Hyderabad, TS",9653781807
+EPF-57255,Balaji Solutions Limited,KTYVZ3845W,"plot 557, gidc, chennai, tn",9647432036
+EPF-587958,Metro Logistics Pvt Ltd,WWSMQ5337D,"plot 46, gidc, hyderabad, ts",9593044783
+EPF-832696,Tceh Corp Pvt Ltd,ALSZW5941A,"Plot 754, Phase 1, Electronic City, Ahmedabad, GJ",9153943047
+EPF-693323,Pioneer Solutions Limited,AIHTC6863I,"plot 577, hitec city, chennai, tn",9851551605
+EPF-541655,Ape xTraders Limited,GBCGY1800U,"Plot 433, GIDC, Ahmedabad, GJ",9597483559
+EPF-701122,Stellar Technologies Limited,CKBCI5815A,"Plot 907, Okhla Ind Estate, Ahmedabad, GJ",9248900423
+EPF-985944,Global Ventures Limited,SVTCL4876Y,"Gala No. 9, Shady Complex, Hyderabad, TS",800721734
+EPF-751034,Global Industries Pvt Ldt,VOLLI5624F,"plot 928, hitec city, chennai, tn",9309716114
+EPF-50415,Om Solutions Limited,BVOZU7928G,"Plot 141, Peenya, Pune, MH",9946896502
+EPF-619166,Setllar Fabrication Limited,SRSWJ0176H,"Plot 60, Guindy, Pune, MH",9524733402
+EPF-216262,Acme Solutions Pvt Ltd,OAIQQ5682J,"plot 48, midc, mumbai, mh",9769857265
+EPF-106791,Tech Solutions LLP,KANLG2544X,"plot 430, peenya, hyderabad, ts",9805075346
+EPF-205716,Stellra Corp Limited,EOYHL2584B,"plot 230, hitec city, ahmedabad, gj",9928648599
+EPF-547955,Dynamic Fabrication LLP,DPQXJ2401Y,"Gala No. 100, Shady Complex, Ahmedabad, GJ",800116478
+EPF-87783,Balaji Logistics Limited,LGXPW8292X,"Gala No. 32, Shady Complex, Ahmedabad, GJ",800962410
+EPF-181654,Stellar Corp Pvt Ltd,IAAUY7203V,"plot 299, hitec city, mumbai, mh",9412760065
+EPF-447153,Sunrise Indutsries Limited,DIVWO2963R,"plot 133, peenya, pune, mh",9967627549
+EPF-35977,Om Corp Limited,XMRSZ2335Q,"plot 453, peenya, hyderabad, ts",9594844930
+EPF-978287,Om Traders Limited,EUPJJ4388X,"Plot 790, Hitec City, Mumbai, MH",9883109126
+EPF-256277,Prime Ventuers LLP,JLHEB7030P,"Plot 875, Okhla Ind Estate, Bengaluru, KA",9406885405
+EPF-86691,Shree Solutions LLP,XXLDA8124C,"plot 641, gidc, bengaluru, ka",9119975413
+EPF-892021,Global Solutions LLP,MDIVA1684K,"plot 792, ph 1, electronic city, hyderabad, ts",9366294275
+EPF-448312,Apex Solutions Pvt Ltd,MPFGW1431S,"Plot 84, Peenya, Ahmedabad, GJ",9484112956
+EPF-213983,Prime Logistics Pvt tLd,OIGMZ3283H,"Plot 374, Okhla Ind Estate, Pune, MH",9843947282
+EPF-667880,Pioneer Fabrication LLP,WELOZ9416X,"Plot 816, Okhla Ind Estate, Bengaluru, KA",9290550321
+EPF-58968,Metro Corp Limited,YFOFK0575E,"plot 105, gidc, pune, mh",9954393362
+EPF-460499,Global Lgoistics Pvt Ltd,HSFVS0043G,"plot 605, guindy, mumbai, mh",9848831984
+EPF-478434,Prime Industries LLP,YGMYO6134W,"Plot 329, Hitec City, Bengaluru, KA",9498301197
+EPF-839869,Acme Logistics LLP,ZOHZZ8488R,"plot 839, ph 1, electronic city, mumbai, mh",9937950606
+EPF-97434,Om Ventures Liimted,PWKZL9496H,"Plot 653, Guindy, Mumbai, MH",9147721480
+EPF-189848,Sunrise Corp Pvt Ltd,PAOJJ3493A,"plot 373, okhla ind est, pune, mh",9894895278
+EPF-314838,Prime Logistics LLP,HEVMW2584F,"Plot 970, Okhla Ind Estate, Delhi, DL",9156879269
+EPF-987550,Acme Trader sLLP,LQTXM7661V,"Plot 919, GIDC, Mumbai, MH",9288315334
+EPF-125585,Shree Enterprises Pvt Ltd,QFWLO4342Q,"Plot 356, Guindy, Mumbai, MH",9832154238
+EPF-163964,Metro Technologies LLP,MSNYJ7021J,"plot 180, peenya, bengaluru, ka",9828637960
+EPF-461635,Metro Vetnures Pvt Ltd,QIYJS9640R,"Gala No. 90, Shady Complex, Delhi, DL",800934779
+EPF-640203,Om Industries Limited,EDLHJ1680V,"plot 872, okhla ind est, ahmedabad, gj",9397792009
+EPF-983752,Pioneer Industries Pvt tLd,HOUFP5266O,"Plot 737, Peenya, Delhi, DL",9139800911
+EPF-631137,Tech Technologies Pvt Ltd,YIZBY9526H,"Plot 948, Okhla Ind Estate, Hyderabad, TS",9809698427
+EPF-510726,Prime Traders LLP,KYMXB7075X,"plot 953, peenya, delhi, dl",9588630759
+EPF-216919,Prime Industries LLP,CIJHT1434N,"Plot 563, Hitec City, Ahmedabad, GJ",9422276760
+EPF-361574,Balaji Logistics Limited,VVCYY0406C,"Plot 197, Hitec City, Mumbai, MH",9214190149
+EPF-163748,Stellar Fabrication LLP,DVXRN8216K,"plot 12, hitec city, pune, mh",9527537405
+EPF-40740,Tech Fabircation Pvt Ltd,XJJMN4668B,"Plot 768, Hitec City, Pune, MH",9222863320
+EPF-543634,Prime Technologies Limited,YYPWP6022M,"plot 976, guindy, ahmedabad, gj",9729624127
+EPF-831087,Stlelar Logistics LLP,MZFLH7913U,"Plot 173, Peenya, Pune, MH",9314883326
+EPF-776885,Sunrise Corp Pvt Ltd,WNCRI6838N,"plot 644, guindy, delhi, dl",9101521415
+EPF-996959,Pioneer Indusrties LLP,ZXTUP9940H,"plot 668, okhla ind est, hyderabad, ts",9315786088
+EPF-696374,Acme Solutions LLP,ASLCQ9659B,"plot 627, peenya, hyderabad, ts",9124242454
+EPF-783628,Prime Traders LLP,GCLFL8913C,"plot 187, guindy, pune, mh",9306335762
+EPF-785190,Apex Ventuers LLP,MJZMH3806C,"Plot 142, Hitec City, Pune, MH",9421678138
+EPF-652418,Sunrise Logistics Limited,DRLCE7761K,"plot 816, midc, ahmedabad, gj",9642718711
+EPF-38048,Shree Technologies Limited,MVMWK6111W,"plot 344, okhla ind est, mumbai, mh",9382007978
+EPF-419936,Shree Solutoins Limited,XVMQS1484F,"plot 842, guindy, pune, mh",9157254492
+EPF-951463,Sunrise Corp LLP,KXLBU9041T,"plot 44, hitec city, mumbai, mh",9425742945
+EPF-828150,BalajiI ndustries LLP,SCIRP5846W,"Plot 621, Guindy, Mumbai, MH",9195789916
+EPF-757169,Pioneer Industries LLP,CGXNF4898L,"plot 96, guindy, hyderabad, ts",9771269459
+EPF-333358,Metor Traders LLP,MEXDS8310I,"plot 608, hitec city, delhi, dl",9155130888
+EPF-31427,Sunrise Industries Limited,PEJVQ9455M,"plot 324, gidc, ahmedabad, gj",9217312190
+EPF-705257,Balaji Technologies Limited,OSUIU5063L,"Plot 940, MIDC, Hyderabad, TS",9525948335
+EPF-86426,Pioneer Enetrprises LLP,VBKLV9692P,"plot 765, hitec city, chennai, tn",9566931737
+EPF-194558,Stellar Fabrication Pvt Ltd,WNEHV4381J,"plot 119, midc, pune, mh",9801248125
+EPF-810639,Sunrise Technologies Pvt Ltd,TPWBB8663A,"Plot 527, Guindy, Pune, MH",9341165244
+EPF-200924,Balaji Technologies Pvt Ltd,ZXATS1525F,"plot 651, ph 1, electronic city, pune, mh",9115908192
+EPF-115197,Stellar Industries Limited,XQGPO5542E,"Plot 460, Phase 1, Electronic City, Chennai, TN",9356613317
+EPF-632868,Pioneer Traders Limited,BEPTP5151M,"plot 106, midc, delhi, dl",9833451857
+EPF-140780,Om Solutions Pvt Ltd,NZMBA1402P,"plot 480, gidc, ahmedabad, gj",9452039750
+EPF-135496,Pioneer Logistics LLP,EAQYQ7368U,"Plot 700, Peenya, Bengaluru, KA",9835390389
+EPF-307477,Apex CorpL LP,TZVDV8966P,"plot 553, ph 1, electronic city, pune, mh",9460477946
+EPF-760916,Dyanmic Logistics LLP,UXSVE0764G,"plot 237, peenya, ahmedabad, gj",9170851530
+EPF-994336,Metor Logistics LLP,MGVXE9304Z,"plot 242, midc, pune, mh",9827959472
+EPF-817897,Metro Industries LLP,HBFIV8733V,"gala no. 61, shady complex, pune, mh",800547700
+EPF-460574,Shree Technologies LLP,QYYGL5290Y,"Plot 334, MIDC, Hyderabad, TS",9642149569
+EPF-954169,Dynamic Corp Limited,BOWRJ5720E,"Plot 673, GIDC, Mumbai, MH",9903172192
+EPF-451036,Metro Technologies Pvt Ltd,ZIYLZ6924A,"plot 457, guindy, hyderabad, ts",9827948145
+EPF-394668,Shree Technologies Limited,ZXARU8288P,"Gala No. 1, Shady Complex, Delhi, DL",800805319
+EPF-242516,AcmeT echnologies Limited,MIAYB3956D,"Gala No. 35, Shady Complex, Delhi, DL",800750497
+EPF-249935,Dynamic Enterprises LLP,CGLOD3425H,"plot 879, guindy, ahmedabad, gj",9858487842
+EPF-23082,Stellar Indusrties Pvt Ltd,FOCQF8938V,"Plot 249, Guindy, Pune, MH",9399849790
+EPF-423008,Acme Soluitons Limited,XUYXL1280G,"Plot 581, Okhla Ind Estate, Delhi, DL",9971781538
+EPF-203878,Apex Industries Limited,HWZTH6602C,"Plot 454, Guindy, Ahmedabad, GJ",9414055577
+EPF-282449,Sunrise Traders Pvt Ltd,VUGWF1105W,"Plot 340, Okhla Ind Estate, Hyderabad, TS",9959468644
+EPF-745895,Apex Fabrication LLP,PQOXH1065B,"plot 931, peenya, hyderabad, ts",9217364355
+EPF-467976,Acme Enterprises LLP,EAOHD5583Y,"plot 667, ph 1, electronic city, pune, mh",9706635411
+EPF-418957,Dynamic Technologies Pvt Ltd,YMICV0839H,"Plot 82, Phase 1, Electronic City, Bengaluru, KA",9952569917
+EPF-28925,Global Fbarication LLP,LJOJO1599R,"plot 839, hitec city, bengaluru, ka",9129490526
+EPF-185470,Global Solutions Limited,YZFIE8971W,"plot 220, ph 1, electronic city, bengaluru, ka",9685513126
+EPF-833954,Dynamic Industries Pv tLtd,NFLPZ5852G,"plot 738, hitec city, chennai, tn",9989895525
+EPF-329781,Apex Traders vPt Ltd,GRYZW9657C,"Plot 615, Hitec City, Delhi, DL",9812985787
+EPF-487460,Apex Fabrication Pvt Ltd,HGCZB7470P,"Plot 94, Guindy, Delhi, DL",9859647811
+EPF-350624,Pioneer Indsutries Pvt Ltd,WICUA4921T,"plot 394, ph 1, electronic city, hyderabad, ts",9354666045
+EPF-163949,Pioneer Fabrication Limited,MBRIE3504M,"plot 131, okhla ind est, delhi, dl",9499793708
+EPF-748811,Shree Corp Limited,CJGXT3058J,"plot 265, gidc, mumbai, mh",9169033974
+EPF-152275,Dynamic Enterprises Limited,ZPSZH9710M,"Plot 292, Phase 1, Electronic City, Bengaluru, KA",9397093802
+EPF-525008,Tech Enterprises Pvt Ltd,BZEMT5537H,"plot 726, okhla ind est, delhi, dl",9215947733
+EPF-156936,Stellar Traders LLP,POFTQ2507D,"gala no. 48, shady complex, hyderabad, ts",800803353
+EPF-369750,Metro Traders Pvt Ltd,SSQKA5190Y,"plot 531, peenya, mumbai, mh",9982941983
+EPF-375664,Stellar Corp vPt Ltd,ANONP3560B,"plot 591, okhla ind est, ahmedabad, gj",9781180568
+EPF-604420,Shree Technologies LLP,ETFUW1854Y,"Plot 354, Peenya, Bengaluru, KA",9724856427
+EPF-847843,Pirme Corp Limited,IGFBA4464G,"plot 760, midc, mumbai, mh",9445509456
+EPF-910483,Shree Traders Pvt Ltd,QBTVG7549Z,"Plot 353, MIDC, Ahmedabad, GJ",9905684825
+EPF-472161,Acme Technologies Pv tLtd,QKQVN1171E,"plot 327, peenya, delhi, dl",9764807878
+EPF-432789,Stellar Logistics Limited,ZPQZC9897M,"Plot 498, Phase 1, Electronic City, Bengaluru, KA",9770334406
+EPF-67214,Sunrise Vetnures LLP,FKOYA1909M,"plot 596, peenya, hyderabad, ts",9232959822
+EPF-280217,Global Solutions Limitde,DCDGZ5517S,"plot 220, okhla ind est, bengaluru, ka",9614195909
+EPF-325729,Apex Traders Limietd,GZZOW3805B,"plot 529, midc, mumbai, mh",9397143955
+EPF-592617,Stellar Fabrication LLP,SPFGD2899P,"plot 19, ph 1, electronic city, delhi, dl",9374362115
+EPF-464030,Tech Solutions LLP,ZJBPM2535G,"Plot 568, Okhla Ind Estate, Chennai, TN",9952609945
+EPF-986581,Metro TradersL imited,JICPW2043O,"Plot 579, Peenya, Ahmedabad, GJ",9208228676
+EPF-972756,Om Technologies LLP,KXGGG7907B,"Plot 439, MIDC, Chennai, TN",9458649787
+EPF-227683,Acme Fabrication Limited,PLRYC8892V,"plot 845, peenya, pune, mh",9890168795
+EPF-482966,Stellar Logistics LLP,VAUOE6597U,"Plot 101, Peenya, Ahmedabad, GJ",9162339767
+EPF-719153,Shree Solutions Pvt Ltd,JNHXS1414Q,"Plot 62, GIDC, Chennai, TN",9883320542
+EPF-850163,Baljai Traders LLP,RKQAV6561H,"plot 56, ph 1, electronic city, pune, mh",9369778408
+EPF-816239,Acme Enterprises Pvt Ltd,OWNQL4444X,"Plot 241, Peenya, Ahmedabad, GJ",9671089018
+EPF-544337,Pioneer Ventures Limited,QIIIK8294O,"plot 251, midc, pune, mh",9901633398
+EPF-329934,Om Corp vPt Ltd,WALIK6378M,"Plot 641, Phase 1, Electronic City, Bengaluru, KA",9583662786
+EPF-464578,Metro Corp Limited,KILJR9555S,"Plot 983, Okhla Ind Estate, Mumbai, MH",9805368463
+EPF-981696,Om Corp Pvt Ltd,DKBQB1749W,"plot 534, gidc, chennai, tn",9699681228
+EPF-565851,Global Soluitons Limited,DFZUJ3945O,"plot 194, okhla ind est, bengaluru, ka",9406199323
+EPF-299947,Dynamic Traders Limited,YCMWQ6947S,"Plot 702, Hitec City, Chennai, TN",9292962578
+EPF-625357,Acme Solutions Limited,QYOUJ6654I,"plot 307, peenya, bengaluru, ka",9599441749
+EPF-57322,Tech Enterpirses LLP,LAEZA0000V,"Plot 524, Peenya, Ahmedabad, GJ",9391343016
+EPF-513173,Dynaimc Corp LLP,JXAAX1112A,"plot 387, peenya, hyderabad, ts",9586361215
+EPF-247564,Sunrise Solutinos Limited,FHMEI5051C,"plot 25, hitec city, delhi, dl",9381539070
+EPF-216492,Balaji Ventures Limited,FEAEK0893Y,"Plot 177, Peenya, Mumbai, MH",9145828863
+EPF-265512,Global Solutions LLP,YYQLA8105E,"Plot 12, MIDC, Chennai, TN",9278298293
+EPF-331879,Sunrise Technologies Pvt Ltd,HLVFK6407M,"gala no. 61, shady complex, pune, mh",800942817
+EPF-403178,Shree Ventures Pvt Ltd,IUPTR8679V,"plot 691, peenya, mumbai, mh",9942704252
+EPF-370549,Pioneer oSlutions LLP,BNARY1532K,"Plot 887, Hitec City, Ahmedabad, GJ",9512106897
+EPF-49363,Prime Solutions LLP,XUTEH1264G,"gala no. 100, shady complex, ahmedabad, gj",800116478
+EPF-634782,Pioneer Traders Pvt Ltd,DYESC3847W,"Plot 957, Hitec City, Hyderabad, TS",9428616038
+EPF-22044,Stellar Technologies Pvt Ltd,JDSTJ0988W,"Plot 227, Hitec City, Mumbai, MH",9698431289
+EPF-634743,TechS olutions Limited,RVYUI5108G,"gala no. 16, shady complex, hyderabad, ts",800235888
+EPF-921896,Tech Ventures LLP,WWYCL3682L,"Plot 889, Okhla Ind Estate, Delhi, DL",9290967437
+EPF-30506,Balaji Industries LLP,LUNEB8823Z,"plot 566, hitec city, chennai, tn",9504960988
+EPF-210503,Om Sloutions LLP,RHMTF9215A,"plot 253, ph 1, electronic city, chennai, tn",9339968557
+EPF-775616,Apex Logistics Pvt Ltd,WNZQP4534I,"Plot 173, Phase 1, Electronic City, Mumbai, MH",9101881811
+EPF-708226,Metro Cor pPvt Ltd,ZOOKW2309Q,"plot 878, guindy, mumbai, mh",9814664463
+EPF-305890,Pioneer Logistics Pvt Ldt,VHPPF9198O,"plot 415, midc, pune, mh",9842784106
+EPF-98201,Pioneer Corp Ptv Ltd,MXSAG3155M,"Plot 839, Okhla Ind Estate, Hyderabad, TS",9106051536
+EPF-269235,Stellar Corp Limited,EHVMY9139D,"plot 807, okhla ind est, bengaluru, ka",9778542475
+EPF-62039,Balaji Ventures LLP,XQNKW7934M,"plot 880, okhla ind est, delhi, dl",9119061787
+EPF-882318,Global Industries LLP,CWIPG5542K,"Plot 292, Guindy, Mumbai, MH",9672327626
+EPF-348714,Tech Logistics LLP,ETEKZ1218S,"plot 618, guindy, hyderabad, ts",9661466951
+EPF-899967,Apex Tradres Limited,UXFTG6128G,"Gala No. 71, Shady Complex, Mumbai, MH",800782177
+EPF-449596,Pioneer Fabricaiton LLP,FFRZZ0182Z,"Plot 899, Guindy, Bengaluru, KA",9117866469
+EPF-393876,Apex nEterprises LLP,FUHSX8371Z,"Plot 916, Peenya, Delhi, DL",9171433843
+EPF-381968,Om Corp Limitde,YCJXG0970M,"plot 229, ph 1, electronic city, pune, mh",9294412864
+EPF-62175,Pioneer Industries Limited,ADMUV7213Q,"plot 481, ph 1, electronic city, pune, mh",9125540162
+EPF-785976,Om Logistics LLP,YERGX7895Q,"plot 912, gidc, bengaluru, ka",9507708231
+EPF-70084,Om Technologies Limited,XCDUS7658P,"Plot 547, Peenya, Hyderabad, TS",9854408534
+EPF-932487,Metro Technologeis Pvt Ltd,EIJJX5180M,"plot 704, okhla ind est, mumbai, mh",9813310340
+EPF-442867,Tech Enterprises LLP,VEVTV0258R,"Plot 11, MIDC, Chennai, TN",9433718760
+EPF-596500,Prime Solutions Limited,YOFID1454Y,"Plot 952, Peenya, Pune, MH",9729374772
+EPF-270516,Metro nEterprises Pvt Ltd,JMHRV7621O,"Plot 959, MIDC, Ahmedabad, GJ",9313869011
+EPF-36202,Metro Logistics Limited,VAZJZ2289K,"plot 249, gidc, ahmedabad, gj",9475362856
+EPF-353677,Om Vnetures LLP,EOSND0914S,"Plot 207, Phase 1, Electronic City, Chennai, TN",9661158169
+EPF-91626,Sunrsie Fabrication LLP,XEKIX3085Y,"plot 134, midc, ahmedabad, gj",9575250786
+EPF-566191,Shree Solutions LLP,QBRWP6758D,"plot 955, peenya, delhi, dl",9476191867
+EPF-642933,Acme Traders LLP,JXLJS3433H,"plot 509, hitec city, bengaluru, ka",9520926135
+EPF-922177,Shree Enterprises LLP,UQJWX0938E,"gala no. 37, shady complex, pune, mh",800945184
+EPF-460849,Apex Ventures Pvt Ltd,DWLPO8032U,"Plot 340, Hitec City, Chennai, TN",9812032961
+EPF-359302,Shree Technloogies LLP,FXRWG7187C,"Plot 813, MIDC, Hyderabad, TS",9876307976
+EPF-397037,Stellar Fabrication Liimted,DEGFI6496F,"Plot 432, Hitec City, Hyderabad, TS",9347107426
+EPF-351442,Global oLgistics LLP,KSRQR4063I,"plot 176, gidc, hyderabad, ts",9552610956
+EPF-662807,Acme Tradres Limited,MSEUC2482B,"plot 665, peenya, mumbai, mh",9934800337
+EPF-772364,Prime Indutsries Pvt Ltd,FSRYX5584R,"plot 716, okhla ind est, pune, mh",9116504237
+EPF-899207,Apex CorpL imited,HPGOD8097A,"plot 752, okhla ind est, chennai, tn",9121876997
+EPF-738867,TechL ogistics Pvt Ltd,FQKSF5965A,"Plot 360, MIDC, Hyderabad, TS",9723987160
+EPF-838892,Stellar Techonlogies Limited,NHCAU9569M,"Plot 702, Guindy, Bengaluru, KA",9299069388
+EPF-862105,Gloabl Ventures Pvt Ltd,DWAOV5562V,"plot 881, hitec city, chennai, tn",9216027913
+EPF-642716,Metro Ventures LLP,OOYEE0621B,"plot 299, peenya, delhi, dl",9981683754
+EPF-538399,Stellar Enterprises Limited,NNCQR3305O,"plot 548, hitec city, ahmedabad, gj",9722589233
+EPF-588000,Metro Industries LLP,RBBNM6697E,"plot 369, guindy, hyderabad, ts",9530003678
+EPF-261763,Om Corp Pvt Ldt,CXFYE7466F,"Plot 23, GIDC, Hyderabad, TS",9872960399
+EPF-219942,BalajiL ogistics Limited,YOATR1091Q,"Plot 520, Okhla Ind Estate, Bengaluru, KA",9257931482
+EPF-313548,Apex SolutionsL LP,RLRHH3286T,"plot 743, midc, mumbai, mh",9407840846
+EPF-802949,Shere Fabrication Limited,FQOUA4461G,"Plot 76, GIDC, Bengaluru, KA",9368580198
+EPF-662867,Prime Logistics Limited,YHDRO8253H,"Plot 64, Peenya, Bengaluru, KA",9381961709
+EPF-172814,Dynamic Ventures LLP,ZBUDY4840V,"Plot 494, Okhla Ind Estate, Ahmedabad, GJ",9519511213
+EPF-563493,Tech Solutions Pvt tLd,REISB1499K,"plot 943, ph 1, electronic city, bengaluru, ka",9186331002
+EPF-296038,Tech Ventuers LLP,EEXHY1913W,"Plot 510, Guindy, Mumbai, MH",9273800307
+EPF-694874,Prime Ventures Pvt Ltd,OPYRC6385V,"plot 798, okhla ind est, ahmedabad, gj",9547656464
+EPF-861000,Om Corp Ptv Ltd,TFQAY8075B,"Plot 677, MIDC, Bengaluru, KA",9894391657
+EPF-69294,Metro Techonlogies Limited,KAPZX7079R,"plot 772, guindy, pune, mh",9206504855
+EPF-994652,Pioneer Logistics Pvt Ltd,DGPQE5819K,"Plot 901, Phase 1, Electronic City, Ahmedabad, GJ",9243590479
+EPF-156643,Acme Fabrication LLP,ECGJK1714D,"plot 41, okhla ind est, pune, mh",9824907812
+EPF-426145,Balaji Technologies Pvt Ltd,LKDVS7402D,"Plot 336, Guindy, Ahmedabad, GJ",9140623911
+EPF-657880,Balaji Logistic sLimited,BHDEB0917Q,"plot 394, gidc, mumbai, mh",9724644897
+EPF-507172,Om Technologies Pvt Ltd,LANHQ1276R,"plot 8, hitec city, pune, mh",9217439930
+EPF-569403,Metro Solutions Limited,EKOJL0178L,"Plot 440, Peenya, Hyderabad, TS",9259708173
+EPF-29012,Om Fabrication Liimted,RBJKZ2747X,"plot 667, okhla ind est, chennai, tn",9972790813
+EPF-752409,Tech Enterprises Pvt Ltd,UEHDZ8833L,"Plot 753, Guindy, Pune, MH",9627495222
+EPF-446738,Apex Enterprises vPt Ltd,KZJPK2299G,"Gala No. 40, Shady Complex, Hyderabad, TS",800918438
+EPF-446833,Balaji Logisitcs LLP,CORUJ0788K,"Plot 17, MIDC, Pune, MH",9849885350
+EPF-714958,Stellar Fabrication LLP,EVCFK2310J,"plot 451, okhla ind est, bengaluru, ka",9687065022
+EPF-382237,Shree Ventuers Limited,RTGFM5209D,"plot 888, midc, delhi, dl",9226778347
+EPF-228945,Shree Industries Pvt Ltd,AKXMW0449B,"Plot 851, Hitec City, Hyderabad, TS",9955376031
+EPF-512958,Metro Enterprises LLP,UMCOR0870L,"gala no. 1, shady complex, delhi, dl",800805319
+EPF-579690,Acem Traders LLP,LMZFZ3895V,"plot 635, hitec city, bengaluru, ka",9195981642
+EPF-43085,Global Solutions Pvt Ltd,VGAKN0361G,"Plot 885, Hitec City, Hyderabad, TS",9934063661
+EPF-354010,Acme Fabrication Limited,JBLAR8429Q,"Plot 847, Okhla Ind Estate, Hyderabad, TS",9905472810
+EPF-288911,Dynmaic Corp Pvt Ltd,XNCAA6812V,"Plot 468, Hitec City, Pune, MH",9121377832
+EPF-679322,Shree Ventures LLP,MMXWG4860U,"plot 133, gidc, ahmedabad, gj",9189227196
+EPF-457069,Prime Ventures Pvt Ltd,DGDSP4595X,"plot 98, midc, chennai, tn",9548852802
+EPF-512332,Balaji Enterprises LLP,ANLDD4797G,"plot 429, ph 1, electronic city, chennai, tn",9312402893
+EPF-923869,Global Fabrication LLP,IXPMY8383J,"Plot 804, Hitec City, Mumbai, MH",9315509269
+EPF-382392,Metro Solutions Pvt Ltd,OTAYS2099J,"plot 911, midc, ahmedabad, gj",9911283567
+EPF-669641,Sunrise Solutions LLP,FTCMB6236X,"plot 58, okhla ind est, pune, mh",9766236075
+EPF-992130,Shree Fabrication Pvt Ltd,XEKHR0288C,"plot 261, hitec city, delhi, dl",9428975846
+EPF-716347,Balaji Fabricaiton Limited,ABOMV6130R,"Plot 82, Peenya, Ahmedabad, GJ",9598382655
+EPF-217778,Metro Solutoins LLP,QZZTK1749O,"plot 294, guindy, chennai, tn",9626719576
+EPF-932739,O mIndustries Limited,RLHQY3326F,"Plot 872, Guindy, Pune, MH",9245988588
+EPF-530827,Acme Corp PvtL td,YQQCY7849X,"Plot 572, GIDC, Ahmedabad, GJ",9410611337
+EPF-39534,Balaji Venture sLLP,ZAWDK0910Z,"plot 361, hitec city, bengaluru, ka",9274568443
+EPF-402997,Om Trdaers LLP,YMZDV9890N,"Gala No. 5, Shady Complex, Pune, MH",800207285
+EPF-325478,Dynamic Traders LLP,BKXEP6891B,"Plot 526, Hitec City, Bengaluru, KA",9272311141
+EPF-66305,Apex Traders LLP,LRWAN5252U,"plot 208, ph 1, electronic city, mumbai, mh",9184176420
+EPF-12119,Metro Industries Limited,UHFTD0202G,"gala no. 65, shady complex, ahmedabad, gj",800868010
+EPF-579261,Pioneer Traders Limited,XVFEY3694J,"Plot 520, MIDC, Hyderabad, TS",9972822968
+EPF-235295,Dnyamic Corp LLP,TGJWY8621T,"Plot 36, GIDC, Hyderabad, TS",9563163277
+EPF-928046,Om Technloogies Pvt Ltd,NHGNE0991N,"Plot 33, MIDC, Mumbai, MH",9202134524
+EPF-962498,Tech Solutions Pv tLtd,JZNGL9071N,"plot 203, gidc, ahmedabad, gj",9817995032
+EPF-511124,Sunrise Industries Pv tLtd,RJRAI3161F,"plot 61, gidc, mumbai, mh",9182444528
+EPF-99105,Om Logistics Pvt tLd,XOOEE2092P,"plot 865, hitec city, delhi, dl",9439370265
+EPF-331801,BalajiF abrication Limited,NCRRC9997Y,"plot 923, gidc, ahmedabad, gj",9555135979
+EPF-850375,Shree Vetnures Pvt Ltd,ECCUN2048K,"plot 541, midc, mumbai, mh",9115320167
+EPF-568349,Dynmaic Corp LLP,VIGAH2462O,"plot 395, peenya, chennai, tn",9868230610
+EPF-415282,Apex Corp Pvt Ltd,AGOPH1127G,"plot 164, gidc, delhi, dl",9818046255
+EPF-162898,Srhee Ventures Pvt Ltd,EVWHX8288Z,"plot 697, guindy, ahmedabad, gj",9452685225
+EPF-741883,Dyanmic Corp Pvt Ltd,ZDPNA6645N,"Plot 144, Phase 1, Electronic City, Ahmedabad, GJ",9867866616
+EPF-287599,Acme Logistics Pvt Ltd,EQMRU6907N,"Plot 975, GIDC, Bengaluru, KA",9481223536
+EPF-134703,Tceh Ventures Limited,CGPHM5200Q,"Plot 2, Phase 1, Electronic City, Pune, MH",9151955342
+EPF-46588,Sunries Fabrication Limited,GEFJO5852B,"Plot 625, MIDC, Ahmedabad, GJ",9131829515
+EPF-716765,Sunrise Fabricatoin LLP,EJOBX8421G,"Plot 168, GIDC, Bengaluru, KA",9592069949
+EPF-874556,Global Enterprises Limited,GUWJR1622S,"plot 738, gidc, mumbai, mh",9374222267
+EPF-677921,Apex Industries LLP,ZQWZS6809L,"plot 277, guindy, pune, mh",9959100263
+EPF-395246,Tech Logistics LLP,PCOKE8401E,"plot 110, ph 1, electronic city, mumbai, mh",9289966850
+EPF-45289,Sunrise Enterprises LLP,GTXAS4180B,"Plot 852, Hitec City, Bengaluru, KA",9300395879
+EPF-458286,Acm eEnterprises Pvt Ltd,CTPIY4292R,"Plot 320, Guindy, Delhi, DL",9802837965
+EPF-504246,Balaji Technologies Pvt Ltd,UEUJK8938P,"plot 436, ph 1, electronic city, pune, mh",9736361318
+EPF-293176,Sunris eVentures Pvt Ltd,YISYU5143Y,"plot 960, guindy, hyderabad, ts",9562766996
+EPF-96684,Metro Fabircation LLP,RDYSU5366F,"plot 735, okhla ind est, hyderabad, ts",9446271425
+EPF-830380,Balaji Enterprises Limited,BBFWT5111O,"plot 491, gidc, delhi, dl",9414187281
+EPF-314405,Pioneer Ventures Limietd,OACKF4197I,"plot 713, okhla ind est, hyderabad, ts",9342941149
+EPF-660550,Metro Solutions Limtied,CCOEI3554P,"plot 989, peenya, bengaluru, ka",9266964041
+EPF-145458,Global Venture sLimited,YVVAF6943R,"Plot 607, Hitec City, Bengaluru, KA",9854750266
+EPF-660803,Prmie Corp Limited,MTKDK0429T,"Plot 430, Okhla Ind Estate, Ahmedabad, GJ",9925843097
+EPF-567381,Global Technologies Pvt Ltd,VQOGH5281X,"gala no. 52, shady complex, delhi, dl",800916320
+EPF-406625,Dynamic Ventures Limited,XBDFH7745O,"Plot 260, MIDC, Ahmedabad, GJ",9540089647
+EPF-863721,Stella rIndustries LLP,BHQRQ0838O,"Plot 297, Guindy, Bengaluru, KA",9935971022
+EPF-169259,Pioneer Logistics LLP,AFWUA9214H,"Plot 919, Peenya, Hyderabad, TS",9881353409
+EPF-269547,Acme Industries Pvt Ltd,IOJBF7869U,"Plot 869, Peenya, Chennai, TN",9676459192
+EPF-14757,Balaji Technologies Pvt Ltd,GXOBS6301C,"plot 763, peenya, ahmedabad, gj",9244258166
+EPF-671519,Sunirse Corp LLP,QNDAR1926T,"plot 540, ph 1, electronic city, ahmedabad, gj",9850726289
+EPF-834325,Metro Ventrues Pvt Ltd,ZTYEW1530R,"Plot 719, MIDC, Ahmedabad, GJ",9638192575
+EPF-120445,Pioneer Industries Limited,PRZDI3896U,"Plot 139, Phase 1, Electronic City, Hyderabad, TS",9404273005
+EPF-377644,Pioneer Logistics Lmiited,ZOGHK7544A,"plot 152, peenya, ahmedabad, gj",9273229930
+EPF-81840,Acme Ventures LLP,EHCIX3300V,"Gala No. 57, Shady Complex, Mumbai, MH",800413627
+EPF-862489,Om Technoloiges Pvt Ltd,ADJBI1159J,"Plot 487, MIDC, Chennai, TN",9618611569

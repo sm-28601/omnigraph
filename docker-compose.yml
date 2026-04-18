@@ -4,9 +4,9 @@ services:
     container_name: omnigraph-postgres
     restart: unless-stopped
     environment:
-      POSTGRES_USER: omnigraph
-      POSTGRES_PASSWORD: omnigraph
-      POSTGRES_DB: omnigraph
+      POSTGRES_USER: ${POSTGRES_USER:-omnigraph}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-omnigraph}
+      POSTGRES_DB: ${POSTGRES_DB:-omnigraph}
     ports:
       - "5432:5432"
     volumes:
@@ -17,7 +17,7 @@ services:
     container_name: omnigraph-neo4j
     restart: unless-stopped
     environment:
-      NEO4J_AUTH: neo4j/omnigraph123
+      NEO4J_AUTH: ${NEO4J_USER:-neo4j}/${NEO4J_PASSWORD:-omnigraph123}
       NEO4J_PLUGINS: '["apoc","graph-data-science"]'
       NEO4J_dbms_security_procedures_unrestricted: apoc.*
       NEO4J_dbms_security_procedures_allowlist: apoc.*

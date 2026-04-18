@@ -10,6 +10,7 @@ from llm_fallback import resolve_with_llm
 
 ROOT = Path(__file__).resolve().parents[2]
 RAW_DIR = ROOT / "data" / "raw"
+DEPARTMENTS_DIR = RAW_DIR / "40_departments"
 OUT_DIR = ROOT / "data" / "processed"
 
 
@@ -19,7 +20,49 @@ def norm(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def load_sources() -> pd.DataFrame:
+def extract_city_state(address: str) -> tuple[str, str]:
+    parts = [p.strip() for p in str(address or "").split(",") if p.strip()]
+    if len(parts) >= 2:
+        return parts[-2], parts[-1]
+    return "Unknown", "Unknown"
+
+
+def load_departments_sources() -> pd.DataFrame:
+    csv_files = sorted(DEPARTMENTS_DIR.glob("*_data.csv"))
+    frames = []
+
+    for csv_file in csv_files:
+        src = csv_file.stem.replace("_data", "").upper()
+        df = pd.read_csv(csv_file, dtype=str).fillna("")
+        frame = pd.DataFrame(
+            {
+                "source": src,
+                "record_id": df.get("DeptID", pd.Series([""] * len(df))),
+                "name": df.get("EntityName", pd.Series([""] * len(df))),
+                "pan": df.get("PAN", pd.Series([""] * len(df))).str.upper(),
+                "address": df.get("RegisteredAddress", pd.Series([""] * len(df))),
+                "strong_id": df.get("DeptID", pd.Series([""] * len(df))).str.upper(),
+            }
+        )
+        city_state = frame["address"].map(extract_city_state)
+        frame["city"] = city_state.map(lambda c: c[0])
+        frame["state"] = city_state.map(lambda c: c[1])
+        frame["pincode"] = ""
+        frames.append(frame)
+
+    if not frames:
+        return pd.DataFrame()
+
+    df = pd.concat(frames, ignore_index=True)
+    df["name_norm"] = df["name"].map(norm)
+    df["address_norm"] = df["address"].map(norm)
+    df["tier"] = "UNRESOLVED"
+    df["confidence"] = 0.0
+    df["decision_reason"] = "Not evaluated"
+    return df
+
+
+def load_legacy_sources() -> pd.DataFrame:
     gst = pd.read_csv(RAW_DIR / "gst_records.csv", dtype=str).fillna("")
     labour = pd.read_csv(RAW_DIR / "labour_records.csv", dtype=str).fillna("")
     pol = pd.read_csv(RAW_DIR / "pollution_records.csv", dtype=str).fillna("")
@@ -84,15 +127,29 @@ def load_sources() -> pd.DataFrame:
     df["address_norm"] = df["address"].map(norm)
     df["tier"] = "UNRESOLVED"
     df["confidence"] = 0.0
+    df["decision_reason"] = "Not evaluated"
     return df
 
 
+def load_sources() -> pd.DataFrame:
+    if DEPARTMENTS_DIR.exists() and any(DEPARTMENTS_DIR.glob("*_data.csv")):
+        return load_departments_sources()
+    return load_legacy_sources()
+
+
 def tier1_pan_resolution(df: pd.DataFrame) -> pd.DataFrame:
-    pans = df[["pan"]].drop_duplicates().sort_values("pan").reset_index(drop=True)
+    pans = (
+        df[df["pan"].astype(str).str.strip() != ""]["pan"]
+        .drop_duplicates()
+        .sort_values()
+        .reset_index(drop=True)
+        .to_frame()
+    )
     pans["entity_id"] = pans.index.map(lambda x: f"ENT-{x+1:04d}")
     out = df.merge(pans, on="pan", how="left")
-    out["tier"] = "TIER1_DETERMINISTIC"
-    out["confidence"] = 1.0
+    out.loc[out["entity_id"].notna(), "tier"] = "TIER1_DETERMINISTIC"
+    out.loc[out["entity_id"].notna(), "confidence"] = 1.0
+    out.loc[out["entity_id"].notna(), "decision_reason"] = "Exact PAN match"
     return out
 
 
@@ -104,6 +161,30 @@ def tier2_fuzzy_enrichment(df: pd.DataFrame) -> pd.DataFrame:
         return df
 
     resolved = df[df["entity_id"].notna()].copy()
+
+    # For large generated datasets, avoid expensive pairwise fuzzy + LLM fallback.
+    if len(df) > 2000:
+        lookup = (
+            resolved.assign(_key=resolved["name_norm"].str.cat(resolved["address_norm"], sep="|"))
+            .drop_duplicates("_key")
+            .set_index("_key")["entity_id"]
+            .to_dict()
+        )
+
+        for idx, row in unresolved.iterrows():
+            key = f"{row['name_norm']}|{row['address_norm']}"
+            matched = lookup.get(key)
+            if matched:
+                df.loc[idx, "entity_id"] = matched
+                df.loc[idx, "tier"] = "TIER2_EXACT"
+                df.loc[idx, "confidence"] = 0.9
+                df.loc[idx, "decision_reason"] = "Exact normalized name+address match"
+            else:
+                df.loc[idx, "tier"] = "TIER3_REVIEW_REQUIRED"
+                df.loc[idx, "confidence"] = 0.0
+                df.loc[idx, "decision_reason"] = "No exact candidate in large-dataset fast path"
+        return df
+
     for idx, row in unresolved.iterrows():
         candidates = resolved[
             (resolved["city"].str.lower() == str(row["city"]).lower())
@@ -122,6 +203,7 @@ def tier2_fuzzy_enrichment(df: pd.DataFrame) -> pd.DataFrame:
             df.loc[idx, "entity_id"] = best_entity
             df.loc[idx, "tier"] = "TIER2_FUZZY"
             df.loc[idx, "confidence"] = round(best_score / 100, 2)
+            df.loc[idx, "decision_reason"] = f"Fuzzy match score={round(best_score, 2)}"
         else:
             llm_candidates = [
                 {
@@ -139,16 +221,31 @@ def tier2_fuzzy_enrichment(df: pd.DataFrame) -> pd.DataFrame:
                 df.loc[idx, "entity_id"] = chosen_entity
                 df.loc[idx, "tier"] = "TIER3_LLM_FALLBACK"
                 df.loc[idx, "confidence"] = llm_conf
+                df.loc[idx, "decision_reason"] = "LLM fallback selected candidate"
             else:
                 df.loc[idx, "tier"] = "TIER3_REVIEW_REQUIRED"
                 df.loc[idx, "confidence"] = round(best_score / 100, 2)
+                df.loc[idx, "decision_reason"] = f"No candidate above threshold; best_score={round(best_score, 2)}"
     return df
 
 
 def export_outputs(df: pd.DataFrame) -> None:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     mapping = df[
-        ["source", "record_id", "entity_id", "tier", "confidence", "pan", "name", "address", "city", "state", "pincode"]
+        [
+            "source",
+            "record_id",
+            "entity_id",
+            "tier",
+            "confidence",
+            "decision_reason",
+            "pan",
+            "name",
+            "address",
+            "city",
+            "state",
+            "pincode",
+        ]
     ].copy()
     mapping.rename(columns={"record_id": "source_record_id"}, inplace=True)
     mapping.to_csv(OUT_DIR / "source_to_entity_mapping.csv", index=False)
@@ -163,6 +260,7 @@ def export_outputs(df: pd.DataFrame) -> None:
             pincode=("pincode", lambda s: s.mode().iloc[0]),
             source_system_count=("source", "nunique"),
             resolution_quality=("confidence", "mean"),
+            sample_decision_reason=("decision_reason", "first"),
         )
         .sort_values("entity_id")
     )
